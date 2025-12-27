@@ -1,0 +1,18 @@
+#this is a retail data
+productId,productName,stdCost,stdPrice,effDt,dt
+PURA100,"Pure Soft Detergent - ~"100ml~"", 1.50 , 3.00,2019-12-03 00:00:01,2019-12-01
+PURA200,"Pure Soft 
+Detergent 
+- 200ml", 2.00 , 3.99,2019-03-01 00:00:01,2019-01-01
+PURA250,"Pure Soft Detergent - 250ml", 2.30 , 4.50,2019-03-01 00:00:01,2019-01-01
+PURA500,"Pure Soft Detergent - 500ml", 3.50 , 6.50,2019-03-02 00:00:01,2019-01-01
+DETA100,"Detafast Stain Remover - 100ml", 3.00 , 6.00,2019-03-01 00:00:01,2019-01-01
+DETA200,"Detafast Stain Remover - 200ml", 3.50 , 6.50,2019-03-03 00:00:01,2019-01-01
+DETA800,na, 6.00 ,-1,2019-03-04 00:00:01,2019-01-01
+SUPA101,"Super Soft - Product Sample", 0.30 ,0,2019-03-06 00:00:01,2019-01-01
+SUPA102,"Super Soft - 250ml ", 2.50 , 4.50,2019-03-01 00:00:01,2019-01-01
+SUPA103,, 3.50 , 6.99 ,2019-04-01 00:00:01,2019-01-01
+,"Super Soft - 1 Litre", 5.00 , 9.99,2019-04-02 00:00:01,2019-04-20,2019-01-01
+ SUPA105 , "Super Soft Bulk - 2 Litres"   , 8.00 , 14.50,2019-04-03 00:00:01,2019-01-01
+Deta10,"Pure Soft Detergent - ~"100ml~"", 1.50 ,3.00,2019-12-03 00:00:01,2019-12-01
+#end of data

@@ -1,0 +1,11 @@
+#This is a sample malformed data, provided by the source at times, not always
+1,irfan,20.3,2025-12-18
+2,vasu,30.33,2025-18-12
+3,gogula,40.33,2025-19-12
+#less than the expected column numbers, hence malformed
+4,vaanmath,50.22
+#more than the expected column numbers, hence malformed
+5,vini,50.22,2025-20-12,chennai
+#data type is not as expected, hence malformed
+6,sarubala,hundred dollars,2025-20-12,chennai
+#end of data

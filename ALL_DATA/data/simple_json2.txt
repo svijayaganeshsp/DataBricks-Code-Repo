@@ -1,0 +1,2 @@
+/*this is a comment*/
+{"id":1,"name":"irfan","amt":20.3,"dop":"2025-18-12"}~{"id":2,"name":"vasu","amt":30.33,"dop":"2025-19-12"}~{id:3,"name":"azar","amt":40.33,"dop":"2025-19-12"}~{"id":3,'name':"sooriya","amt":40.33,"dop":"2025-19-12"}

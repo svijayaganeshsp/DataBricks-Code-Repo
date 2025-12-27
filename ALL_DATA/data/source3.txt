@@ -1,0 +1,3 @@
+id,name,amt,marital
+5,XYZ,20.3,Married
+6,ABC,30.33,UnMarried

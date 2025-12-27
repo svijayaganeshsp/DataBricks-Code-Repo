@@ -1,0 +1,3 @@
+id,name,prof,amt,city
+3,Janakiram,IT,20.3,Mumbai
+4,Divya,IT,30.33,Hyderabad

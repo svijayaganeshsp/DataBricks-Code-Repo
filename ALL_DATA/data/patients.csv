@@ -1,0 +1,2500 @@
+patientid,gender,SeniorCitizen,Married,Dependents,drugid,InPatient,Multipleillness,PaymentMethod,DrugCharges,TotalCharges
+7010-BRBUU,Male,0,Yes,Yes,206473,Yes,Yes,Credit card (automatic),24.1,1734.65
+9688-YGXVR,Female,0,No,No,159672,Yes,No,Credit card (automatic),88.15,3973.2
+9286-DOJGF,Female,1,Yes,No,39293,Yes,Yes,Bank transfer (automatic),74.95,2869.85
+6994-KERXL,Male,0,No,No,97768,Yes,No,Electronic check,55.9,238.5
+2181-UAESM,Male,0,No,No,208087,Yes,No,Electronic check,53.45,119.5
+4312-GVYNH,Female,0,Yes,No,215892,No,No phone service,Bank transfer (automatic),49.85,3370.2
+2495-KZNFB,Female,0,No,No,169852,Yes,Yes,Electronic check,90.65,2989.6
+4367-NHWMM,Female,0,No,No,23295,No,No phone service,Mailed check,24.9,24.9
+8898-KASCD,Male,0,No,No,71428,No,No phone service,Mailed check,35.55,1309.15
+8016-NCFVO,Male,1,No,No,196802,Yes,Yes,Electronic check,116.5,6382.55
+4578-PHJYZ,Male,0,Yes,Yes,31947,Yes,No,Electronic check,68.75,3482.85
+2091-MJTFX,Female,0,Yes,Yes,4907,No,No phone service,Credit card (automatic),51.2,1561.5
+2277-DJJDL,Male,1,Yes,No,66736,Yes,Yes,Electronic check,99,6017.9
+2511-MORQY,Male,0,Yes,Yes,97013,Yes,Yes,Bank transfer (automatic),54.9,2614.1
+2731-GJRDG,Female,0,No,No,213376,Yes,Yes,Bank transfer (automatic),109.55,3608
+1784-EZDKJ,Male,0,Yes,No,151674,Yes,Yes,Bank transfer (automatic),106.8,5498.8
+2468-SJFLM,Male,0,No,No,33173,Yes,No,Mailed check,74.3,74.3
+5115-SQAAU,Female,0,Yes,Yes,30401,Yes,Yes,Bank transfer (automatic),25.6,1673.4
+8708-XPXHZ,Female,0,Yes,Yes,152490,Yes,Yes,Electronic check,94.2,4186.3
+0601-WZHJF,Male,0,Yes,No,231397,No,No phone service,Electronic check,46.35,667.7
+0463-TXOAK,Male,0,No,Yes,38116,Yes,Yes,Credit card (automatic),25.6,1334.5
+4683-WYDOU,Male,0,Yes,No,102969,Yes,Yes,Bank transfer (automatic),107.6,6912.7
+1166-PQLGG,Female,0,Yes,Yes,12626,Yes,No,Bank transfer (automatic),19.55,1463.45
+0963-ZBDRN,Male,0,No,No,190527,Yes,No,Electronic check,96.2,3183.4
+4871-JTKJF,Female,1,No,No,229975,Yes,No,Electronic check,69.65,69.65
+7173-TETGO,Female,1,Yes,No,173391,Yes,Yes,Bank transfer (automatic),78.5,5602.25
+4193-ORFCL,Female,1,No,No,35608,Yes,No,Mailed check,45.1,45.1
+2692-PFYTJ,Female,0,No,No,187230,Yes,Yes,Mailed check,25.75,25.75
+2369-UAPKZ,Male,0,No,No,211675,Yes,Yes,Mailed check,104.1,541.9
+5193-QLVZB,Male,0,No,No,79865,Yes,Yes,Bank transfer (automatic),104.75,6536.5
+0379-DJQHR,Male,0,Yes,Yes,27607,Yes,No,Credit card (automatic),81.35,5398.6
+4657-FWVFY,Female,0,Yes,Yes,207923,Yes,Yes,Credit card (automatic),96.35,3915.4
+0623-EJQEG,Male,0,No,No,156919,Yes,Yes,Electronic check,93.55,6069.25
+1699-TLDLZ,Female,0,Yes,Yes,77164,Yes,No,Mailed check,19.7,301.55
+4501-UYKBC,Female,1,No,No,101149,Yes,Yes,Credit card (automatic),69.1,3255.35
+8158-WPEZG,Male,0,No,No,178004,No,No phone service,Electronic check,35.65,425.1
+9732-EQMWY,Female,0,Yes,No,60341,Yes,No,Electronic check,99.4,5025
+1099-BTKWT,Female,0,Yes,No,141462,No,No phone service,Electronic check,54.4,3723.65
+4815-TUMEQ,Female,0,No,No,133539,Yes,No,Mailed check,19.3,185.2
+6407-UTSLV,Female,1,No,No,191095,Yes,No,Bank transfer (automatic),83.8,163.7
+0018-NYROU,Female,0,Yes,No,50229,Yes,No,Electronic check,68.95,351.5
+4632-XJMEX,Male,0,No,Yes,130301,Yes,No,Credit card (automatic),62.85,3419.5
+1409-PHXTF,Male,1,Yes,No,101371,Yes,Yes,Electronic check,110.45,6077.75
+8229-TNIQA,Female,0,No,No,79569,Yes,No,Mailed check,45.3,196.95
+0529-ONKER,Male,1,No,No,17957,Yes,Yes,Electronic check,75.65,1146.65
+3675-YDUPJ,Male,0,No,No,219567,Yes,No,Mailed check,19.85,193.05
+4484-CGXFK,Female,0,No,No,171525,Yes,No,Electronic check,55.3,196.15
+4443-EMBNA,Female,0,Yes,No,173027,Yes,Yes,Bank transfer (automatic),24.75,1836.9
+4280-DLSHD,Male,0,Yes,No,202002,Yes,No,Mailed check,54.75,445.85
+9300-AGZNL,Male,1,No,No,143003,Yes,Yes,Electronic check,94,94
+2789-CZANW,Female,0,Yes,Yes,31908,Yes,Yes,Bank transfer (automatic),110.3,6997.3
+8464-EETCQ,Male,0,No,No,3350,Yes,No,Credit card (automatic),18.8,1094.35
+7216-EWTRS,Female,1,Yes,No,226299,Yes,Yes,Electronic check,100.8,100.8
+4468-KAZHE,Female,1,Yes,No,190325,Yes,No,Electronic check,60,1259.35
+8623-ULFNQ,Female,1,No,No,146651,Yes,Yes,Electronic check,66.05,1652.4
+9317-WZPGV,Female,1,No,No,25240,Yes,No,Bank transfer (automatic),79.75,159.4
+8947-YRTDV,Male,0,Yes,Yes,5357,Yes,No,Mailed check,94.8,3131.55
+1814-DKOLC,Female,0,No,No,13407,Yes,Yes,Mailed check,25.45,134.75
+8071-SBTRN,Female,0,No,No,46742,Yes,Yes,Mailed check,111.15,7737.55
+4701-MLJPN,Male,0,No,No,11464,Yes,No,Electronic check,55.25,1715.65
+1205-WNWPJ,Female,0,No,No,124544,Yes,No,Mailed check,59.5,415.95
+6158-HDPXZ,Male,0,No,No,229996,No,No phone service,Mailed check,25.35,25.35
+6683-VLCTZ,Male,1,No,No,131523,Yes,Yes,Electronic check,98.55,1842.8
+3727-OWVYD,Male,0,No,No,209386,Yes,No,Mailed check,61.2,2021.2
+0856-NAOES,Male,0,No,No,229572,Yes,No,Mailed check,60.9,414.1
+0562-FGDCR,Female,0,Yes,Yes,105440,Yes,Yes,Mailed check,74.55,5430.65
+0956-SYCWG,Female,0,No,No,201582,Yes,No,Electronic check,19.65,244.8
+2277-VWCNI,Female,1,No,No,158346,Yes,Yes,Mailed check,48.75,179.85
+3498-LZGQZ,Male,0,Yes,Yes,159659,Yes,No,Mailed check,19.15,1177.05
+9135-MGVPY,Male,0,Yes,No,15423,Yes,No,Mailed check,84.7,5878.9
+3815-SLMEF,Female,0,No,No,95748,No,No phone service,Mailed check,34.25,139.35
+4513-CXYIX,Female,1,Yes,No,6971,Yes,Yes,Credit card (automatic),80.7,5676
+8944-AILEF,Male,0,Yes,No,131683,Yes,No,Credit card (automatic),19.45,340.85
+1270-XKUCC,Female,0,Yes,Yes,188604,Yes,No,Mailed check,19.7,599.25
+6633-SYEUS,Female,0,No,No,19559,Yes,No,Bank transfer (automatic),83.2,2032.3
+8075-GXIUB,Male,1,Yes,No,104580,Yes,No,Credit card (automatic),19.85,183.15
+6016-NXBNJ,Male,0,No,No,26989,Yes,No,Mailed check,19.15,638
+9332-GYWLO,Female,0,Yes,Yes,128575,Yes,No,Electronic check,54.85,355.1
+3276-HDUEG,Female,0,No,No,122089,Yes,Yes,Mailed check,75.05,75.05
+5884-FBCTL,Female,0,Yes,Yes,191146,Yes,Yes,Bank transfer (automatic),25.1,1857.85
+8999-YPYBV,Male,0,Yes,Yes,120889,Yes,No,Mailed check,84.35,3858.05
+1522-VVDMG,Male,0,Yes,Yes,167387,Yes,No,Electronic check,89.75,608.8
+0848-SOMKO,Male,0,No,No,204427,No,No phone service,Bank transfer (automatic),48.4,3442.8
+1657-DYMBM,Male,0,Yes,No,58200,Yes,No,Credit card (automatic),19.9,1110.05
+6923-EFPNL,Male,0,No,No,147575,Yes,Yes,Credit card (automatic),51.75,201.1
+2167-FQSTQ,Female,0,Yes,No,181913,Yes,Yes,Electronic check,92.4,6786.1
+9286-BHDQG,Male,0,Yes,Yes,177034,No,No phone service,Credit card (automatic),45.25,3139.8
+7225-CBZPL,Male,1,Yes,No,213569,Yes,Yes,Electronic check,94.8,1563.9
+5605-IYGFG,Female,0,No,No,138243,Yes,No,Bank transfer (automatic),69.85,515.45
+6861-OKBCE,Female,0,No,Yes,107660,Yes,No,Credit card (automatic),20.1,221.35
+7571-YXDAD,Female,0,No,No,34479,Yes,Yes,Credit card (automatic),74.9,147.15
+0254-FNMCI,Female,0,No,No,129438,Yes,No,Electronic check,109.9,7624.2
+8981-FJGLA,Male,0,No,Yes,102941,Yes,Yes,Mailed check,78,851.8
+8414-MYSHR,Male,1,No,No,167908,Yes,No,Electronic check,91.4,449.75
+9274-CNFMO,Male,1,Yes,No,56193,Yes,Yes,Electronic check,74.95,308.7
+3794-NFNCH,Male,0,Yes,No,159628,Yes,No,Mailed check,50,1474.9
+5158-RIVOP,Female,0,Yes,Yes,58280,Yes,No,Credit card (automatic),20.9,202.3
+1100-DDVRV,Male,0,Yes,No,38461,No,No phone service,Mailed check,49.8,836.35
+9522-BNTHX,Female,1,No,No,128928,No,No phone service,Electronic check,56.25,1765.95
+3677-IYRBF,Female,1,No,No,41991,No,No phone service,Electronic check,30.4,78.65
+7009-PCARS,Male,0,No,Yes,85618,Yes,No,Bank transfer (automatic),19.1,1001.5
+8250-ZNGGW,Female,1,No,No,62652,Yes,No,Credit card (automatic),59.9,287.85
+0967-BMLBD,Female,0,Yes,Yes,129850,Yes,No,Mailed check,20,196.35
+7594-RQHXR,Female,0,No,Yes,103401,Yes,No,Electronic check,79.6,79.6
+8966-SNIZF,Female,0,Yes,No,45260,Yes,No,Bank transfer (automatic),19.45,1303.5
+7235-NXZCP,Male,1,No,No,222701,Yes,Yes,Mailed check,74.85,156.4
+0122-OAHPZ,Female,0,No,No,218886,Yes,Yes,Electronic check,73.85,511.25
+7815-PDTHL,Male,0,No,No,224062,Yes,No,Mailed check,20.2,684.4
+8331-ZXFOE,Female,0,No,No,9723,Yes,Yes,Credit card (automatic),71.1,4299.2
+8901-UPRHR,Female,0,Yes,Yes,215685,Yes,Yes,Bank transfer (automatic),109.2,7711.45
+3563-SVYLG,Male,0,Yes,Yes,188968,Yes,No,Credit card (automatic),62.65,4375.8
+3205-MXZRA,Male,0,No,No,224823,Yes,No,Credit card (automatic),59.45,1507
+5392-AKEMH,Female,0,No,No,169168,Yes,No,Electronic check,45.05,523.1
+8201-AAXCB,Male,0,Yes,Yes,138742,Yes,Yes,Electronic check,60.35,1404.65
+6919-ELBGL,Male,1,Yes,Yes,81226,Yes,Yes,Bank transfer (automatic),114.95,8196.4
+0530-IJVDB,Male,0,No,Yes,215782,Yes,Yes,Electronic check,114.6,7882.5
+5047-LHVLY,Male,1,No,Yes,219697,Yes,No,Mailed check,50.15,50.15
+8404-FYDIB,Male,0,No,No,168177,Yes,Yes,Credit card (automatic),86.65,2208.75
+3415-TAILE,Female,0,Yes,Yes,21821,Yes,No,Mailed check,65.7,134.35
+2819-GWENI,Female,0,Yes,Yes,189728,Yes,No,Mailed check,19.9,543
+6164-HXUGH,Female,0,Yes,Yes,108899,Yes,No,Mailed check,19.85,119.3
+6762-QVYJO,Female,0,Yes,Yes,224904,No,No phone service,Mailed check,59.75,3624.35
+5046-NUHWD,Female,1,Yes,No,135063,No,No phone service,Electronic check,45,1228.65
+0106-GHRQR,Male,0,No,No,225258,Yes,Yes,Bank transfer (automatic),71.4,1212.1
+8374-XGEJJ,Male,1,Yes,No,6760,Yes,Yes,Electronic check,101,4388.4
+2546-KZAAT,Male,0,Yes,No,9695,Yes,No,Mailed check,75.4,3865.45
+7569-NMZYQ,Female,0,Yes,Yes,44179,Yes,Yes,Bank transfer (automatic),118.75,8672.45
+3279-DYZQM,Male,0,Yes,Yes,65334,Yes,No,Mailed check,19.45,1378.45
+0374-FIUCA,Male,0,Yes,No,225793,Yes,No,Credit card (automatic),20.4,1414.45
+3714-NTNFO,Female,0,No,No,201017,Yes,Yes,Electronic check,84.5,3906.7
+8705-DWKTI,Male,0,No,No,134836,Yes,No,Credit card (automatic),83.8,4331.4
+4195-SMMNX,Male,0,No,No,181313,Yes,No,Mailed check,20.35,33.2
+2599-CIPQE,Male,0,Yes,Yes,204311,Yes,No,Credit card (automatic),109.3,7782.85
+5136-GFPMB,Male,0,No,No,167965,Yes,Yes,Credit card (automatic),89.4,4869.5
+6476-YHMGA,Female,0,Yes,Yes,140925,Yes,No,Bank transfer (automatic),76.5,1155.6
+3055-MJDSB,Male,0,No,No,33560,No,No phone service,Mailed check,24.6,190.1
+7516-GMHUV,Male,1,Yes,No,81808,Yes,Yes,Credit card (automatic),105.05,5163.3
+5940-NFXKV,Male,0,Yes,Yes,223540,Yes,Yes,Electronic check,83.65,1465.75
+3597-YASZG,Female,1,Yes,No,15168,Yes,Yes,Bank transfer (automatic),104.45,7349.35
+3786-WOVKF,Female,1,Yes,No,72043,Yes,Yes,Bank transfer (automatic),106.85,7677.4
+2806-MLNTI,Male,1,Yes,No,53685,Yes,Yes,Bank transfer (automatic),105.1,5376.4
+0799-DDIHE,Female,0,Yes,Yes,204466,Yes,No,Electronic check,46.3,639.45
+9926-PJHDQ,Female,0,Yes,Yes,70808,Yes,Yes,Bank transfer (automatic),76.8,5468.45
+0334-GDDSO,Male,1,No,No,214538,Yes,Yes,Electronic check,81.35,233.7
+2371-KFUOG,Male,0,No,No,230576,Yes,No,Bank transfer (automatic),99.15,5720.95
+4634-JLRJT,Female,0,No,No,192374,Yes,No,Mailed check,20.35,20.35
+5886-VLQVU,Male,0,Yes,No,187095,Yes,Yes,Bank transfer (automatic),89.85,3161.2
+3194-ORPIK,Female,0,Yes,Yes,165665,Yes,Yes,Bank transfer (automatic),84.4,4116.15
+6048-NJXHX,Male,0,Yes,No,131772,Yes,No,Electronic check,19.75,899.45
+7860-KSUGX,Male,0,Yes,Yes,176098,Yes,Yes,Credit card (automatic),64.45,4720
+2925-MXLSX,Female,0,No,No,103111,Yes,Yes,Credit card (automatic),68.95,2038.7
+2933-FILNV,Female,0,Yes,Yes,214584,No,No phone service,Mailed check,24.4,36.55
+7758-XKCBS,Male,0,No,No,58995,No,No phone service,Electronic check,29.7,438.25
+2027-DNKIV,Male,0,Yes,Yes,201473,Yes,No,Mailed check,58.75,2203.1
+4751-ERMAN,Male,0,Yes,Yes,186353,Yes,No,Bank transfer (automatic),75.4,5480.25
+8224-KDLKN,Male,0,Yes,Yes,165767,Yes,Yes,Bank transfer (automatic),25,1738.9
+7929-SKFGK,Male,0,Yes,No,192633,Yes,Yes,Credit card (automatic),114.3,8244.3
+8329-IBCTI,Female,0,No,No,165109,Yes,No,Mailed check,19.65,19.65
+5016-IBERQ,Male,0,Yes,No,205428,Yes,Yes,Electronic check,84.25,1968.1
+5405-ZMYXQ,Female,0,No,No,229587,Yes,Yes,Credit card (automatic),74.6,548.9
+7841-TZDMQ,Male,0,No,No,31465,Yes,No,Credit card (automatic),46,84.5
+9754-CLVZW,Female,0,Yes,Yes,136044,No,No phone service,Credit card (automatic),38.85,1025.15
+9503-XJUME,Male,0,No,Yes,10545,Yes,No,Credit card (automatic),19.65,928.4
+3298-QEICA,Female,0,Yes,Yes,180154,No,No phone service,Mailed check,34.6,813.45
+9420-LOJKX,Female,0,No,No,53409,Yes,No,Credit card (automatic),99.1,1426.4
+3391-JSQEW,Male,0,Yes,No,37326,Yes,No,Mailed check,50.15,2058.5
+4939-KYYPY,Male,0,No,No,230601,Yes,Yes,Electronic check,59.45,1611.65
+2061-VVFST,Female,0,Yes,No,5486,Yes,No,Bank transfer (automatic),19.5,805.2
+6480-YAGIY,Male,0,No,No,64109,Yes,No,Credit card (automatic),112.2,5031.85
+0330-IVZHA,Female,0,Yes,No,70424,Yes,No,Electronic check,69.95,330.15
+7161-DFHUF,Female,0,Yes,No,66458,Yes,Yes,Mailed check,23.85,1672.1
+1260-TTRXI,Male,0,No,No,14420,Yes,No,Electronic check,54.3,195.3
+8577-QSOCG,Female,0,Yes,Yes,198057,Yes,No,Mailed check,20.2,746.05
+8963-JLGJT,Male,0,No,Yes,205505,Yes,No,Mailed check,55.9,157.55
+3266-FTKHB,Male,0,No,No,120460,Yes,No,Mailed check,19.15,343.45
+6122-LJADA,Male,0,Yes,Yes,221339,Yes,Yes,Credit card (automatic),90.15,6237.05
+8710-YGLWG,Male,0,No,No,171255,Yes,No,Mailed check,44.9,44.9
+6463-HHXJR,Female,0,Yes,Yes,195055,Yes,Yes,Bank transfer (automatic),100.5,7030.65
+9576-SYUHJ,Male,0,No,No,75416,Yes,Yes,Electronic check,91.15,3369.25
+9289-LBQVU,Male,0,Yes,No,179764,Yes,Yes,Mailed check,70.15,4480.7
+2207-QPJED,Female,1,Yes,No,210167,Yes,No,Electronic check,90,3371.75
+6990-YNRIO,Male,0,Yes,Yes,194809,Yes,Yes,Bank transfer (automatic),108.65,6937.95
+0489-WMEMG,Female,0,No,Yes,221626,Yes,No,Electronic check,49.45,1119.35
+2189-UXTKY,Female,0,Yes,No,145956,Yes,Yes,Electronic check,79.2,1742.75
+7105-MXJLL,Female,1,Yes,No,110030,Yes,No,Mailed check,60.7,1597.4
+7133-VBDCG,Female,0,No,No,135690,Yes,No,Bank transfer (automatic),79.85,2015.35
+9933-QRGTX,Female,0,Yes,No,115272,Yes,No,Electronic check,97.2,5611.75
+6356-ELRKD,Female,0,No,No,10485,Yes,No,Electronic check,95.6,95.6
+2194-IIQOF,Female,0,Yes,No,170238,Yes,Yes,Credit card (automatic),89.3,6388.65
+8063-GBATB,Female,1,No,No,113665,Yes,Yes,Electronic check,85.25,2287.25
+9611-CTWIH,Female,0,No,No,14924,Yes,No,Electronic check,89.45,240.45
+3571-DPYUH,Male,0,Yes,Yes,223117,Yes,Yes,Credit card (automatic),94.7,5430.35
+8519-QJGJD,Female,0,No,No,106073,Yes,No,Electronic check,75.35,1025.95
+5846-NEQVZ,Male,0,Yes,Yes,188723,Yes,No,Credit card (automatic),70.85,4973.4
+6022-KOUQO,Female,0,Yes,Yes,115374,No,No phone service,Bank transfer (automatic),29.05,44.75
+7205-BAIAD,Female,0,No,No,199475,Yes,No,Bank transfer (automatic),20.6,827.3
+9574-BOSMD,Male,0,Yes,Yes,66036,Yes,Yes,Bank transfer (automatic),25.4,1620.2
+4884-TVUQF,Female,1,No,No,179979,Yes,Yes,Credit card (automatic),101.3,5779.6
+6439-GTPCA,Female,0,No,No,16674,Yes,Yes,Electronic check,87.25,3941.7
+3795-CAWEX,Male,0,Yes,Yes,35120,Yes,Yes,Credit card (automatic),116.55,8152.3
+7821-DPRQE,Male,0,Yes,No,169001,Yes,Yes,Electronic check,107.7,7320.9
+4983-CLMLV,Female,0,Yes,No,157670,Yes,Yes,Credit card (automatic),102.7,5138.1
+2380-DAMQP,Female,0,Yes,No,225775,Yes,Yes,Electronic check,115.15,8349.7
+7534-BFESC,Male,1,No,No,68412,Yes,Yes,Electronic check,76.1,1712.7
+6695-FRVEC,Male,0,Yes,Yes,28898,Yes,No,Bank transfer (automatic),60.4,3953.7
+0361-HJRDX,Female,0,No,No,170146,No,No phone service,Credit card (automatic),64.35,4539.6
+0354-VXMJC,Male,0,Yes,Yes,57137,Yes,No,Credit card (automatic),19.6,426.65
+6559-ILWKJ,Male,0,Yes,No,173112,No,No phone service,Electronic check,49.35,3515.25
+9895-VFOXH,Female,0,No,No,224041,No,No phone service,Mailed check,24.4,24.4
+8229-BUJHX,Female,0,Yes,Yes,166983,Yes,No,Bank transfer (automatic),20.5,1500.95
+4476-OSWTN,Male,1,Yes,No,133232,Yes,Yes,Mailed check,110.55,7610.1
+2995-UPRYS,Female,1,Yes,No,1103,Yes,No,Credit card (automatic),99.2,4062.2
+9208-OLGAQ,Female,1,No,No,72195,Yes,No,Electronic check,84.95,1443.65
+4124-MMETB,Male,0,No,No,197824,Yes,Yes,Credit card (automatic),94.65,2104.55
+8882-TLVRW,Male,0,Yes,Yes,36268,No,No phone service,Mailed check,39.1,2779.5
+2957-JIRMN,Female,1,No,No,206605,Yes,Yes,Electronic check,84.45,4959.15
+3646-ITDGM,Female,0,No,No,165916,Yes,No,Bank transfer (automatic),19.7,1051.9
+2673-ZALNP,Female,0,No,No,227136,Yes,No,Mailed check,19.9,173.15
+9975-SKRNR,Male,0,No,No,32246,Yes,No,Mailed check,18.9,18.9
+3724-UCSHY,Male,0,Yes,Yes,80198,Yes,No,Mailed check,19.55,122.9
+0259-GBZSH,Male,0,No,No,115012,Yes,Yes,Electronic check,85.65,181.5
+7130-CTCUS,Male,1,Yes,No,159489,Yes,No,Bank transfer (automatic),54.55,825.1
+8150-QUDFX,Male,0,No,No,121298,Yes,No,Mailed check,19.85,51.6
+8218-FFJDS,Female,0,Yes,No,217603,Yes,Yes,Bank transfer (automatic),86.4,6058.95
+8259-NFJTV,Female,0,Yes,Yes,137706,No,No phone service,Mailed check,34.65,246.6
+7909-FIOIY,Female,0,Yes,Yes,15765,No,No phone service,Mailed check,24.85,434.8
+3317-VLGQT,Female,0,Yes,No,24509,Yes,No,Electronic check,78.1,1122.4
+2722-VOJQL,Male,0,No,No,107693,Yes,Yes,Credit card (automatic),105.65,6903.1
+0584-BJQGZ,Female,0,No,No,50635,Yes,Yes,Bank transfer (automatic),78.35,1837.9
+6732-VAILE,Male,0,Yes,Yes,33395,Yes,Yes,Credit card (automatic),85.95,5931.75
+1302-TPUBN,Male,0,No,No,133845,Yes,No,Bank transfer (automatic),19.35,1240.8
+8380-PEFPE,Male,0,No,Yes,4554,Yes,No,Electronic check,71.65,71.65
+7402-PWYJJ,Female,0,Yes,No,214067,Yes,Yes,Electronic check,91.15,4862.5
+4250-FDVOU,Female,0,No,No,188073,Yes,No,Electronic check,56.25,389.1
+9128-CPXKI,Female,0,No,No,118748,Yes,No,Electronic check,95.8,5655.45
+4183-WCSEP,Male,0,No,No,118795,Yes,No,Electronic check,78.45,2435.15
+0404-SWRVG,Male,0,No,No,168672,Yes,Yes,Electronic check,74.4,229.55
+6227-HWPWX,Female,0,No,Yes,24298,Yes,No,Bank transfer (automatic),69,994.8
+1899-VXWXM,Male,0,No,No,46619,Yes,Yes,Credit card (automatic),106.1,5082.8
+8450-JOVAH,Male,0,Yes,Yes,186587,Yes,Yes,Mailed check,56.7,113.55
+4550-VBOFE,Male,1,Yes,No,98320,Yes,Yes,Electronic check,102.95,7101.5
+9546-CQJSU,Female,0,No,No,156401,Yes,Yes,Electronic check,91.4,193.6
+4789-KWMXN,Male,0,Yes,No,195537,Yes,Yes,Credit card (automatic),110.85,5275.8
+0835-DUUIQ,Female,0,No,Yes,230361,Yes,No,Bank transfer (automatic),21.05,531.55
+1855-AGAWH,Male,0,Yes,No,106078,Yes,No,Electronic check,93.8,2939.8
+9079-YEXQJ,Female,0,No,No,104260,Yes,Yes,Electronic check,111.1,6014.85
+3577-AMVUX,Male,0,No,No,17953,Yes,No,Mailed check,55.05,55.05
+2316-ESMLS,Female,0,Yes,Yes,83706,No,No phone service,Credit card (automatic),33.15,444.75
+9426-SXNHE,Female,0,No,No,117213,Yes,No,Bank transfer (automatic),18.75,53.15
+8550-XSXUQ,Male,0,Yes,No,29210,Yes,Yes,Credit card (automatic),70.55,3420.5
+0723-DRCLG,Female,1,Yes,No,145099,Yes,Yes,Electronic check,74.45,74.45
+2176-OSJUV,Male,0,Yes,No,96970,Yes,Yes,Bank transfer (automatic),65.15,4681.75
+0107-WESLM,Male,0,No,No,37351,Yes,No,Electronic check,19.85,19.85
+8626-XHBIE,Male,0,No,Yes,164015,Yes,Yes,Mailed check,24.8,1424.2
+0188-GWFLE,Male,0,No,No,99363,Yes,No,Mailed check,20.05,33.7
+8166-ZZTFS,Female,1,Yes,No,72178,Yes,Yes,Bank transfer (automatic),80.55,5265.1
+5774-QPLTF,Male,0,Yes,Yes,190911,Yes,No,Mailed check,20.35,938.95
+0929-PECLO,Female,1,No,No,140329,Yes,Yes,Bank transfer (automatic),89.6,5538.8
+5696-QURRL,Male,0,No,No,112356,Yes,No,Mailed check,45.05,45.05
+8124-NZVGJ,Female,0,No,No,51992,No,No phone service,Mailed check,49.25,255.6
+4130-MZLCC,Female,0,No,No,104100,Yes,No,Bank transfer (automatic),50.55,244.75
+4489-SNOJF,Female,0,Yes,Yes,207893,Yes,Yes,Electronic check,72.25,2568.55
+8984-HPEMB,Female,0,No,No,214843,Yes,Yes,Electronic check,118.65,8477.6
+4615-PIVVU,Female,0,No,No,167823,Yes,No,Credit card (automatic),66.5,2762.75
+6848-HJTXY,Female,0,Yes,No,22756,Yes,No,Credit card (automatic),19.45,1208.6
+8757-TFHHJ,Male,0,No,No,17131,Yes,No,Credit card (automatic),49.8,49.8
+4603-JANFB,Male,0,No,No,126217,Yes,No,Electronic check,69.85,69.85
+8565-HBFNN,Male,0,Yes,No,71206,Yes,Yes,Credit card (automatic),107.2,7317.1
+7422-WNBTY,Male,0,Yes,No,29756,Yes,Yes,Electronic check,93.35,3092
+4712-UYOOI,Female,0,Yes,Yes,194346,Yes,No,Electronic check,20,417.65
+3372-CDXFJ,Male,0,Yes,Yes,175354,Yes,Yes,Bank transfer (automatic),24.5,343.6
+5353-WILCI,Female,0,No,No,191287,Yes,No,Electronic check,56.05,1522.65
+0988-AADSA,Female,0,Yes,Yes,70362,Yes,Yes,Bank transfer (automatic),80.85,5824.75
+8270-RKSAP,Male,0,No,No,103669,Yes,No,Electronic check,70.5,597.9
+5954-BDFSG,Female,0,No,No,219262,Yes,Yes,Credit card (automatic),107.5,7853.7
+5792-JALQC,Female,1,No,No,85190,Yes,Yes,Bank transfer (automatic),59.85,3103.25
+2202-OUTMO,Female,0,Yes,No,201089,Yes,Yes,Bank transfer (automatic),60.85,2003.6
+9028-LIHRP,Male,0,Yes,Yes,20355,Yes,No,Credit card (automatic),100.2,7209
+9150-KPBJQ,Female,0,No,No,161518,Yes,No,Credit card (automatic),19.65,116.85
+4003-OCTMP,Female,0,Yes,No,34603,Yes,No,Electronic check,64,1910.75
+8775-LHDJH,Female,1,Yes,No,187531,Yes,Yes,Electronic check,90.6,90.6
+6770-UAYGJ,Female,0,Yes,Yes,211618,Yes,Yes,Mailed check,25.25,1211.65
+7596-IIWYC,Female,0,No,No,130982,Yes,No,Bank transfer (automatic),20.25,538.2
+0887-WBJVH,Female,0,Yes,No,69918,Yes,No,Electronic check,93.45,4872.2
+8840-DQLGN,Female,1,Yes,No,187562,Yes,Yes,Bank transfer (automatic),100.5,3653.35
+8413-VONUO,Male,0,No,No,188119,Yes,No,Electronic check,95.65,167.3
+9281-PKKZE,Female,0,Yes,No,116135,No,No phone service,Electronic check,43.95,2007.85
+5186-PEIZU,Female,0,No,No,134925,Yes,No,Bank transfer (automatic),19.25,617.65
+6339-YPSAH,Male,0,No,No,123696,Yes,No,Electronic check,73.8,704.3
+2324-EFHVG,Male,0,No,No,162181,Yes,Yes,Bank transfer (automatic),104.4,6692.65
+1918-ZBFQJ,Female,0,No,No,112931,Yes,No,Electronic check,79.25,1111.65
+6968-GMKPR,Female,0,No,No,82840,Yes,No,Electronic check,81.55,4509.5
+3062-ICYZQ,Female,0,Yes,Yes,114731,Yes,Yes,Electronic check,93.8,4539.35
+2233-FAGXV,Female,0,Yes,Yes,26463,Yes,Yes,Mailed check,24.3,132.25
+6017-PPLPX,Male,0,Yes,Yes,227344,Yes,No,Electronic check,70.45,1470.95
+1982-FEBTD,Female,0,Yes,Yes,152480,Yes,Yes,Credit card (automatic),25.6,514.75
+9705-IOVQQ,Male,1,Yes,Yes,130786,Yes,Yes,Electronic check,99,5969.3
+6288-CHQJB,Female,0,Yes,Yes,38072,Yes,No,Bank transfer (automatic),69.95,3871.85
+3315-TOTBP,Male,0,No,No,81626,Yes,Yes,Mailed check,76,1130.85
+6096-EGVTU,Female,0,Yes,Yes,176057,Yes,Yes,Mailed check,24.9,1595.5
+2937-FTHUR,Female,0,No,Yes,123346,Yes,Yes,Electronic check,64.8,1166.7
+4062-HBMOS,Male,0,No,No,107567,Yes,Yes,Electronic check,103.05,5364.8
+2387-KDZQY,Male,0,No,No,21389,Yes,No,Mailed check,20.1,279.5
+4609-KNNWG,Female,0,Yes,Yes,154831,Yes,No,Mailed check,19.9,550.1
+0409-WTMPL,Female,0,Yes,No,145518,Yes,Yes,Credit card (automatic),110.65,6526.65
+3766-EJLFL,Female,0,Yes,Yes,28807,Yes,Yes,Bank transfer (automatic),109.05,7508.55
+4232-JGKIY,Male,0,No,No,92082,Yes,No,Electronic check,19.2,19.2
+0334-ZFJSR,Female,0,Yes,No,94171,Yes,Yes,Credit card (automatic),66.05,3462.1
+6582-OIVSP,Female,0,No,No,155506,Yes,No,Mailed check,45.3,45.3
+8661-BOYNW,Female,0,Yes,No,30163,Yes,Yes,Credit card (automatic),84.4,6096.45
+4257-GAESD,Female,0,No,No,204329,No,No phone service,Credit card (automatic),45,298.7
+8785-CJSHH,Female,0,Yes,No,208349,Yes,Yes,Electronic check,99.8,5985.75
+5469-CTCWN,Male,0,Yes,Yes,32998,Yes,Yes,Electronic check,106,6547.7
+2839-RFSQE,Female,0,No,No,212684,Yes,No,Mailed check,20.65,38.7
+4890-VMUAV,Male,0,No,No,187972,Yes,Yes,Electronic check,71.5,4576.3
+3365-SAIGS,Female,0,No,No,89158,Yes,No,Electronic check,83.55,1329.15
+0946-CLJTI,Male,1,Yes,No,187715,Yes,Yes,Electronic check,98.7,5812.6
+3920-HIHMQ,Female,0,No,Yes,224859,Yes,Yes,Mailed check,49.5,1265.65
+5307-UVGNB,Female,0,Yes,Yes,30417,No,No phone service,Bank transfer (automatic),48.7,2495.2
+8780-RSYYU,Female,0,No,No,10478,Yes,No,Credit card (automatic),19.2,532.1
+0742-NXBGR,Female,0,No,No,59972,Yes,No,Electronic check,82.3,82.3
+8067-NIOYM,Female,0,Yes,Yes,34908,Yes,No,Credit card (automatic),21.1,490.65
+5916-QEWPT,Female,0,Yes,No,79437,Yes,No,Credit card (automatic),69,147.8
+1029-QFBEN,Male,0,No,No,9061,Yes,No,Mailed check,19.55,19.55
+9251-WNSOD,Female,0,Yes,No,137998,Yes,Yes,Mailed check,75.1,5064.45
+6576-FBXOJ,Male,0,Yes,No,45774,No,No phone service,Electronic check,54.6,934.8
+2501-XWWTZ,Male,0,No,No,7953,Yes,No,Electronic check,70.2,760.05
+6080-LNESI,Male,0,No,No,92592,Yes,Yes,Mailed check,24.75,1234.6
+7245-NIIWQ,Female,0,No,No,156591,Yes,No,Electronic check,69.85,199.85
+6567-HOOPW,Female,1,No,No,25584,Yes,No,Electronic check,79.2,79.2
+4550-EVXNY,Female,0,No,Yes,87535,Yes,No,Electronic check,69.65,69.65
+6437-UDQJM,Female,1,Yes,No,53673,Yes,Yes,Credit card (automatic),84.1,6129.65
+0297-RBCSG,Male,0,No,No,24171,Yes,No,Bank transfer (automatic),65.35,1231.85
+2097-YVPKN,Male,0,No,No,97320,Yes,Yes,Mailed check,25.75,1654.75
+0853-NWIFK,Female,0,No,No,100825,Yes,No,Electronic check,100.3,4483.95
+4853-OITSN,Male,0,Yes,No,219535,Yes,Yes,Electronic check,89.15,413.25
+6128-DAFVY,Female,0,No,No,81176,No,No phone service,Credit card (automatic),44.85,2564.95
+1197-BVMVG,Female,1,No,No,105726,Yes,Yes,Electronic check,74.45,294.45
+7508-DQAKK,Female,0,No,No,182710,Yes,Yes,Credit card (automatic),86.4,5442.05
+9938-PRCVK,Female,0,Yes,Yes,109035,Yes,No,Bank transfer (automatic),19.7,804.25
+0289-IVARM,Female,0,No,No,116614,Yes,No,Electronic check,60.55,1982.6
+8260-NGFNY,Female,0,No,No,217400,No,No phone service,Mailed check,25.2,25.2
+7074-IEVOJ,Female,1,No,No,184770,Yes,Yes,Electronic check,79.4,205.05
+6614-YWYSC,Male,1,Yes,No,203523,Yes,Yes,Bank transfer (automatic),25,1501.75
+8473-VUVJN,Male,1,No,No,189422,Yes,Yes,Electronic check,73.65,73.65
+6693-DJWTY,Female,0,No,Yes,37359,Yes,No,Credit card (automatic),55.6,2016.45
+3655-SNQYZ,Female,0,Yes,Yes,33815,Yes,Yes,Credit card (automatic),113.25,7895.15
+2845-KDHVX,Female,0,Yes,No,60892,Yes,No,Mailed check,68.3,4378.8
+5027-YOCXN,Male,0,Yes,Yes,35380,Yes,Yes,Credit card (automatic),110.05,5686.4
+8884-MRNSU,Male,0,Yes,Yes,159532,Yes,No,Bank transfer (automatic),19.9,329.75
+0567-XRHCU,Female,0,Yes,Yes,139178,No,No phone service,Credit card (automatic),43.95,2960.1
+5868-CZJDR,Male,0,No,Yes,129061,No,No phone service,Mailed check,31.35,31.35
+4223-BKEOR,Female,0,No,Yes,32615,Yes,No,Mailed check,64.85,1336.8
+6035-RIIOM,Female,0,No,No,58718,Yes,Yes,Bank transfer (automatic),97.2,5129.45
+3797-VTIDR,Male,0,Yes,No,148790,No,No phone service,Electronic check,23.45,23.45
+2568-BRGYX,Male,0,No,No,203871,Yes,No,Electronic check,70.2,237.95
+2775-SEFEE,Male,0,No,Yes,212539,Yes,Yes,Bank transfer (automatic),61.9, 
+4291-SHSBH,Male,0,No,No,177996,Yes,No,Electronic check,69.55,521.35
+4635-EJYPD,Male,0,Yes,Yes,154285,Yes,No,Mailed check,18.95,613.95
+2607-DHDAK,Male,0,Yes,Yes,33923,Yes,No,Credit card (automatic),19.8,1414.65
+5204-QZXPU,Male,0,No,No,61402,No,No phone service,Electronic check,39.65,733.35
+0221-NAUXK,Male,0,No,Yes,221103,Yes,No,Bank transfer (automatic),19.95,219.5
+3398-ZOUAA,Male,1,Yes,No,30750,Yes,No,Electronic check,69.1,1474.75
+1768-HNVGJ,Female,1,No,No,209020,Yes,Yes,Electronic check,70.05,3062.45
+5917-RYRMG,Male,1,No,No,80264,Yes,No,Credit card (automatic),19.8,587.7
+3858-XHYJO,Female,0,Yes,No,210901,Yes,Yes,Bank transfer (automatic),105.75,4228.55
+4837-PZTIC,Female,0,No,No,28121,No,No phone service,Mailed check,41.9,1875.25
+2773-MADBQ,Female,0,No,No,66762,No,No phone service,Mailed check,53.1,1901.25
+1090-PYKCI,Female,0,Yes,Yes,98350,Yes,Yes,Credit card (automatic),105.1,7234.8
+9479-HYNYL,Female,0,Yes,No,189698,Yes,No,Credit card (automatic),80.7,5705.05
+4565-NLZBV,Female,0,Yes,No,56849,Yes,Yes,Bank transfer (automatic),24.65,1710.15
+8318-LCNBW,Male,0,Yes,No,162715,No,No phone service,Credit card (automatic),53.15,1930.9
+9261-WDCAF,Male,0,No,No,218532,Yes,No,Mailed check,54.65,189.1
+4909-JOUPP,Male,1,Yes,No,106428,Yes,Yes,Credit card (automatic),109.7,7898.45
+1951-IEYXM,Male,0,Yes,Yes,61511,Yes,Yes,Credit card (automatic),90.6,6441.85
+4227-OJHAL,Female,0,Yes,Yes,101714,Yes,Yes,Credit card (automatic),73,5163
+1708-PBBOA,Female,0,No,No,96811,No,No phone service,Electronic check,54.75,2348.45
+8746-BFOAJ,Male,1,No,No,51100,Yes,No,Bank transfer (automatic),20.5,429.55
+4145-UQXUQ,Female,1,No,No,218632,Yes,No,Electronic check,92.1,729.95
+9518-XXBXE,Male,1,Yes,No,13171,Yes,No,Electronic check,75.3,720.45
+9558-IHEZX,Female,0,No,No,164009,Yes,Yes,Credit card (automatic),106.75,7283.25
+1707-HABPF,Female,1,No,No,38813,Yes,No,Bank transfer (automatic),91.3,4126.35
+9643-AVVWI,Female,0,Yes,Yes,134165,Yes,No,Electronic check,80,241.3
+3398-FSHON,Female,1,No,No,36834,Yes,Yes,Electronic check,91.3,1094.5
+9139-TWBAS,Female,0,Yes,No,194727,No,No phone service,Bank transfer (automatic),47.85,1190.5
+0929-HYQEW,Male,0,No,No,161188,Yes,No,Mailed check,50.15,160.85
+0487-CRLZF,Female,0,No,No,34471,Yes,No,Bank transfer (automatic),74.45,3721.9
+0454-OKRCT,Male,0,No,No,165298,Yes,No,Bank transfer (automatic),80.6,2651.1
+2347-WKKAE,Male,0,Yes,No,221053,Yes,Yes,Electronic check,94.4,4014.6
+6663-JOCQO,Male,0,Yes,Yes,148989,Yes,Yes,Bank transfer (automatic),75.25,2344.5
+1297-VQDRP,Male,1,Yes,Yes,215610,Yes,Yes,Credit card (automatic),107.15,7379.8
+4868-AADLV,Male,1,Yes,Yes,116000,Yes,Yes,Electronic check,116.25,7862.25
+0788-DXBFY,Male,0,Yes,Yes,212446,Yes,No,Electronic check,19.55,1108.8
+5845-BZZIB,Male,0,Yes,Yes,115738,Yes,No,Mailed check,20.1,655.3
+7310-EGVHZ,Male,0,No,No,220353,Yes,No,Bank transfer (automatic),20.2,20.2
+4826-TZEVA,Female,0,No,No,12887,Yes,No,Credit card (automatic),74.8,2971.7
+4080-IIARD,Female,0,Yes,No,94677,Yes,Yes,Electronic check,76.2,981.45
+7672-VFMXZ,Male,0,Yes,No,114107,Yes,No,Electronic check,55.7,3171.6
+9940-RHLFB,Female,0,No,No,173111,Yes,No,Electronic check,75.3,75.3
+9117-SHLZX,Male,0,No,No,124031,Yes,No,Mailed check,45.7,45.7
+7253-UVNDW,Female,0,No,No,126410,Yes,No,Credit card (automatic),54.35,2460.15
+9898-KZQDZ,Female,1,Yes,Yes,61207,Yes,Yes,Credit card (automatic),94.55,3640.45
+8559-CIZFV,Male,0,Yes,Yes,97581,Yes,Yes,Mailed check,77.5,1625
+2506-CLAKW,Female,0,No,No,169744,Yes,No,Bank transfer (automatic),98.15,567.45
+8591-TKMZH,Male,0,Yes,Yes,185981,Yes,Yes,Mailed check,111.1,6555.2
+4925-LMHOK,Male,0,No,No,216769,Yes,Yes,Credit card (automatic),58.6,939.7
+4971-PUYQO,Female,0,No,No,138923,Yes,Yes,Mailed check,94.55,2724.6
+0186-CAERR,Male,0,No,No,178597,Yes,Yes,Bank transfer (automatic),116.3,8309.55
+6233-HXJMX,Female,0,No,No,50289,Yes,Yes,Credit card (automatic),89.3,4192.15
+9367-OIUXP,Male,0,No,No,148728,Yes,No,Mailed check,20.7,73.05
+4588-YBNIB,Female,0,No,No,135893,Yes,No,Mailed check,19.6,19.6
+6467-CHFZW,Male,0,Yes,Yes,38995,Yes,Yes,Electronic check,99.35,4749.15
+8148-BPLZQ,Male,0,No,No,11713,Yes,No,Electronic check,49.8,1734.2
+0557-ASKVU,Female,0,Yes,Yes,49422,Yes,No,Credit card (automatic),54.4,957.1
+3354-OADJP,Female,0,No,No,37729,Yes,No,Bank transfer (automatic),54.25,447.75
+2259-OUUSZ,Male,0,No,No,33854,No,No phone service,Credit card (automatic),35.5,249.55
+4919-IKATY,Male,0,Yes,Yes,62983,Yes,Yes,Electronic check,84.5,453.75
+4328-VUFWD,Female,0,No,No,39589,Yes,No,Electronic check,59.3,2209.15
+8681-ICONS,Male,0,Yes,Yes,109920,Yes,No,Mailed check,20.65,654.85
+2232-DMLXU,Female,0,Yes,No,128788,Yes,No,Mailed check,55.2,55.2
+6447-GORXK,Male,0,No,Yes,59600,No,No phone service,Credit card (automatic),25,789.2
+1777-JYQPJ,Male,0,No,No,221482,No,No phone service,Mailed check,24.3,38.45
+6685-GBWJZ,Male,0,Yes,No,34020,Yes,No,Credit card (automatic),70.8,4448.8
+3955-JBZZM,Male,0,No,No,6703,Yes,No,Electronic check,78.8,1641.3
+5197-LQXXH,Female,0,Yes,No,52042,Yes,Yes,Credit card (automatic),83.3,5894.5
+5993-JSUWV,Female,0,No,No,188701,Yes,No,Bank transfer (automatic),61.15,4017.45
+2219-MVUSO,Male,0,No,No,151305,Yes,No,Mailed check,45.15,438.4
+3158-MOERK,Female,0,No,No,31769,Yes,Yes,Electronic check,96,174.8
+3594-KADLU,Male,0,Yes,No,19076,No,No phone service,Mailed check,35.1,101.1
+0932-YIXYU,Female,0,No,No,179410,Yes,No,Credit card (automatic),20.25,1029.8
+8348-HFYIV,Male,0,No,No,9532,No,No phone service,Electronic check,49.25,90.35
+8687-BAFGU,Male,0,No,No,165657,Yes,No,Electronic check,74,74
+7353-YOWFP,Female,0,No,No,201205,Yes,No,Mailed check,20.25,129.15
+6837-HAEVO,Male,0,Yes,Yes,153732,Yes,Yes,Electronic check,105,7297.75
+6734-GMPVK,Male,0,No,No,195429,Yes,Yes,Electronic check,105.3,550.6
+7602-DBTOU,Female,0,Yes,No,173580,Yes,No,Mailed check,19.6,1416.5
+9894-EZEWG,Female,0,No,No,212161,Yes,No,Credit card (automatic),74.3,74.3
+1670-SVOWZ,Female,0,Yes,Yes,138646,Yes,No,Credit card (automatic),89.65,1208.35
+9142-XMYJH,Female,0,No,No,184605,Yes,No,Credit card (automatic),19.35,601.6
+5893-PYOLZ,Male,0,No,No,189119,Yes,No,Credit card (automatic),81.8,4534.45
+3319-DWOEP,Male,1,Yes,No,75490,Yes,No,Electronic check,95.75,573.75
+9514-JDSKI,Male,1,Yes,No,222923,No,No phone service,Electronic check,40.2,40.2
+7432-FFVAR,Female,0,Yes,Yes,144633,Yes,No,Bank transfer (automatic),90.95,4236.6
+4329-YPDDQ,Male,0,No,No,153744,Yes,No,Bank transfer (automatic),108.2,2203.7
+2860-RANUS,Female,1,No,No,211529,Yes,Yes,Credit card (automatic),85.8,1727.5
+8696-JKZNU,Female,1,No,No,79066,Yes,Yes,Electronic check,76.25,2841.55
+1089-XZWHH,Female,0,Yes,Yes,144905,Yes,No,Mailed check,19.7,494.05
+4831-EOBFE,Male,0,Yes,Yes,90693,Yes,No,Credit card (automatic),94.65,2649.15
+4423-YLHDV,Female,0,Yes,No,168284,Yes,Yes,Bank transfer (automatic),104.4,2200.25
+5449-FIBXJ,Male,0,Yes,Yes,188570,Yes,Yes,Electronic check,103.3,2012.7
+8144-DGHXP,Female,0,No,No,217916,Yes,No,Electronic check,80.6,4299.95
+6598-RFFVI,Male,0,No,No,7333,Yes,No,Credit card (automatic),19.3,28.3
+3096-JRDSO,Female,1,Yes,No,10544,Yes,Yes,Bank transfer (automatic),104.3,2867.75
+5862-BRIXZ,Male,0,No,No,66244,No,No phone service,Bank transfer (automatic),60.75,2893.4
+1057-FOGLZ,Female,0,No,No,72037,Yes,No,Mailed check,19.65,391.7
+9371-BITHB,Female,0,Yes,Yes,193405,Yes,No,Mailed check,19.85,1070.5
+4580-TMHJU,Female,0,Yes,Yes,140520,Yes,No,Electronic check,56.15,2499.3
+0178-CIIKR,Female,0,No,No,25898,Yes,No,Mailed check,19.95,58
+9348-YVOMK,Male,0,No,No,26515,Yes,No,Credit card (automatic),44.8,176.2
+8417-FMLZI,Male,0,Yes,Yes,71586,Yes,No,Credit card (automatic),83.55,477.55
+6851-WEFYX,Male,1,Yes,No,126657,Yes,Yes,Electronic check,100.8,3437.5
+8181-YHCMF,Female,0,Yes,Yes,134107,No,No phone service,Credit card (automatic),60.3,4109
+7548-SEPYI,Female,0,No,No,123828,Yes,No,Electronic check,96.25,512.45
+0374-IOEGQ,Female,0,No,No,136884,Yes,No,Electronic check,44.6,122.7
+0581-BXBUB,Female,1,No,No,32471,Yes,No,Electronic check,72.75,317.75
+9350-ZXYJC,Female,0,No,No,75032,Yes,Yes,Credit card (automatic),25.3,116.95
+8642-GVWRF,Female,0,Yes,No,171383,Yes,No,Bank transfer (automatic),79.7,165
+2931-SVLTV,Male,0,Yes,Yes,18789,Yes,Yes,Credit card (automatic),110.1,4469.1
+5183-SNMJQ,Male,0,No,No,145619,Yes,No,Credit card (automatic),95.1,865.1
+7278-CKDNC,Male,1,No,No,163923,Yes,Yes,Electronic check,80.5,2088.45
+8024-XNAFQ,Female,1,No,No,188502,Yes,Yes,Bank transfer (automatic),107.4,7748.75
+5480-TBGPH,Female,0,Yes,No,118413,Yes,No,Credit card (automatic),99.3,2431.35
+7301-ABVAD,Female,0,No,No,122708,Yes,Yes,Bank transfer (automatic),86.6,6350.5
+4678-DVQEO,Female,0,No,No,130482,Yes,No,Electronic check,52.2,52.2
+9415-DPEWS,Female,0,No,No,3379,Yes,Yes,Electronic check,88.35,1639.3
+3748-FVMZZ,Male,0,No,No,188937,No,No phone service,Electronic check,40.05,162.45
+5281-BUZGT,Male,1,No,No,225533,Yes,Yes,Electronic check,90.85,3186.7
+5879-SESNB,Female,0,No,No,92623,Yes,Yes,Electronic check,75.25,888.65
+1820-TQVEV,Male,0,No,No,196510,Yes,No,Electronic check,69.55,69.55
+9003-CPATH,Male,0,No,No,10803,Yes,Yes,Electronic check,79.9,3313.4
+1268-ASBGA,Female,1,Yes,No,29834,Yes,Yes,Credit card (automatic),85.35,1375.15
+6655-LHBYW,Male,0,No,No,107380,Yes,Yes,Credit card (automatic),114.35,5791.1
+9227-LUNBG,Female,0,No,No,148200,No,No phone service,Electronic check,24.6,24.6
+9418-RUKPH,Female,0,Yes,Yes,397,Yes,No,Mailed check,19.95,756.4
+0537-QYZZN,Male,1,Yes,Yes,117061,Yes,Yes,Electronic check,79.85,1857.75
+8734-FNWVH,Male,0,Yes,Yes,42798,Yes,Yes,Bank transfer (automatic),59.7,1825.5
+4801-KFYKL,Male,0,No,Yes,161682,Yes,No,Bank transfer (automatic),19.45,159.2
+8327-LZKAS,Female,1,Yes,No,170366,Yes,Yes,Electronic check,107.55,4533.9
+4188-PCPIG,Female,0,Yes,No,126043,Yes,No,Credit card (automatic),70.35,4124.65
+1843-TLSGD,Female,0,Yes,Yes,212590,Yes,No,Mailed check,20.85,272.35
+6906-MPARY,Male,0,No,No,7744,Yes,No,Credit card (automatic),89.6,3488.15
+6082-OQFBA,Male,0,Yes,Yes,73784,Yes,No,Mailed check,19.65,436.9
+3544-FBCAS,Female,0,Yes,Yes,227574,Yes,Yes,Credit card (automatic),83.6,5959.3
+8034-RYTVV,Female,0,No,No,20802,Yes,Yes,Credit card (automatic),84.25,4589.85
+7130-YXBRO,Male,0,Yes,No,12695,Yes,Yes,Bank transfer (automatic),111.45,5315.1
+1157-BQCUW,Male,0,No,No,54827,Yes,Yes,Electronic check,74.95,74.95
+9445-SZLCH,Female,0,Yes,Yes,230865,Yes,Yes,Bank transfer (automatic),97.35,3457.9
+1399-UBQIU,Male,0,No,No,30138,Yes,No,Electronic check,69.35,712.25
+4912-PIGUY,Female,0,No,No,151470,Yes,Yes,Electronic check,84.6,84.6
+1323-OOEPC,Female,0,Yes,No,43861,Yes,Yes,Credit card (automatic),98.4,5149.5
+3181-VTHOE,Male,0,Yes,No,199520,No,No phone service,Bank transfer (automatic),51.05,3635.15
+8272-ONJLV,Male,0,No,No,200490,Yes,No,Electronic check,95.7,1184
+3647-GMGDH,Male,0,Yes,No,55376,Yes,No,Credit card (automatic),94.7,1914.9
+1303-SRDOK,Female,0,Yes,Yes,107359,Yes,No,Credit card (automatic),69.05,3842.6
+7361-YPXFS,Female,1,No,No,113326,Yes,Yes,Bank transfer (automatic),64.45,1867.6
+3359-DSRKA,Female,0,Yes,Yes,216650,Yes,No,Mailed check,19.85,1158.85
+6746-WAUWT,Male,0,No,No,156004,Yes,No,Credit card (automatic),19.7,386.5
+4659-NZRUF,Female,0,No,No,25718,Yes,Yes,Electronic check,95.15,1789.25
+9518-IMLHK,Male,0,No,No,229124,Yes,No,Bank transfer (automatic),72.45,2156.25
+3374-LXDEV,Female,0,No,No,179369,Yes,Yes,Electronic check,89.4,1132.35
+5356-RHIPP,Male,0,No,No,228992,Yes,No,Mailed check,20.2,20.2
+1122-JWTJW,Male,0,Yes,Yes,30262,Yes,No,Mailed check,70.65,70.65
+0650-BWOZN,Female,1,No,No,56334,Yes,No,Electronic check,73.55,1359.45
+5546-QUERU,Male,0,No,No,147206,Yes,No,Mailed check,19.95,257
+8610-ZIKJJ,Female,0,Yes,Yes,172392,Yes,No,Mailed check,20.3,31.9
+8590-YFFQO,Male,0,Yes,No,53941,Yes,No,Credit card (automatic),64.95,4523.25
+2428-HYUNX,Male,1,Yes,No,156605,Yes,No,Credit card (automatic),19.35,847.25
+7219-TLZHO,Female,0,Yes,Yes,100563,Yes,No,Mailed check,20.85,62.9
+2649-HWLYB,Male,0,Yes,No,207508,Yes,Yes,Bank transfer (automatic),76.15,4929.55
+8065-QBYTO,Female,1,No,No,130195,Yes,Yes,Credit card (automatic),99.65,7181.25
+8259-DZLIZ,Female,0,Yes,Yes,130146,Yes,Yes,Bank transfer (automatic),53.85,3399.85
+3348-CFRNX,Female,0,Yes,No,2007,Yes,No,Mailed check,92.35,2602.9
+8245-UMPYT,Female,1,No,No,38334,Yes,Yes,Electronic check,96.4,1581.2
+1555-DJEQW,Female,0,Yes,Yes,49123,Yes,Yes,Bank transfer (automatic),114.2,7723.9
+7776-QGYJC,Female,0,Yes,Yes,229977,Yes,No,Bank transfer (automatic),81.5,3107.3
+2828-SLQPF,Male,0,No,No,165941,Yes,No,Bank transfer (automatic),45,865.85
+3170-GWYKC,Female,0,No,No,178305,Yes,No,Bank transfer (automatic),104.95,6236.75
+1710-RCXUS,Male,0,Yes,No,165661,Yes,Yes,Credit card (automatic),90.35,4614.55
+2673-CXQEU,Female,1,No,No,172669,Yes,Yes,Electronic check,110.5,6139.5
+3838-OZURD,Male,0,Yes,No,140376,Yes,Yes,Credit card (automatic),105,7133.25
+4859-ZSRDZ,Female,0,Yes,Yes,113211,No,No phone service,Credit card (automatic),55.5,3166.9
+5795-BKOYE,Female,0,Yes,Yes,163087,Yes,No,Bank transfer (automatic),59.1,4134.7
+2851-MMUTZ,Female,0,No,No,216749,Yes,No,Mailed check,56.15,1439.35
+9752-ZNQUT,Female,0,No,No,30240,Yes,No,Electronic check,48.6,48.6
+6972-SNKKW,Female,0,No,No,227414,Yes,No,Mailed check,20,109.2
+1329-VHWNP,Female,0,No,No,43103,No,No phone service,Bank transfer (automatic),25.05,189.95
+3999-QGRJH,Male,1,No,No,82704,Yes,No,Electronic check,69.7,560.85
+3466-BYAVD,Male,0,Yes,Yes,106348,Yes,No,Mailed check,69.5,1071.4
+4568-TTZRT,Male,0,No,No,126177,Yes,No,Mailed check,20.4,181.8
+4672-FOTSD,Male,0,No,No,190388,Yes,Yes,Electronic check,67.25,832.3
+8851-RAGOV,Female,0,Yes,No,39162,Yes,No,Mailed check,71.05,1837.7
+0256-LTHVJ,Female,0,Yes,Yes,200959,Yes,No,Electronic check,81.05,2227.1
+5278-PNYOX,Female,0,No,No,150524,Yes,No,Credit card (automatic),100.65,4917.75
+3132-TVFDZ,Male,1,Yes,No,224491,No,No phone service,Electronic check,44.85,2572.95
+6924-TDGMT,Male,0,Yes,No,126461,Yes,No,Mailed check,20.55,184.95
+2824-MYYBN,Female,0,Yes,Yes,186989,Yes,Yes,Electronic check,95.25,3314.15
+4289-DTDKW,Male,0,Yes,No,129764,Yes,Yes,Electronic check,101.3,4113.1
+0017-DINOC,Male,0,No,No,171089,No,No phone service,Credit card (automatic),45.2,2460.55
+4536-PLEQY,Male,0,Yes,No,213907,Yes,No,Credit card (automatic),85.05,999.8
+6402-EJMWF,Male,0,No,No,115535,Yes,No,Mailed check,55.3,238.5
+1442-OKRJE,Male,0,Yes,Yes,154728,Yes,No,Bank transfer (automatic),103.15,7031.3
+1459-QNFQT,Male,0,Yes,Yes,188049,No,No phone service,Bank transfer (automatic),59.5,4144.8
+6996-KNSML,Female,0,No,No,195598,Yes,No,Electronic check,74.9,74.9
+2239-JALAW,Male,0,No,No,199346,Yes,Yes,Bank transfer (automatic),103.25,6017.65
+3452-ABWRL,Male,1,No,No,122574,Yes,Yes,Credit card (automatic),86.05,3865.6
+9231-ZJYAM,Female,1,No,No,227829,Yes,No,Electronic check,78.85,292.8
+7153-CHRBV,Female,0,Yes,Yes,166987,Yes,No,Mailed check,59.3,3274.35
+6833-JMZYP,Female,0,No,No,25309,Yes,No,Credit card (automatic),94,1505.45
+5666-CYCYZ,Female,0,No,No,132762,Yes,Yes,Electronic check,89.55,2259.35
+4425-OWHWB,Female,0,No,No,80638,Yes,No,Credit card (automatic),19.35,433.75
+1543-LLLFT,Male,1,Yes,No,50870,Yes,Yes,Mailed check,98.3,6066.55
+6581-NQCBA,Female,0,Yes,No,17352,No,No phone service,Electronic check,49.95,810.2
+8152-VETUR,Female,0,Yes,No,68632,Yes,Yes,Credit card (automatic),97.7,6869.7
+9796-MVYXX,Female,1,No,No,34741,No,No phone service,Mailed check,39.7,692.35
+2842-JTCCU,Male,0,No,No,232090,Yes,No,Bank transfer (automatic),46.05,80.35
+0595-ITUDF,Male,0,Yes,Yes,62863,Yes,Yes,Electronic check,91.8,5960.5
+0219-QAERP,Male,0,Yes,No,162419,Yes,No,Credit card (automatic),19.8,576.65
+8226-BXGES,Male,0,Yes,No,174909,Yes,Yes,Bank transfer (automatic),89.45,5692.65
+3090-HAWSU,Male,0,No,No,100025,Yes,Yes,Credit card (automatic),111.6,6876.05
+1136-XGEQU,Female,0,Yes,Yes,123041,Yes,Yes,Credit card (automatic),84.15,4164.4
+6732-FZUGP,Female,0,No,No,140747,Yes,Yes,Credit card (automatic),94.9,4615.25
+3401-URHDA,Male,0,No,No,156099,Yes,Yes,Credit card (automatic),59.9,3043.6
+0365-TRTPY,Female,0,No,No,132389,Yes,Yes,Bank transfer (automatic),91.2,3382.3
+4654-DLAMQ,Female,1,Yes,No,105981,Yes,No,Bank transfer (automatic),97,6430.9
+8847-GEOOQ,Male,0,Yes,No,107191,No,No phone service,Bank transfer (automatic),60.2,3582.4
+3030-ZKIWL,Male,0,No,No,77080,Yes,No,Mailed check,20.05,20.05
+6727-IOTLZ,Male,0,Yes,No,18206,Yes,No,Mailed check,81.95,1181.75
+6960-HVYXR,Female,0,No,No,57361,Yes,Yes,Electronic check,76,76
+0378-NHQXU,Female,0,Yes,Yes,64431,Yes,Yes,Electronic check,88.25,1460.65
+0565-JUPYD,Male,0,No,No,110546,Yes,Yes,Credit card (automatic),104.5,6590.8
+4625-XMOYM,Female,0,Yes,Yes,23862,Yes,Yes,Bank transfer (automatic),26.25,1988.05
+7663-ZTEGJ,Male,0,No,Yes,211368,Yes,Yes,Credit card (automatic),100.55,2830.45
+1402-PTHGN,Female,0,Yes,Yes,49991,Yes,No,Mailed check,61.5,1087.45
+7657-DYEPJ,Male,1,No,No,22471,Yes,No,Credit card (automatic),70.15,2497.35
+3523-BRGUW,Male,1,No,No,176789,Yes,No,Credit card (automatic),19.3,504.2
+0100-DUVFC,Male,1,Yes,No,121277,Yes,Yes,Electronic check,104.8,7308.95
+2026-TGDHM,Female,0,No,No,227160,Yes,No,Electronic check,79.3,523.15
+9746-UGFAC,Female,0,No,No,17034,Yes,No,Bank transfer (automatic),20.85,450.65
+1042-HFUCW,Female,0,No,Yes,227453,Yes,No,Credit card (automatic),54.75,1266.35
+1153-GNOLC,Male,0,No,No,62702,No,No phone service,Electronic check,39.1,1309
+0576-WNXXC,Male,1,Yes,No,1509,Yes,Yes,Electronic check,95.55,2510.2
+6906-ANDWJ,Male,0,Yes,Yes,177493,Yes,Yes,Bank transfer (automatic),74.9,1107.25
+1022-RKXDR,Female,0,No,No,80181,Yes,Yes,Mailed check,24.85,962.25
+7123-WQUHX,Male,0,No,No,104625,Yes,Yes,Bank transfer (automatic),95,3605.6
+5857-TYBCJ,Male,1,Yes,No,101806,Yes,Yes,Electronic check,89.2,4040.2
+7729-XBTWX,Male,0,Yes,Yes,203339,Yes,No,Mailed check,19.75,1344.5
+3978-YNKDD,Male,0,No,Yes,171477,Yes,No,Credit card (automatic),20.85,467.5
+9170-CCKOU,Male,0,Yes,No,30055,Yes,Yes,Credit card (automatic),90.2,1454.15
+1475-VWVDO,Male,0,No,No,86886,Yes,No,Electronic check,74.9,490.55
+7108-DGVUU,Female,1,Yes,No,4295,Yes,Yes,Bank transfer (automatic),71.7,1497.05
+2533-QVMSK,Male,0,Yes,No,206328,Yes,Yes,Electronic check,94.1,5638.3
+7339-POGZN,Female,0,No,No,143879,Yes,Yes,Electronic check,50.7,214.55
+6848-YLDFR,Male,0,Yes,Yes,150983,Yes,No,Credit card (automatic),75.2,4300.8
+2898-LSJGD,Female,0,Yes,Yes,68056,No,No phone service,Electronic check,55.95,1157.05
+3507-GASNP,Male,0,No,Yes,23079,Yes,No,Mailed check,19.95,1189.9
+7799-LGRDP,Female,0,No,No,225323,Yes,Yes,Credit card (automatic),25.7,1188.2
+5373-SFODM,Male,1,Yes,No,90920,Yes,Yes,Credit card (automatic),85.25,3132.75
+7733-UDMTP,Female,1,No,No,89598,No,No phone service,Electronic check,55,3094.05
+2801-NISEI,Male,0,No,No,165170,Yes,No,Electronic check,54.95,1348.5
+4378-MYPGO,Male,0,Yes,Yes,163112,Yes,No,Bank transfer (automatic),105.25,7173.15
+0129-KPTWJ,Male,0,Yes,No,40284,Yes,No,Electronic check,94.65,6747.35
+0373-AIVNJ,Male,0,No,No,142359,No,No phone service,Mailed check,39.55,373
+8414-OOEEL,Male,0,No,Yes,112793,Yes,No,Credit card (automatic),79.5,5196.1
+8541-QVFKM,Female,0,No,No,64412,Yes,Yes,Electronic check,73.5,632.2
+2931-XIQBR,Female,0,Yes,Yes,14506,Yes,No,Mailed check,103.05,5153.5
+5652-MSDEY,Female,0,No,No,154003,Yes,Yes,Mailed check,75.75,777.3
+2586-CWXVV,Male,0,Yes,No,219238,No,No phone service,Electronic check,30.4,1621.35
+8058-INTPH,Female,0,No,No,172335,Yes,No,Electronic check,79.65,79.65
+2798-NYLMZ,Male,0,Yes,No,187081,Yes,Yes,Credit card (automatic),108.55,7616
+0880-TKATG,Male,0,Yes,Yes,91416,Yes,Yes,Electronic check,101.15,385.9
+9342-VNIMQ,Male,0,No,No,79804,Yes,Yes,Bank transfer (automatic),54.65,1665.2
+7779-LGOVN,Male,1,Yes,No,20412,Yes,Yes,Electronic check,86.65,856.65
+2192-CKRLV,Female,0,Yes,No,28468,No,No phone service,Electronic check,49.2,3580.95
+6982-UQZLY,Female,1,Yes,No,208883,Yes,No,Mailed check,20.85,20.85
+8441-SHIPE,Female,0,No,No,158891,Yes,Yes,Bank transfer (automatic),25.6,1790.35
+8212-CRQXP,Female,0,Yes,No,136295,Yes,No,Credit card (automatic),80,1706.45
+3009-JWMPU,Male,0,No,No,145757,Yes,Yes,Electronic check,96.75,6125.4
+0623-IIHUG,Female,1,No,No,133153,No,No phone service,Electronic check,41.9,840.1
+2632-IVXVF,Female,0,Yes,Yes,120712,Yes,Yes,Credit card (automatic),111.75,7511.3
+0655-RBDUG,Male,0,No,No,66767,Yes,Yes,Bank transfer (automatic),98.05,713
+1867-TJHTS,Female,0,No,No,143677,Yes,Yes,Bank transfer (automatic),79.8,4526.85
+0027-KWYKW,Female,0,Yes,Yes,136847,Yes,Yes,Electronic check,83.75,1849.95
+1131-QQZEB,Male,1,Yes,No,179881,Yes,Yes,Bank transfer (automatic),23.95,1756.2
+5651-CRHKQ,Female,0,Yes,No,139104,Yes,No,Bank transfer (automatic),86.2,3339.05
+1371-DWPAZ,Female,0,Yes,Yes,85903,No,No phone service,Credit card (automatic),56.05, 
+1194-BHJYC,Male,0,Yes,No,204956,No,No phone service,Mailed check,62.15,3778.85
+0572-ZJKLT,Female,0,Yes,Yes,63415,Yes,Yes,Mailed check,99.65,4630.2
+2928-HLDBA,Female,0,No,No,134426,Yes,No,Mailed check,20.7,112.75
+2645-QTLMB,Male,0,No,No,152492,Yes,No,Electronic check,94.25,669
+0491-KAPQG,Male,0,No,No,197618,Yes,Yes,Electronic check,73.7,1558.7
+3793-MMFUH,Female,1,No,No,202285,Yes,Yes,Electronic check,95.05,1290
+0578-SKVMF,Female,0,Yes,Yes,86994,Yes,No,Electronic check,83.3,1845.9
+1025-FALIX,Female,0,No,No,4802,Yes,No,Credit card (automatic),69.05,1815.65
+7880-XSOJX,Male,0,No,No,155314,No,No phone service,Mailed check,42.4,146.4
+5799-JRCZO,Female,0,No,Yes,218629,Yes,No,Credit card (automatic),19.5,1215.1
+0495-ZBNGW,Male,1,Yes,No,91928,Yes,Yes,Bank transfer (automatic),79.9,343.95
+9970-QBCDA,Female,0,No,No,222419,Yes,No,Credit card (automatic),19.7,129.55
+7271-AJDTL,Female,0,Yes,No,73095,Yes,Yes,Credit card (automatic),94.45,5073.1
+7833-PKIHD,Male,0,Yes,Yes,205009,Yes,No,Bank transfer (automatic),76.4,3966.3
+5791-KAJFD,Female,0,Yes,Yes,217483,Yes,Yes,Bank transfer (automatic),68.75,3808
+8499-BRXTD,Male,0,No,No,7211,Yes,No,Mailed check,20.1,401.85
+0853-TWRVK,Male,0,Yes,No,50494,Yes,Yes,Bank transfer (automatic),105.6,7581.5
+4456-RHSNB,Female,0,Yes,Yes,79538,Yes,No,Bank transfer (automatic),49.6,962.9
+9809-IMGCQ,Male,1,No,No,209533,Yes,Yes,Electronic check,96.7,2082.95
+2073-QBVBI,Female,0,Yes,No,202094,No,No phone service,Mailed check,35.45,1391.65
+1257-SXUXQ,Male,0,Yes,Yes,214939,Yes,No,Mailed check,19.45,86.05
+6169-PGNCD,Female,0,No,No,152601,Yes,No,Credit card (automatic),74.3,4166.35
+2692-BUCFV,Male,1,No,No,118961,Yes,No,Bank transfer (automatic),101.45,2948.6
+1644-IRKSF,Female,0,Yes,Yes,219390,Yes,No,Electronic check,93.8,3124.5
+1304-SEGFY,Female,0,Yes,No,44696,Yes,Yes,Electronic check,97.85,6841.3
+9777-WJJPR,Male,0,Yes,No,60188,Yes,Yes,Credit card (automatic),88.65,2683.2
+5732-IKGQH,Male,1,Yes,No,95684,Yes,No,Bank transfer (automatic),104.45,5481.25
+1757-TCATG,Male,0,Yes,Yes,193291,Yes,No,Bank transfer (automatic),20.05,746.75
+8314-HTWVE,Female,0,Yes,Yes,185033,Yes,No,Mailed check,19.85,144.15
+2087-QAREY,Female,0,Yes,No,59232,Yes,No,Mailed check,54.7,1178.75
+4229-CZMLL,Male,0,No,No,529,Yes,Yes,Electronic check,74.9,469.8
+4940-KHCWD,Female,0,Yes,No,200112,No,No phone service,Bank transfer (automatic),37.7,2288.7
+1834-WULEG,Male,0,Yes,Yes,150706,Yes,No,Mailed check,20.25,439.75
+6360-SVNWV,Female,1,No,No,85659,Yes,No,Credit card (automatic),73.55,2094.65
+5226-NOZFC,Male,0,No,No,52745,Yes,No,Electronic check,85.75,2146.5
+1062-LHZOD,Male,0,Yes,Yes,193875,Yes,No,Mailed check,69.9,69.9
+1106-HRLKZ,Male,0,Yes,Yes,93602,Yes,No,Mailed check,19.6,808.95
+7094-MSZAO,Male,0,Yes,Yes,175168,Yes,No,Credit card (automatic),20.05,218.5
+0613-WUXUM,Female,0,Yes,Yes,152748,Yes,No,Mailed check,19.2,1401.4
+8806-EAGWC,Male,0,No,No,124012,Yes,No,Mailed check,55.15,159.15
+6769-DYBQN,Male,1,No,No,84706,Yes,No,Electronic check,85,3969.4
+2408-TZMJL,Male,0,Yes,No,206282,Yes,Yes,Electronic check,110.15,6448.05
+1996-DBMUS,Female,1,Yes,No,190442,Yes,No,Bank transfer (automatic),70.65,3545.05
+6323-AYBRX,Male,0,No,No,53054,Yes,No,Mailed check,19.35,1099.6
+1432-FPAXX,Female,0,No,No,104856,No,No phone service,Electronic check,30.6,856.35
+4160-AMJTL,Female,1,No,No,52701,Yes,No,Electronic check,19.65,164.3
+3352-RICWQ,Female,0,Yes,Yes,76499,Yes,No,Mailed check,19.75,210.65
+2680-XKKNJ,Female,0,No,No,50864,Yes,No,Bank transfer (automatic),58.2,469.25
+8182-BJDSI,Female,0,No,No,208039,Yes,Yes,Electronic check,89.95,2625.55
+1389-WNUIB,Female,0,Yes,Yes,75034,Yes,Yes,Bank transfer (automatic),76,1588.75
+4612-THJBS,Female,1,No,No,187296,Yes,Yes,Bank transfer (automatic),104.75,5510.65
+1530-ZTDOZ,Female,0,Yes,No,30641,No,No phone service,Bank transfer (automatic),40.65,2070.75
+5842-POCOP,Female,0,Yes,No,96242,Yes,No,Mailed check,88.9,454.15
+9492-TOKRI,Female,0,No,No,22374,Yes,Yes,Credit card (automatic),90,1527.35
+0795-LAFGP,Male,0,Yes,Yes,2687,Yes,Yes,Electronic check,90.4,6668.05
+0611-DFXKO,Male,0,Yes,No,87960,Yes,No,Mailed check,89,1820.45
+8035-BUYVG,Male,0,Yes,No,151909,No,No phone service,Electronic check,42.35,1716.45
+6620-JDYNW,Female,0,No,No,124803,Yes,Yes,Mailed check,60.6,1156.35
+8590-OHDIW,Female,0,Yes,Yes,115352,Yes,No,Mailed check,20.3,749.35
+5897-ZYEKH,Female,1,Yes,No,13738,Yes,Yes,Electronic check,105.6,7112.15
+5084-OOVCJ,Female,0,Yes,Yes,135039,Yes,No,Credit card (automatic),55.35,920.5
+1740-CSDJP,Male,0,No,No,3869,No,No phone service,Bank transfer (automatic),35.25,35.25
+2696-RZVZW,Male,0,Yes,No,203435,Yes,Yes,Credit card (automatic),25.05,1629.2
+9450-TRJUU,Male,0,No,No,32078,Yes,Yes,Electronic check,83.15,2848.45
+4581-SSPWD,Female,0,No,No,119135,Yes,Yes,Electronic check,75.8,246.3
+4813-HQMGZ,Female,0,Yes,No,158263,Yes,Yes,Electronic check,90.25,743.75
+4903-CNOZC,Male,0,No,No,35280,Yes,Yes,Credit card (automatic),70.9,1964.6
+0822-GAVAP,Female,0,No,No,211074,No,No phone service,Electronic check,34.7,62.25
+3055-OYMSE,Female,1,No,No,27993,Yes,No,Credit card (automatic),73.8,4003.85
+7242-QZLXF,Male,0,No,Yes,196995,No,No phone service,Electronic check,25.3,25.3
+8325-QRPZR,Female,0,No,No,61217,Yes,No,Electronic check,75.15,525
+7874-ECPQJ,Female,0,No,Yes,111485,Yes,No,Bank transfer (automatic),20.05,85.5
+2476-YGEFM,Female,0,No,No,63205,Yes,Yes,Credit card (automatic),76,2215.25
+2276-YDAVZ,Female,0,No,No,136213,Yes,Yes,Credit card (automatic),75.1,270.7
+0661-XEYAN,Female,1,No,No,123349,No,No phone service,Mailed check,25.8,25.8
+1397-XKKWR,Male,0,No,No,28930,No,No phone service,Mailed check,35.3,264.8
+9249-FXSCK,Female,0,No,No,121782,Yes,Yes,Credit card (automatic),111.25,5916.45
+4718-WXBGI,Male,0,Yes,Yes,16149,Yes,Yes,Credit card (automatic),91.95,6614.9
+0486-HECZI,Male,0,Yes,No,91574,Yes,Yes,Electronic check,96.75,5238.9
+7291-CDTMJ,Male,0,No,No,196734,Yes,No,Bank transfer (automatic),19.65,19.65
+7196-LIWRH,Female,0,No,No,106619,Yes,No,Mailed check,19.55,124.45
+0625-AFOHS,Female,0,Yes,Yes,204138,Yes,No,Mailed check,20.2,558.8
+5656-MJEFC,Male,0,Yes,Yes,170800,No,No phone service,Credit card (automatic),48.15,2032.3
+5640-CAXOA,Female,0,No,No,133358,No,No phone service,Credit card (automatic),40.35,1187.05
+3946-MHCZW,Male,0,No,No,200261,Yes,No,Mailed check,50.9,50.9
+8374-UULRV,Male,0,No,No,172908,Yes,Yes,Credit card (automatic),86.05,6309.65
+2108-YKQTY,Female,0,No,No,40785,Yes,No,Credit card (automatic),50.7,151.3
+2862-PFNIK,Male,0,No,Yes,223378,No,No phone service,Electronic check,24.7,24.7
+2856-HYAPG,Female,0,No,No,76408,Yes,No,Electronic check,68.65,68.65
+3707-GNWHM,Male,0,No,No,20066,Yes,Yes,Mailed check,74.25,74.25
+2363-BJLSL,Male,0,No,No,16153,Yes,No,Bank transfer (automatic),80.4,4981.15
+3663-MITLP,Female,0,No,No,158644,Yes,No,Electronic check,101.25,1457.25
+3373-YZZYM,Male,0,Yes,Yes,97625,Yes,No,Mailed check,19.2,19.2
+5848-FHRFC,Female,0,No,No,188514,Yes,No,Bank transfer (automatic),20.05,1386.9
+0840-DFEZH,Female,0,No,No,151700,Yes,Yes,Electronic check,75.35,564.65
+5879-HMFFH,Female,0,Yes,No,148754,Yes,Yes,Bank transfer (automatic),88.05,6520.8
+4723-BEGSG,Male,0,Yes,No,138001,Yes,Yes,Credit card (automatic),86.65,6094.25
+3976-BWUCK,Female,0,Yes,No,101871,Yes,Yes,Credit card (automatic),94.1,2804.45
+7120-RFMVS,Male,0,No,No,89678,Yes,Yes,Electronic check,84.5,84.5
+8292-FRFZQ,Female,0,No,No,54076,No,No phone service,Bank transfer (automatic),41.15,1700.9
+9480-BQJEI,Male,0,No,No,78856,Yes,Yes,Bank transfer (automatic),92.3,5731.45
+4350-ZTLPI,Female,0,Yes,No,202659,Yes,Yes,Bank transfer (automatic),108.95,5718.2
+3763-GCZHZ,Male,0,Yes,No,231298,Yes,Yes,Electronic check,104.05,6890
+1658-XUHBX,Female,1,Yes,Yes,132833,Yes,Yes,Credit card (automatic),88.75,5348.65
+2507-QZPQS,Male,0,No,No,99417,Yes,Yes,Electronic check,95.7,1451.1
+0564-JJHGS,Male,0,No,No,27207,Yes,Yes,Electronic check,95.5,829.1
+9750-BOOHV,Female,0,No,No,210631,No,No phone service,Mailed check,30.15,927.65
+8773-HHUOZ,Female,0,No,Yes,139813,Yes,No,Mailed check,64.7,1093.1
+1335-MXCSE,Male,0,Yes,Yes,72877,Yes,No,Credit card (automatic),55.25,3119.9
+6029-CSMJE,Male,0,No,No,73486,No,No phone service,Mailed check,25.65,440.2
+8707-RMEZH,Female,1,Yes,No,48261,Yes,No,Credit card (automatic),87.3,6055.55
+0771-CHWSK,Male,0,No,No,176667,Yes,Yes,Credit card (automatic),74.6,4798.4
+3703-KBKZP,Male,1,No,No,231087,Yes,Yes,Bank transfer (automatic),74.45,1261.35
+9477-LGWQI,Male,0,Yes,Yes,229566,Yes,No,Credit card (automatic),80.15,5600.15
+4893-GYUJU,Female,0,No,No,129702,Yes,No,Mailed check,19.35,1033
+2393-DIVAI,Female,0,No,No,215216,Yes,No,Mailed check,20,61.7
+0872-JCPIB,Male,0,No,No,42015,Yes,Yes,Bank transfer (automatic),65.75,1111.2
+9909-IDLEK,Male,0,Yes,Yes,135664,Yes,Yes,Mailed check,96.8,1826.7
+4086-WITJG,Male,0,Yes,Yes,118803,Yes,No,Credit card (automatic),19.7,1301.1
+2874-YXVVA,Female,0,No,No,148704,Yes,No,Electronic check,105.1,3634.8
+0057-QBUQH,Female,0,No,Yes,142562,Yes,Yes,Electronic check,25.1,1070.15
+4676-MQUEA,Male,1,Yes,No,26533,Yes,Yes,Bank transfer (automatic),101.9,5265.5
+0580-PIQHM,Female,0,Yes,Yes,20920,Yes,Yes,Bank transfer (automatic),101.6,3930.55
+5243-SAOTC,Male,0,No,No,76913,Yes,Yes,Bank transfer (automatic),79.85,4308.25
+8347-GDTMP,Female,0,Yes,No,206768,Yes,No,Credit card (automatic),19.45,1225.65
+5012-YSPJJ,Male,0,Yes,Yes,51119,Yes,No,Mailed check,54.35,1647
+5288-AHOUP,Male,1,No,No,31578,Yes,No,Electronic check,78.5,874.2
+7488-MXJIV,Female,0,No,No,41072,Yes,Yes,Electronic check,85.65,321.65
+9867-XOBQA,Female,0,No,Yes,208259,No,No phone service,Mailed check,53.15,1183.2
+2511-ALLCS,Female,0,Yes,Yes,70682,Yes,Yes,Bank transfer (automatic),24.3,821.6
+5578-NKCXI,Female,0,Yes,Yes,1451,Yes,No,Credit card (automatic),99.25,5846.65
+1223-UNPKS,Male,0,Yes,Yes,82720,Yes,No,Mailed check,20.05,400
+9087-EYCPR,Female,0,No,No,20282,Yes,Yes,Mailed check,25,1505.05
+5924-SNGKP,Female,0,No,Yes,114764,Yes,No,Credit card (automatic),20.25,865
+1101-SSWAG,Female,0,Yes,No,212895,Yes,Yes,Electronic check,51.1,711.15
+0082-LDZUE,Male,0,No,No,84841,Yes,No,Mailed check,44.3,44.3
+2003-CKLOR,Male,0,No,No,123559,Yes,No,Electronic check,99.5,6710.5
+0679-IDSTG,Female,1,Yes,Yes,88387,Yes,No,Electronic check,69.25,69.25
+7729-JTEEC,Male,0,Yes,Yes,13277,Yes,No,Electronic check,44.5,90.05
+1550-LOAHA,Female,0,Yes,No,127805,Yes,No,Bank transfer (automatic),84.15,2585.95
+8336-TAVKX,Female,1,Yes,No,174837,Yes,Yes,Bank transfer (automatic),78.45,5682.25
+9114-VEPUF,Male,0,Yes,No,156323,Yes,Yes,Electronic check,96.1,6001.45
+2688-BHGOG,Male,1,No,No,98290,Yes,No,Electronic check,79.55,718.55
+2038-OEQZH,Male,0,No,No,157589,Yes,No,Electronic check,86.05,308.1
+4767-HZZHQ,Male,0,Yes,Yes,130123,Yes,No,Bank transfer (automatic),82.05,2570.2
+0093-XWZFY,Male,0,No,No,197394,Yes,Yes,Credit card (automatic),104.5,4036.85
+5519-TEEUH,Male,0,No,Yes,201233,Yes,No,Mailed check,20.15,682.15
+1088-CNNKB,Male,0,Yes,No,95884,Yes,Yes,Credit card (automatic),80,5040.2
+1813-JLKWR,Female,0,Yes,Yes,150577,Yes,No,Bank transfer (automatic),19.8,1336.65
+4566-NECEV,Male,0,No,No,144520,Yes,Yes,Electronic check,96.55,500.1
+1009-IRMNA,Female,0,No,No,172485,Yes,No,Bank transfer (automatic),20,137.6
+7410-OIEDU,Male,0,No,No,186129,Yes,No,Mailed check,79.85,887.35
+7549-MYGPK,Female,0,Yes,Yes,34645,Yes,Yes,Electronic check,100.55,6215.35
+0056-EPFBG,Male,0,Yes,Yes,134632,No,No phone service,Credit card (automatic),39.4,825.4
+5032-USPKF,Female,0,No,No,213219,Yes,Yes,Bank transfer (automatic),84.1,3187.65
+6723-WSNTY,Female,1,Yes,No,198815,Yes,Yes,Credit card (automatic),108.1,7181.95
+1195-OIYEJ,Male,0,No,No,4674,Yes,No,Electronic check,91.1,1135.7
+7964-YESJC,Female,0,Yes,No,113958,Yes,Yes,Mailed check,66.3,1559.45
+5995-SNNEW,Male,1,Yes,No,186354,Yes,Yes,Electronic check,104.45,2184.85
+9904-EHEVJ,Female,1,Yes,Yes,209920,Yes,Yes,Mailed check,91.35,2896.55
+7876-AEHIG,Female,0,No,Yes,212999,No,No phone service,Bank transfer (automatic),60.15,3077
+4933-BSAIP,Female,0,Yes,No,85641,Yes,No,Mailed check,19.1,780.1
+2978-XXSOG,Female,0,No,No,122186,Yes,Yes,Mailed check,59.05,1253.5
+2585-KTFRE,Male,0,No,Yes,145808,Yes,No,Bank transfer (automatic),70.45,70.45
+4847-TAJYI,Female,1,No,No,36343,Yes,No,Electronic check,89.35,567.8
+6141-OOXUQ,Male,0,No,No,4689,Yes,No,Mailed check,19.65,19.65
+8189-DUKMV,Female,0,Yes,No,123877,Yes,No,Bank transfer (automatic),20.5,79.05
+7752-XUSCI,Female,0,No,No,77270,Yes,Yes,Electronic check,105.9,6396.45
+4334-HOWRP,Male,1,Yes,No,81878,No,No phone service,Credit card (automatic),64.95,4546
+4445-KWOKW,Female,0,No,No,89505,Yes,Yes,Bank transfer (automatic),60.15,2421.6
+0541-FITGH,Female,0,Yes,No,229690,Yes,No,Mailed check,62.15,113.1
+8039-EQPIM,Male,0,Yes,No,230416,No,No phone service,Bank transfer (automatic),60.25,4055.5
+6474-FVJLC,Male,0,No,No,63534,Yes,Yes,Electronic check,86,165.45
+3776-EKTKM,Female,1,No,No,53084,No,No phone service,Electronic check,36.45,36.45
+7036-ZZKBD,Male,0,Yes,No,120955,Yes,No,Credit card (automatic),66.4,2019.8
+6696-YDAYZ,Male,0,Yes,Yes,186274,Yes,No,Mailed check,20.5,290.55
+6040-CGACY,Female,0,No,No,35310,Yes,No,Mailed check,19.6,299.4
+3006-XIMLN,Female,0,No,Yes,82943,Yes,Yes,Bank transfer (automatic),94.2,193.8
+7668-XCFYV,Female,1,Yes,No,170973,Yes,Yes,Electronic check,92.55,1614.7
+6101-IMRMM,Male,0,No,Yes,92789,Yes,No,Mailed check,94.5,575.45
+7839-NUIAA,Female,0,Yes,Yes,194486,Yes,Yes,Electronic check,59.8,3641.5
+7302-ZHMHP,Female,0,No,No,180762,Yes,No,Mailed check,19.15,19.15
+7661-CPURM,Male,0,No,No,171537,Yes,No,Credit card (automatic),87.7,1725.95
+5583-EJXRD,Male,0,Yes,Yes,105661,No,No phone service,Credit card (automatic),54.05,2375.2
+7055-JCGNI,Female,0,No,No,113940,Yes,Yes,Credit card (automatic),111.95,7795.95
+8946-BFWSG,Male,0,Yes,Yes,229083,Yes,Yes,Mailed check,25.25,1573.05
+7636-PEPNS,Female,0,Yes,Yes,91005,Yes,No,Mailed check,44.1,2413.05
+7619-PLRLP,Female,0,Yes,No,64185,Yes,Yes,Bank transfer (automatic),74.1,3833.95
+2478-EEWWM,Male,0,Yes,No,76321,No,No phone service,Electronic check,44.3,2666.75
+6305-YLBMM,Male,0,No,No,205577,Yes,No,Bank transfer (automatic),104.05,7262
+4429-WYGFR,Male,0,No,No,6226,Yes,No,Bank transfer (automatic),49.15,1237.3
+6064-PUPMC,Male,0,Yes,Yes,180280,Yes,No,Credit card (automatic),57.2,1423.35
+1097-FSPVW,Female,0,No,No,129342,Yes,No,Credit card (automatic),54.55,2455.05
+9058-CBREO,Female,1,No,No,109472,Yes,Yes,Mailed check,50.55,50.55
+9239-ZBZZV,Female,0,No,No,5892,No,No phone service,Electronic check,47.95,305.1
+9084-OAYKL,Male,0,No,No,156798,Yes,No,Mailed check,20.8,1212.25
+5299-SJCZT,Male,0,No,No,5508,Yes,Yes,Bank transfer (automatic),101.55,298.35
+5231-FIQPA,Female,0,No,No,6784,Yes,No,Mailed check,19.85,810.45
+7670-ZBPOQ,Female,0,Yes,No,198973,Yes,Yes,Bank transfer (automatic),61.05,3478.75
+8749-JMNKX,Male,1,Yes,No,158976,Yes,Yes,Bank transfer (automatic),93.8,4750.95
+2067-QYTCF,Female,0,Yes,No,223809,Yes,Yes,Electronic check,111.15,6953.4
+3129-AAQOU,Female,0,Yes,Yes,209624,Yes,Yes,Mailed check,25.6,485.9
+1036-GUDCL,Male,0,Yes,Yes,41458,Yes,No,Credit card (automatic),79.05,4663.4
+5375-XLDOF,Male,0,Yes,Yes,192610,Yes,Yes,Bank transfer (automatic),114.35,7665.8
+3191-CSNMG,Female,0,Yes,Yes,168482,Yes,No,Electronic check,80.7,239.45
+3874-EQOEP,Male,0,No,No,8139,Yes,Yes,Mailed check,95,655.5
+7517-SAWMO,Female,0,Yes,No,171469,Yes,No,Electronic check,73.2,1441.1
+2609-IAICY,Female,0,No,No,24709,Yes,Yes,Electronic check,77.15,77.15
+2632-TACXW,Female,0,Yes,No,162917,Yes,Yes,Bank transfer (automatic),23.65,1416.75
+3334-CTHOL,Female,0,No,No,148779,Yes,Yes,Bank transfer (automatic),49.95,49.95
+6513-EECDB,Male,1,Yes,No,162210,Yes,Yes,Electronic check,73.55,73.55
+4945-RVMTE,Female,0,No,No,125144,Yes,No,Bank transfer (automatic),59.55,1646.45
+9589-ABEPT,Male,0,Yes,No,172111,Yes,Yes,Mailed check,92.45,6460.55
+4248-HCETZ,Male,1,Yes,No,185570,Yes,No,Mailed check,79.65,2365.15
+1862-SKORY,Female,1,Yes,No,223943,No,No phone service,Electronic check,39.3,1637.4
+1135-LMECX,Female,0,No,No,135854,Yes,No,Mailed check,19.85,19.85
+7881-INRLC,Male,0,No,No,46529,Yes,Yes,Credit card (automatic),100.85,4740
+7163-OCEQI,Male,0,Yes,Yes,6923,Yes,Yes,Mailed check,78.65,1663.75
+7634-HLQJR,Female,0,Yes,Yes,114257,Yes,No,Credit card (automatic),20.05,1016.7
+4986-MXSFP,Female,0,No,No,154365,Yes,No,Mailed check,20,40.9
+8066-POXGX,Female,0,No,No,35070,No,No phone service,Electronic check,35.1,446.1
+5025-GOOKI,Female,0,No,No,57881,Yes,No,Credit card (automatic),18.9,347.65
+6425-JWTDV,Male,0,Yes,No,205048,Yes,No,Mailed check,19.25,855.1
+8402-EIVQS,Male,0,Yes,No,110511,Yes,No,Credit card (automatic),100.9,6733.15
+1325-USMEC,Male,0,Yes,No,3954,Yes,Yes,Credit card (automatic),99.35,6944.5
+4049-ZPALD,Female,0,Yes,No,68292,Yes,No,Bank transfer (automatic),99,6375.8
+6393-WRYZE,Female,0,Yes,No,174759,Yes,Yes,Electronic check,97.65,3207.55
+1971-DTCZB,Female,0,Yes,No,159740,Yes,Yes,Bank transfer (automatic),90.95,6468.6
+1684-FLBGS,Female,0,Yes,Yes,183709,Yes,Yes,Credit card (automatic),69.5,1652.1
+7508-SMHXL,Female,1,No,No,132352,Yes,Yes,Credit card (automatic),89,1288.3
+8429-XIBUM,Male,0,No,No,140973,Yes,Yes,Bank transfer (automatic),101.35,2317.1
+6061-GWWAV,Male,0,No,Yes,118270,Yes,No,Mailed check,70.2,2894.55
+5680-LQOGP,Female,0,No,No,76100,Yes,No,Credit card (automatic),82.45,5646.6
+6050-IJRHS,Female,0,Yes,Yes,75897,Yes,Yes,Electronic check,106.5,7397
+0363-SVHYR,Male,0,Yes,Yes,102361,Yes,Yes,Bank transfer (automatic),86.85,6263.8
+6997-UVGOX,Male,0,Yes,Yes,36720,Yes,No,Bank transfer (automatic),85.45,6029.9
+5858-EAFCZ,Male,0,No,No,184514,Yes,No,Mailed check,44.45,44.45
+3583-EKAPL,Male,0,No,No,115461,Yes,No,Electronic check,55,55
+7764-BDPEE,Male,0,No,Yes,50107,Yes,No,Mailed check,20.85,60.65
+1685-BQULA,Female,0,No,No,108793,Yes,Yes,Bank transfer (automatic),93.4,3756.4
+3329-WDIOK,Female,0,No,No,122952,No,No phone service,Electronic check,50.6,155.35
+1240-HCBOH,Female,0,No,No,222655,Yes,Yes,Mailed check,26.1,1759.55
+2122-YWVYA,Female,0,No,No,120498,Yes,No,Electronic check,75.4,1380.4
+2164-SOQXL,Female,0,Yes,Yes,14253,Yes,No,Mailed check,20.05,406.05
+9306-CPCBC,Female,0,No,No,181495,Yes,Yes,Electronic check,74.25,210.3
+8975-SKGRX,Male,0,Yes,No,102672,Yes,Yes,Bank transfer (automatic),116.1,8310.55
+2894-QOJRX,Female,0,Yes,No,115019,No,No phone service,Bank transfer (automatic),34,853
+8189-XRIKE,Female,1,No,No,82573,Yes,No,Electronic check,90.95,2897.95
+0506-YLVKJ,Male,0,Yes,Yes,89107,Yes,No,Mailed check,20.2,917.45
+2007-QVGAW,Female,0,Yes,Yes,4820,Yes,No,Bank transfer (automatic),19.35,1292.65
+0253-ZTEOB,Female,0,Yes,Yes,76802,Yes,Yes,Electronic check,79.65,3870.3
+4629-NRXKX,Female,0,Yes,Yes,163225,Yes,No,Electronic check,70.4,147.15
+8268-YDIXR,Male,0,Yes,No,151105,Yes,Yes,Electronic check,93.15,5253.95
+1569-TTNYJ,Male,0,Yes,No,112524,Yes,Yes,Electronic check,78.75,412.1
+4090-KPJIP,Female,0,No,No,92509,Yes,Yes,Electronic check,74.95,212.4
+5312-IRCFR,Female,0,Yes,Yes,104598,Yes,Yes,Electronic check,92.85,5980.75
+9224-VTYID,Male,0,Yes,Yes,58183,Yes,Yes,Mailed check,90.5,4318.35
+3796-ENZGF,Male,0,Yes,No,38581,Yes,Yes,Mailed check,67.25,4234.15
+0098-BOWSO,Male,0,No,No,51168,Yes,No,Electronic check,19.4,529.8
+1732-VHUBQ,Female,1,Yes,Yes,189157,Yes,No,Bank transfer (automatic),70.55,3309.25
+5075-JSDKI,Female,0,No,No,48196,Yes,Yes,Electronic check,24.45,1493.1
+0620-XEFWH,Male,0,Yes,Yes,164032,Yes,No,Mailed check,18.85,84.2
+0164-APGRB,Female,0,No,No,12455,Yes,Yes,Electronic check,114.9,8496.7
+9987-LUTYD,Female,0,No,No,188836,Yes,No,Mailed check,55.15,742.9
+5067-XJQFU,Male,1,Yes,Yes,224712,Yes,Yes,Electronic check,108.45,7076.35
+6223-DHJGV,Female,0,No,No,153302,Yes,No,Mailed check,20.65,958.1
+0114-RSRRW,Female,0,Yes,No,115379,Yes,No,Bank transfer (automatic),19.95,187.75
+2656-FMOKZ,Female,1,No,No,26056,Yes,Yes,Mailed check,74.45,1145.7
+6568-POCUI,Female,0,Yes,No,78659,Yes,No,Credit card (automatic),95.2,4285.8
+7445-WMRBW,Female,0,No,No,156636,Yes,Yes,Bank transfer (automatic),73.85,3581.4
+2209-XADXF,Female,0,No,No,18752,No,No phone service,Bank transfer (automatic),25.25,25.25
+2523-EWWZL,Female,0,Yes,No,67240,Yes,No,Electronic check,76.1,2093.4
+4903-UYAVB,Male,0,Yes,No,25477,Yes,No,Mailed check,19.35,126.05
+2294-SALNE,Male,0,Yes,Yes,162899,Yes,No,Mailed check,86.8,1940.8
+2460-NGXBJ,Male,1,Yes,Yes,201817,Yes,Yes,Credit card (automatic),75.2,775.3
+4238-JSSWH,Female,1,Yes,No,102296,Yes,Yes,Bank transfer (automatic),102.05,3452.55
+6352-GIGGQ,Male,0,No,No,18044,Yes,Yes,Bank transfer (automatic),88.8,5903.15
+5524-KHNJP,Male,0,Yes,Yes,88462,Yes,No,Credit card (automatic),74.75,2453.3
+9127-FHJBZ,Male,0,Yes,Yes,135331,Yes,Yes,Electronic check,114,8093.15
+1360-XFJMR,Female,0,Yes,No,126282,Yes,Yes,Credit card (automatic),109.7,7344.45
+6147-CBCRA,Female,0,Yes,No,222155,Yes,No,Mailed check,20.05,669.45
+4565-EVZMJ,Female,0,No,No,103631,Yes,No,Mailed check,58.9,2813.05
+0011-IGKFF,Male,1,Yes,No,66561,Yes,No,Electronic check,98,1237.85
+7989-VCQOH,Male,0,Yes,Yes,194876,Yes,No,Electronic check,83.25,1611.15
+0378-CJKPV,Female,0,Yes,No,157182,Yes,Yes,Credit card (automatic),112.1,7965.95
+8999-BOHSE,Female,1,No,No,35637,Yes,No,Bank transfer (automatic),89.7,1047.7
+5533-NHFRF,Male,1,No,No,132464,No,No phone service,Electronic check,44.4,265.8
+6627-CFOSN,Female,0,No,No,130128,Yes,Yes,Bank transfer (automatic),99.45,5623.7
+1641-RQDAY,Female,1,Yes,Yes,133458,Yes,Yes,Electronic check,100.4,3217.65
+2143-LJULT,Female,0,Yes,No,226894,Yes,Yes,Credit card (automatic),25.25,1733.15
+1142-IHLOO,Female,0,No,No,227090,Yes,No,Credit card (automatic),87.55,4475.9
+2931-VUVJN,Female,1,Yes,No,104741,Yes,Yes,Electronic check,94.05,5483.9
+1116-FRYVH,Female,0,Yes,Yes,100932,No,No phone service,Mailed check,39.4,1978.65
+8051-HJRLT,Female,1,No,No,145894,Yes,No,Electronic check,70.55,70.55
+9347-AERRL,Male,0,Yes,No,213276,Yes,No,Credit card (automatic),19.3,486.2
+2037-SGXHH,Male,0,Yes,Yes,93254,Yes,Yes,Electronic check,94.65,3624.3
+8748-HFWBO,Male,0,Yes,Yes,9772,Yes,No,Mailed check,19.9,357.7
+7576-OYWBN,Male,1,No,No,158325,Yes,Yes,Electronic check,76.05,231.8
+2675-DHUTR,Male,1,Yes,No,165795,Yes,Yes,Electronic check,98.9,5780.7
+6844-DZKRF,Male,0,No,No,49653,Yes,No,Credit card (automatic),50.2,109.25
+0867-LDTTC,Male,0,No,No,163349,Yes,No,Bank transfer (automatic),75.15,392.65
+0019-EFAEP,Female,0,No,No,12696,Yes,Yes,Bank transfer (automatic),101.3,7261.25
+6689-VRRTK,Female,1,No,No,61403,Yes,Yes,Credit card (automatic),109.8,4860.35
+2332-EFBJY,Male,0,No,No,186391,Yes,No,Mailed check,19.7,342.4
+5311-IHLEI,Male,0,No,No,194411,No,No phone service,Bank transfer (automatic),50.95,605.75
+2990-HWIML,Female,0,No,No,11511,Yes,No,Electronic check,89.5,573.3
+7134-HBPBS,Female,1,No,No,86676,Yes,Yes,Bank transfer (automatic),108.1,7774.05
+6510-UPNKS,Female,0,No,No,216364,Yes,Yes,Credit card (automatic),24.8,615.35
+9565-JSNFM,Male,0,No,No,196468,Yes,No,Bank transfer (automatic),70.45,2597.6
+3946-JEWRQ,Male,0,Yes,No,24963,Yes,Yes,Credit card (automatic),95.2,4563
+8540-ZQGEA,Female,0,Yes,No,65374,Yes,No,Credit card (automatic),20.05,1102.4
+7718-RXDGG,Male,0,Yes,No,151474,Yes,No,Bank transfer (automatic),68.6,1108.6
+5609-CEBID,Female,1,No,No,53924,Yes,Yes,Electronic check,94.1,1782.4
+7916-VCCPB,Female,0,Yes,Yes,138373,Yes,No,Bank transfer (automatic),73.25,1195.75
+6457-GIRWB,Male,0,No,No,208008,Yes,No,Electronic check,69.35,69.35
+6366-ZGQGL,Male,0,No,No,135590,No,No phone service,Bank transfer (automatic),24.8,24.8
+5310-NOOVA,Male,0,No,No,183799,Yes,No,Electronic check,19.95,907.05
+0727-BNRLG,Male,0,No,No,161077,Yes,Yes,Credit card (automatic),97.65,6743.55
+6172-FECYY,Male,0,Yes,Yes,52442,Yes,Yes,Electronic check,84.5,4254.85
+5944-UGLLK,Male,0,No,No,150312,No,No phone service,Credit card (automatic),54.9,3045.75
+1015-JPFYW,Male,0,No,Yes,41569,Yes,No,Mailed check,19.45,136.75
+3982-XWFZQ,Female,0,Yes,No,62844,Yes,Yes,Electronic check,50.25,2203.65
+4316-XCSLJ,Male,0,No,Yes,144919,Yes,No,Mailed check,50.3,846.8
+9050-IKDZA,Female,1,No,No,108431,Yes,No,Mailed check,81.5,162.55
+6728-DKUCO,Female,0,Yes,Yes,74917,Yes,Yes,Electronic check,104.15,7303.05
+0536-BGFMZ,Female,0,Yes,No,149731,Yes,No,Mailed check,20.5,563.05
+8992-JQYUN,Male,0,Yes,No,167688,No,No phone service,Electronic check,50.35,50.35
+3540-RZJYU,Female,0,No,No,42897,Yes,No,Electronic check,86.2,1270.2
+5481-NTDOH,Female,1,Yes,No,146692,Yes,Yes,Credit card (automatic),107.05,7142.5
+0897-FEGMU,Female,0,Yes,No,225068,Yes,Yes,Electronic check,99.5,1056.95
+2530-FMFXO,Male,0,Yes,Yes,50712,Yes,Yes,Electronic check,103.2,5873.75
+8467-WYNSR,Male,0,No,No,184234,Yes,No,Mailed check,55.1,1253.15
+4976-LNFVV,Male,1,Yes,No,182059,No,No phone service,Credit card (automatic),34.3,577.15
+1051-EQPZR,Female,0,Yes,Yes,205988,Yes,No,Mailed check,19.6,780.25
+4307-KWMXE,Male,0,No,No,226679,No,No phone service,Electronic check,35.75,389.8
+1769-GRUIK,Female,0,No,No,187608,Yes,No,Electronic check,71.1,1247.75
+4774-HHGGS,Male,0,Yes,No,186343,Yes,No,Mailed check,19.05,637.55
+4501-VCPFK,Male,0,No,No,111220,No,No phone service,Electronic check,35.75,1022.5
+5089-IFSDP,Female,0,Yes,No,113740,Yes,Yes,Bank transfer (automatic),109.45,6144.55
+9526-BIHHD,Male,0,No,No,70407,No,No phone service,Mailed check,29.7,29.7
+5174-RNGBH,Female,0,No,No,123627,Yes,No,Mailed check,66.25,620.55
+3696-XRIEN,Female,0,No,No,65275,Yes,Yes,Credit card (automatic),82.5,4179.1
+6174-NRBTZ,Male,0,No,No,127894,No,No phone service,Bank transfer (automatic),30.75,1489.3
+8660-BUETV,Female,0,No,No,16856,Yes,No,Mailed check,44.75,148.05
+1596-OQSPS,Female,0,No,No,573,Yes,No,Electronic check,51.1,531.15
+7147-AYBAA,Male,0,No,No,86226,Yes,No,Mailed check,70.35,2552.9
+0156-FVPTA,Male,0,Yes,No,25814,Yes,No,Electronic check,54.2,1152.7
+3873-WOSBC,Male,0,Yes,No,101319,Yes,Yes,Credit card (automatic),25.6,1784.9
+8048-DSDFQ,Male,0,No,No,158137,Yes,No,Mailed check,20.2,20.2
+5939-XAIXZ,Female,0,No,No,139537,Yes,Yes,Mailed check,56.1,1033.9
+0709-TVGUR,Female,1,No,No,221928,Yes,Yes,Electronic check,74.55,622.9
+4686-GEFRM,Male,0,Yes,No,69870,Yes,Yes,Bank transfer (automatic),98.7,6858.9
+1845-ZLLIG,Male,0,No,No,208451,Yes,No,Mailed check,50.15,50.15
+8350-NYMVI,Female,0,No,No,57390,No,No phone service,Bank transfer (automatic),41.1,1597.05
+5028-GZLDO,Male,0,No,No,131307,Yes,No,Credit card (automatic),70.7,140.7
+1125-SNVCK,Female,1,No,No,151447,Yes,No,Mailed check,43.8,2106.05
+7319-VENRZ,Male,0,No,No,170060,Yes,No,Bank transfer (automatic),64.3,445.95
+3165-HDOEW,Male,0,Yes,Yes,164233,Yes,No,Mailed check,45.85,45.85
+1095-WGNGG,Female,0,Yes,No,197644,Yes,Yes,Bank transfer (automatic),101.05,5971.25
+6959-UWKHF,Male,0,No,No,133441,Yes,No,Electronic check,42.9,42.9
+0093-EXYQL,Female,1,No,No,51690,Yes,No,Electronic check,91.55,3673.6
+3612-YVGSJ,Female,0,Yes,No,191217,Yes,Yes,Credit card (automatic),24.45,1681.6
+8565-CLBZW,Male,0,No,No,150787,Yes,Yes,Mailed check,89.85,2165.05
+8967-SZQAS,Female,0,No,No,15825,Yes,No,Electronic check,50.45,765.45
+7789-CRUVC,Female,1,Yes,No,220297,Yes,Yes,Credit card (automatic),94.2,5895.45
+0134-XWXCE,Female,1,No,No,63440,Yes,No,Bank transfer (automatic),74.85,3268.05
+0505-SPOOW,Female,0,Yes,No,175766,Yes,No,Bank transfer (automatic),19.8,1397.65
+7801-KICAO,Female,0,No,No,137772,Yes,Yes,Electronic check,74.15,1345.75
+7603-USHJS,Male,0,No,Yes,132089,Yes,Yes,Credit card (automatic),73.75,871.4
+9659-ZTWSM,Male,1,Yes,No,229553,Yes,Yes,Bank transfer (automatic),107.35,7051.95
+8434-VGEQQ,Male,0,Yes,Yes,24628,Yes,No,Credit card (automatic),20.55,1305.95
+7621-VPNET,Female,0,Yes,No,225341,Yes,Yes,Credit card (automatic),85.9,3729.75
+1732-FEKLD,Female,0,No,No,83354,Yes,Yes,Bank transfer (automatic),94.75,5121.75
+3195-TQDZX,Male,0,No,No,15332,Yes,No,Electronic check,20.25,61.45
+1122-YJBCS,Male,0,Yes,No,197453,Yes,No,Credit card (automatic),53.65,3804.4
+6184-DYUOB,Female,0,Yes,No,28351,Yes,No,Mailed check,19.6,55.25
+6711-FLDFB,Female,0,No,No,36222,Yes,Yes,Electronic check,74.9,541.15
+5821-MMEIL,Female,0,Yes,No,139601,Yes,No,Bank transfer (automatic),19.9,1115.6
+9685-WKZGT,Male,1,No,No,184097,Yes,Yes,Electronic check,74.95,1036.75
+4905-JEFDW,Male,0,No,No,56527,No,No phone service,Electronic check,41.6,470.6
+6260-XLACS,Male,0,No,No,92617,Yes,No,Mailed check,19.7,117.8
+8597-CWYHH,Male,0,No,No,96918,Yes,Yes,Mailed check,94.35,3921.3
+3658-QQJYD,Male,0,No,No,117580,Yes,No,Credit card (automatic),74.3,4698.05
+2180-DXNEG,Female,0,No,No,136793,Yes,No,Electronic check,96,1062.1
+7266-GSSJX,Male,0,Yes,Yes,19032,Yes,No,Electronic check,20.45,250.8
+5438-QMDDL,Female,0,Yes,No,180680,Yes,No,Mailed check,59.8,1130.85
+4393-RYCRE,Male,0,No,No,216187,Yes,No,Electronic check,106.05,4510.8
+7072-MBHEV,Female,1,Yes,Yes,123004,Yes,Yes,Credit card (automatic),78.1,864.85
+9675-ICXCT,Male,0,Yes,Yes,231564,Yes,No,Electronic check,80.8,5728.55
+6680-NENYN,Female,0,No,No,107437,Yes,Yes,Electronic check,104.6,4759.85
+1449-XQEMT,Male,0,No,No,30378,Yes,No,Mailed check,19.8,58.15
+6458-CYIDZ,Female,1,No,No,126350,Yes,No,Electronic check,80.7,374.8
+1142-WACZW,Male,0,No,No,122685,No,No phone service,Bank transfer (automatic),29.85,75.6
+3301-VKTGC,Male,0,Yes,Yes,26929,Yes,Yes,Bank transfer (automatic),85.5,5696.6
+5244-IRFIH,Male,1,Yes,No,197227,Yes,Yes,Electronic check,94.5,3105.55
+4718-DHSMV,Female,0,No,No,24153,No,No phone service,Mailed check,35.8,363.15
+1891-FZYSA,Male,1,Yes,No,56297,Yes,Yes,Electronic check,89.95,6143.15
+1469-LBJQJ,Female,0,Yes,No,181391,Yes,Yes,Electronic check,105.2,6936.85
+4115-BNPJY,Male,0,Yes,Yes,192273,Yes,No,Mailed check,75.55,2054.4
+4608-LCIMN,Male,0,Yes,Yes,194919,Yes,No,Bank transfer (automatic),44.65,369.15
+5456-ITGIC,Male,1,Yes,No,71182,No,No phone service,Credit card (automatic),64.45,4641.1
+1767-TGTKO,Female,0,Yes,Yes,105122,Yes,No,Electronic check,45.45,411.75
+2325-WINES,Female,0,No,No,155012,Yes,Yes,Credit card (automatic),104.05,3416.85
+8129-GMVGI,Female,0,Yes,Yes,152978,Yes,No,Mailed check,20.05,1090.1
+0940-OUQEC,Male,0,No,No,44500,Yes,Yes,Bank transfer (automatic),80.7,788.8
+2348-KCJLT,Female,0,Yes,No,199258,Yes,No,Mailed check,61.5,2722.2
+0461-CVKMU,Female,0,Yes,Yes,207934,Yes,No,Electronic check,83.8,1900.25
+1215-VFYVK,Female,0,No,No,35817,No,No phone service,Mailed check,48.25,202.25
+4072-IPYLT,Female,0,Yes,Yes,220057,Yes,No,Credit card (automatic),51.05,1815
+6173-ITPWD,Male,0,Yes,No,223949,Yes,Yes,Bank transfer (automatic),83.35,4065
+7389-KBFIT,Female,0,Yes,Yes,103846,No,No phone service,Mailed check,30.25,63.75
+0731-EBJQB,Female,0,Yes,Yes,117071,Yes,No,Electronic check,20.4,1090.65
+7330-WZLNC,Female,0,No,No,70163,Yes,Yes,Electronic check,90.8,455.5
+9055-MOJJJ,Female,0,Yes,Yes,9539,Yes,No,Mailed check,65.8,4068
+9992-UJOEL,Male,0,No,No,48885,Yes,No,Mailed check,50.3,92.75
+8388-DMKAE,Female,0,No,No,139150,Yes,No,Mailed check,20.25,174.65
+2619-WFQWU,Female,0,No,No,221271,Yes,No,Mailed check,70.15,70.15
+7851-FLGGQ,Male,0,No,No,159505,No,No phone service,Mailed check,44.65,44.65
+7139-JZFVG,Male,0,Yes,Yes,84471,Yes,No,Bank transfer (automatic),60.5,3694.45
+3771-PZOBW,Male,0,No,No,75569,Yes,Yes,Credit card (automatic),90.7,1781.35
+3733-ZEECP,Male,0,Yes,Yes,128091,Yes,No,Electronic check,51.1,1232.9
+4906-ZHGPK,Male,0,Yes,Yes,26410,Yes,Yes,Electronic check,70.7,3770
+7439-DKZTW,Male,0,No,No,41235,Yes,No,Electronic check,80.55,80.55
+2592-HODOV,Male,0,No,No,94782,Yes,No,Credit card (automatic),19.3,259.65
+7826-VVKWT,Female,1,Yes,Yes,107099,Yes,No,Electronic check,96.55,2263.45
+1658-TJVOA,Female,1,No,No,61443,Yes,No,Electronic check,74.1,450.9
+2439-LYPMQ,Male,1,Yes,No,154640,Yes,Yes,Electronic check,102.6,4009.2
+7596-LDUXP,Female,0,No,No,150052,Yes,No,Credit card (automatic),85.15,979.05
+4524-QCSSM,Male,0,No,No,70379,No,No phone service,Bank transfer (automatic),44.65,1156.55
+7816-VGHTO,Female,0,Yes,Yes,57592,No,No phone service,Mailed check,40.55,217.5
+3092-IGHWF,Male,0,Yes,Yes,57587,Yes,Yes,Electronic check,87.4,5918.8
+6646-QVXLR,Male,1,Yes,No,201861,Yes,Yes,Electronic check,103.75,6383.35
+9074-KGVOX,Male,0,Yes,Yes,214617,No,No phone service,Credit card (automatic),39.45,2021.35
+5360-XGYAZ,Male,0,Yes,Yes,143352,No,No phone service,Bank transfer (automatic),65.65,4664.5
+0354-WYROK,Female,1,Yes,Yes,65729,Yes,No,Electronic check,98.9,2911.3
+9778-OGKQZ,Male,0,Yes,No,231867,Yes,Yes,Credit card (automatic),92,6782.15
+4139-JPIAM,Male,0,No,No,198008,No,No phone service,Credit card (automatic),44.45,2181.55
+3727-JEZTU,Female,0,No,No,131692,Yes,No,Mailed check,20.4,20.4
+3882-IYOIJ,Female,0,Yes,Yes,76673,Yes,Yes,Credit card (automatic),115.25,6758.45
+4335-UPJSI,Female,0,No,Yes,187711,Yes,No,Mailed check,19.75,498.1
+7760-OYPDY,Female,0,No,No,199405,Yes,No,Electronic check,80.65,144.15
+7786-WBJYI,Female,0,No,No,90585,Yes,Yes,Bank transfer (automatic),77.95,305.55
+4102-HLENU,Female,0,Yes,No,169443,Yes,Yes,Mailed check,65.65,4322.85
+7718-UPSKJ,Female,0,Yes,No,142502,Yes,No,Credit card (automatic),106.4,7251.9
+4110-PFEUZ,Female,0,No,No,85533,Yes,No,Mailed check,69.55,69.55
+3768-VHXQO,Male,0,Yes,No,173976,Yes,Yes,Credit card (automatic),24.85,1583.5
+3027-ZTDHO,Male,0,No,No,124230,Yes,No,Electronic check,89.9,89.9
+4833-QTJNO,Male,1,Yes,No,205712,Yes,Yes,Bank transfer (automatic),83.85,5588.8
+0141-YEAYS,Female,1,No,No,1273,Yes,Yes,Bank transfer (automatic),86.45,2401.05
+9822-WMWVG,Female,0,No,No,67714,Yes,Yes,Electronic check,106.5,4282.4
+3612-YUNGG,Male,0,Yes,Yes,55827,Yes,Yes,Credit card (automatic),109.2,6741.15
+7665-TOALD,Female,0,No,No,580,Yes,No,Electronic check,69.6,69.6
+5027-XWQHA,Male,0,No,No,144834,Yes,No,Electronic check,44.75,270.95
+9443-JUBUO,Male,0,Yes,Yes,100879,No,No phone service,Credit card (automatic),65.25,4478.85
+2325-ZUSFD,Female,0,Yes,Yes,57664,Yes,No,Bank transfer (automatic),70.1,3913.3
+6953-PBDIN,Male,0,Yes,No,116050,Yes,Yes,Bank transfer (automatic),72.95,5265.55
+3247-ZVOUO,Male,1,Yes,No,230113,Yes,Yes,Electronic check,85.55,851.75
+6629-CZTTH,Male,0,No,No,151062,Yes,No,Mailed check,55.7,55.7
+2176-LVPNX,Female,1,No,No,166195,Yes,Yes,Mailed check,89.85,6293.45
+9505-SQFSW,Female,0,Yes,Yes,197190,No,No phone service,Mailed check,40.3,92.5
+1705-GUHPV,Female,0,No,No,90183,Yes,Yes,Mailed check,24.2,1618.2
+7978-DKUQH,Female,0,Yes,No,135799,Yes,No,Electronic check,74.6,1797.75
+7608-RGIRO,Male,0,No,Yes,214367,Yes,Yes,Mailed check,24.4,1413
+3807-BPOMJ,Female,0,Yes,No,231258,Yes,No,Electronic check,94.75,5276.1
+1960-UOTYM,Male,0,Yes,Yes,129950,Yes,No,Electronic check,79.2,4016.3
+9560-ARGQJ,Female,0,No,Yes,52277,Yes,No,Electronic check,81,1312.15
+5294-DMSFH,Female,0,Yes,Yes,99084,Yes,No,Credit card (automatic),87.8,2621.75
+2485-ITVKB,Female,0,Yes,No,90960,No,No phone service,Electronic check,35.1,68.75
+7967-HYCDE,Male,0,No,No,6492,Yes,No,Bank transfer (automatic),70.7,553.4
+2135-DQWAQ,Female,0,No,No,8349,Yes,No,Mailed check,85.3,420.45
+5396-IZEPB,Male,0,No,No,29753,Yes,No,Credit card (automatic),19.7,180.7
+6022-UGGSO,Female,1,No,No,105524,Yes,No,Electronic check,74.4,2276.95
+7971-HLVXI,Male,0,Yes,Yes,132064,Yes,Yes,Credit card (automatic),84.5,6130.85
+7021-XSNYE,Male,0,Yes,Yes,223121,No,No phone service,Credit card (automatic),49.65,305.55
+1986-PHGZF,Male,1,No,No,222856,Yes,Yes,Credit card (automatic),58.4,964.9
+5118-MUEYH,Female,0,Yes,No,231694,Yes,Yes,Credit card (automatic),105.1,5083.55
+3841-NFECX,Female,1,Yes,No,101552,Yes,Yes,Credit card (automatic),96.35,6766.95
+3494-JCHRQ,Male,0,No,No,207935,Yes,No,Electronic check,70.05,70.05
+5440-VHLUL,Male,0,No,No,12892,Yes,Yes,Bank transfer (automatic),105.2,7386.05
+3154-HMWUU,Male,0,Yes,No,90847,Yes,No,Bank transfer (automatic),20.5,1198.8
+0616-ATFGB,Male,1,Yes,No,174063,No,No phone service,Electronic check,25.05,25.05
+2607-FBDFF,Male,0,No,No,120304,Yes,No,Credit card (automatic),49,49
+3717-LNXKW,Male,0,Yes,No,106394,Yes,Yes,Bank transfer (automatic),91.7,3479.05
+1336-EZFZY,Female,0,No,No,13785,Yes,No,Mailed check,20.05,83.3
+7954-MLBUN,Male,0,No,No,114795,Yes,No,Bank transfer (automatic),99.45,3109.9
+6646-JPPHA,Female,1,No,No,146758,Yes,No,Electronic check,78.85,1043.8
+0013-SMEOE,Female,1,Yes,No,212746,Yes,No,Bank transfer (automatic),109.7,7904.25
+9878-TNQGW,Male,0,No,No,145622,Yes,No,Electronic check,80.95,171.15
+9777-IQHWP,Male,0,Yes,Yes,95937,Yes,Yes,Bank transfer (automatic),93.4,5822.3
+0570-BFQHT,Female,0,No,No,142533,Yes,No,Electronic check,80.55,653.9
+5285-MVEHD,Female,0,Yes,No,54772,Yes,No,Credit card (automatic),105.6,6068.65
+9093-FPDLG,Female,0,No,No,160675,Yes,No,Electronic check,94.2,999.9
+2848-YXSMW,Male,0,Yes,Yes,178153,Yes,No,Credit card (automatic),19.4,1363.25
+0970-QXPXW,Female,0,No,No,148373,Yes,No,Mailed check,19.65,19.65
+2522-AHJXR,Male,0,Yes,No,228235,Yes,Yes,Bank transfer (automatic),109.45,6572.85
+9373-WSLOY,Male,1,Yes,No,15621,No,No phone service,Electronic check,50,1750.85
+4277-BWBML,Male,0,Yes,Yes,166692,Yes,No,Bank transfer (automatic),19.95,1322.85
+6156-UZDLF,Female,0,No,No,89070,Yes,No,Credit card (automatic),87.15,2274.1
+0378-TOVMS,Female,0,No,No,72257,Yes,No,Electronic check,85.8,272.2
+2436-QBZFP,Female,0,Yes,Yes,160474,No,No phone service,Electronic check,39.2,849.9
+3402-XRIUO,Female,1,Yes,No,65134,Yes,Yes,Mailed check,63.55,1381.8
+4929-BSTRX,Female,0,No,No,98876,Yes,No,Mailed check,53.55,53.55
+0285-INHLN,Male,0,Yes,Yes,8988,Yes,No,Credit card (automatic),54.75,1510.3
+4501-EQDRN,Female,0,No,No,114029,Yes,No,Bank transfer (automatic),69.7,69.7
+0337-CNPZE,Female,0,No,No,103842,Yes,Yes,Electronic check,106.3,4443.45
+2272-QAGFO,Female,1,No,No,178407,Yes,Yes,Electronic check,74.3,1096.25
+5027-QPKTE,Male,0,Yes,No,13507,Yes,No,Electronic check,69.35,451.1
+5423-BHIXO,Female,0,No,No,958,Yes,Yes,Electronic check,54.2,1739.6
+1338-CECEE,Male,0,Yes,Yes,165926,Yes,Yes,Bank transfer (automatic),68.5,2839.95
+2718-GAXQD,Female,1,Yes,Yes,71832,Yes,No,Electronic check,46,181.6
+4521-WFJAI,Male,0,No,No,117413,Yes,Yes,Bank transfer (automatic),25.95,1444.05
+3336-JORSO,Female,1,No,No,12816,Yes,Yes,Electronic check,110.45,3655.45
+5485-WUYWF,Male,1,No,No,697,Yes,No,Bank transfer (automatic),66.4,94.55
+8868-WOZGU,Male,0,No,No,153980,Yes,Yes,Electronic check,105.7,2979.5
+7246-ZGQDF,Female,0,No,Yes,88979,Yes,No,Electronic check,54.5,54.5
+2967-MXRAV,Male,0,Yes,Yes,180522,Yes,No,Mailed check,18.8,18.8
+4512-ZUIYL,Female,0,No,No,92778,Yes,No,Bank transfer (automatic),70,153.05
+8361-LTMKD,Male,1,Yes,No,230621,Yes,Yes,Mailed check,74.4,306.6
+2697-NQBPF,Male,0,No,No,16152,Yes,Yes,Electronic check,105.35,3540.65
+6872-HXFNF,Female,0,Yes,No,116171,Yes,Yes,Bank transfer (automatic),58.35,3756.45
+1386-ZIKUV,Male,0,No,No,87686,Yes,No,Mailed check,18.95,130.55
+2330-PQGDQ,Male,0,Yes,Yes,200714,Yes,Yes,Bank transfer (automatic),84.2,4299.75
+1930-BZLHI,Male,0,No,No,203158,Yes,No,Mailed check,20.35,422.7
+2999-AANRQ,Female,0,No,No,26781,Yes,No,Credit card (automatic),71.05,1524.85
+5198-EFNBM,Male,1,Yes,No,110987,Yes,No,Electronic check,90.65,5199.8
+8185-UPYBR,Male,0,Yes,No,107419,Yes,Yes,Electronic check,75.5,438
+5780-INQIK,Female,0,No,No,231224,Yes,No,Electronic check,49.4,408.25
+6791-YBNAK,Male,0,Yes,Yes,53804,No,No phone service,Credit card (automatic),25.55,467.85
+5931-FLJJF,Male,1,Yes,No,118617,Yes,No,Mailed check,70.1,467.55
+6131-FOYAS,Male,0,No,No,165405,Yes,Yes,Electronic check,59.6,2094.9
+5985-TBABQ,Female,0,No,No,127255,Yes,Yes,Mailed check,74.75,2282.95
+4998-IKFSE,Female,0,No,No,178010,Yes,Yes,Electronic check,100.45,3096.9
+0980-FEXWF,Male,0,Yes,Yes,32930,Yes,No,Mailed check,50.35,1285.8
+6075-SLNIL,Male,0,No,No,60760,Yes,Yes,Credit card (automatic),95.1,3691.2
+7279-BUYWN,Female,1,No,No,147725,Yes,Yes,Electronic check,113.2,4689.5
+5337-IIWKZ,Male,0,Yes,Yes,55080,No,No phone service,Electronic check,44.85,1442.6
+3605-JISKB,Male,1,Yes,No,213893,Yes,Yes,Credit card (automatic),60,3316.1
+2267-WTPYD,Female,1,Yes,No,51759,Yes,Yes,Credit card (automatic),94,5438.95
+6797-UCJHZ,Female,1,Yes,No,88918,Yes,Yes,Credit card (automatic),104.6,6819.45
+2716-GFZOR,Male,0,Yes,No,205352,Yes,No,Credit card (automatic),86.1,3551.65
+5393-HJZSM,Female,0,Yes,Yes,205319,Yes,No,Bank transfer (automatic),76.3,2404.15
+8203-XJZRC,Male,0,No,No,213788,Yes,No,Mailed check,20.25,20.25
+7013-PSXHK,Female,0,No,No,54418,Yes,Yes,Mailed check,80.75,3208.65
+5312-UXESG,Female,0,No,No,227845,Yes,Yes,Bank transfer (automatic),98.05,3990.6
+6741-EGCBI,Male,1,No,No,71703,Yes,Yes,Credit card (automatic),90.5,2595.85
+6204-IEUXJ,Female,0,No,No,226879,Yes,No,Credit card (automatic),80.1,217.55
+6353-BRMMA,Female,0,Yes,Yes,50895,Yes,Yes,Bank transfer (automatic),104.1,5645.8
+2344-JMOGN,Male,0,Yes,No,118729,Yes,No,Mailed check,94.85,890.6
+2077-MPJQO,Male,1,Yes,No,132551,Yes,Yes,Electronic check,75.4,533.05
+8091-TTVAX,Male,0,Yes,No,75967,Yes,Yes,Credit card (automatic),100.35,5681.1
+6900-RBKER,Male,0,No,No,136319,Yes,Yes,Credit card (automatic),89.45,4577.75
+8319-QBEHW,Male,0,No,Yes,90338,No,No phone service,Bank transfer (automatic),39.95,1023.75
+9860-LISIZ,Female,0,No,No,75738,Yes,No,Mailed check,20.35,673.2
+5206-XZZQI,Male,0,No,No,136470,Yes,No,Mailed check,80.6,4348.1
+9529-OFXHY,Male,0,No,No,4357,Yes,Yes,Bank transfer (automatic),87.75,1242.2
+1725-MIMXW,Male,0,No,Yes,157962,Yes,No,Mailed check,19.45,19.45
+4324-AHJKS,Female,0,No,No,124574,Yes,No,Credit card (automatic),55.8,300.4
+2133-TSRRM,Female,0,No,Yes,230304,Yes,No,Bank transfer (automatic),105.35,3688.6
+2809-ZMYOQ,Female,0,No,No,178118,Yes,Yes,Electronic check,101.35,3334.9
+4032-RMHCI,Female,0,Yes,Yes,49606,No,No phone service,Credit card (automatic),35.4,1412.4
+8409-WQJUX,Female,0,No,No,104273,No,No phone service,Electronic check,54.2,1423.15
+1536-YHDOE,Male,0,Yes,Yes,100915,Yes,Yes,Mailed check,62.1,1096.65
+1140-UKVZG,Female,0,No,No,184242,Yes,Yes,Mailed check,24.8,475.25
+2987-BJXIK,Female,0,No,No,36763,Yes,Yes,Mailed check,84.7,5991.05
+3653-NCRDJ,Male,0,Yes,Yes,142989,Yes,No,Mailed check,19.2,776.25
+9365-CSLBQ,Male,0,No,Yes,106044,Yes,Yes,Mailed check,24.35,1654.6
+8263-JQAIK,Male,1,No,No,153018,No,No phone service,Mailed check,24.45,47.5
+3452-SRFEG,Male,0,No,No,159517,Yes,Yes,Bank transfer (automatic),74.6,3720.35
+5985-BEHZK,Female,1,Yes,No,46525,Yes,Yes,Credit card (automatic),105,7578.05
+4993-JCRGJ,Male,0,No,No,170387,Yes,Yes,Mailed check,84.3,2281.6
+1133-KXCGE,Female,0,No,No,58604,Yes,No,Mailed check,20.1,407.05
+6521-YYTYI,Male,0,No,Yes,21103,Yes,Yes,Electronic check,93.3,93.3
+6158-DWPZT,Male,0,Yes,No,46706,No,No phone service,Bank transfer (automatic),24.1,259.8
+2305-MRGLV,Male,0,Yes,No,84419,Yes,No,Bank transfer (automatic),76.55,2065.4
+7293-LSCDV,Female,0,Yes,Yes,227830,Yes,No,Credit card (automatic),19.25,1103.25
+2958-NHPPS,Male,0,No,No,11252,Yes,No,Electronic check,20.85,473.9
+2154-KVJFF,Female,0,No,No,175495,Yes,Yes,Electronic check,79.75,1111.85
+2038-YSEZE,Female,0,No,No,109765,Yes,Yes,Mailed check,67.45,1801.1
+2418-TPEUN,Female,0,Yes,Yes,119172,Yes,No,Credit card (automatic),19.8,1119.9
+1877-HKBQX,Female,0,No,No,140390,Yes,No,Mailed check,54.6,617.85
+1544-JJMYL,Male,0,No,No,218169,Yes,No,Credit card (automatic),69.35,1927.3
+5583-SXDAG,Male,0,Yes,No,167969,Yes,No,Electronic check,70,70
+8646-JCOMS,Female,0,Yes,No,144427,Yes,Yes,Bank transfer (automatic),90.55,6130.95
+6048-QBXKL,Female,1,No,No,985,Yes,Yes,Credit card (automatic),56.55,118.25
+8999-EXMNO,Female,0,Yes,Yes,43250,Yes,No,Mailed check,20.15,387.7
+6242-SGYTS,Male,0,Yes,Yes,216755,Yes,Yes,Credit card (automatic),94.95,5791.85
+4626-OZDTJ,Female,0,Yes,No,38016,Yes,Yes,Credit card (automatic),78.65,3950.85
+4024-CSNBY,Female,0,Yes,No,172473,Yes,Yes,Bank transfer (automatic),94.25,6849.75
+4112-LUEIZ,Male,0,No,No,206257,Yes,No,Electronic check,89.5,863.1
+6252-DFGTK,Female,0,Yes,No,114358,Yes,Yes,Credit card (automatic),68.1,2479.25
+4422-QVIJA,Female,0,No,Yes,50293,Yes,Yes,Mailed check,50.15,1655.35
+7766-CLTIC,Female,0,No,No,191132,Yes,No,Mailed check,60.95,629.55
+1934-SJVJK,Male,0,No,No,229919,Yes,No,Mailed check,20.15,20.15
+5260-UMPWX,Female,0,Yes,Yes,58861,Yes,No,Credit card (automatic),20.25,493.95
+4291-TPNFG,Male,0,Yes,No,168668,Yes,Yes,Bank transfer (automatic),82.3,5980.55
+4803-AXVYP,Female,1,No,No,88705,Yes,Yes,Electronic check,99.55,3734.25
+8784-CGILN,Female,0,No,No,90261,Yes,Yes,Bank transfer (automatic),99.85,1776.95
+9150-HEPMB,Male,0,No,No,97010,Yes,No,Mailed check,52.7,3019.7
+8570-KLJYJ,Female,0,No,No,97194,Yes,Yes,Mailed check,54.45,1893.5
+9054-FOWNV,Male,0,Yes,Yes,223233,Yes,Yes,Electronic check,88.75,1885.15
+0960-HUWBM,Male,0,Yes,Yes,75239,Yes,Yes,Bank transfer (automatic),104.1,6700.05
+1134-YWTYF,Male,0,Yes,No,106107,Yes,No,Electronic check,53.8,1389.85
+3002-WQZWT,Female,0,No,No,638,Yes,Yes,Electronic check,74.2,1993.25
+2660-EMUBI,Male,1,No,No,173764,Yes,Yes,Electronic check,95.35,898.35
+2786-GCDPI,Female,1,No,No,81385,Yes,Yes,Electronic check,104.95,5222.35
+3914-FDRHP,Male,0,No,No,43189,Yes,No,Electronic check,86.25,770.5
+0269-XFESX,Male,0,Yes,Yes,199018,Yes,Yes,Mailed check,24.35,538.5
+7619-ODSGN,Male,0,Yes,Yes,149620,Yes,Yes,Electronic check,54.75,1338.15
+2043-WVTQJ,Male,0,Yes,No,3782,Yes,No,Mailed check,55.7,55.7
+0384-RVBPI,Male,0,No,No,89127,Yes,No,Credit card (automatic),64.4,1398.6
+0378-XSZPU,Male,0,Yes,No,116117,Yes,No,Credit card (automatic),60.3,3563.8
+5529-GIBVH,Female,0,No,No,16437,Yes,No,Mailed check,20.15,1046.2
+7322-OCWHC,Male,1,Yes,No,126940,Yes,Yes,Bank transfer (automatic),93.05,6735.05
+8735-IJJEG,Male,0,Yes,No,11544,Yes,No,Credit card (automatic),50.2,668.85
+8050-XGRVL,Female,0,Yes,Yes,89157,Yes,No,Credit card (automatic),54.75,3425.35
+4846-WHAFZ,Female,1,Yes,No,133265,Yes,Yes,Electronic check,76.5,2868.15
+6907-CQGPN,Male,0,No,No,71516,No,No phone service,Electronic check,34.3,1004.75
+3970-XGJDU,Female,0,No,No,40814,Yes,No,Credit card (automatic),19.2,1123.65
+8631-WUXGY,Female,0,No,Yes,4603,Yes,No,Electronic check,99.8,4391.25
+7218-HKQFK,Male,0,Yes,No,162928,Yes,No,Electronic check,94.2,167.5
+6212-ATMLK,Female,0,No,No,24173,Yes,Yes,Electronic check,95.7,4729.75
+8625-AZYZY,Male,0,Yes,No,70880,Yes,Yes,Electronic check,104.65,2542.45
+7740-BTPUX,Male,1,Yes,No,155067,Yes,Yes,Electronic check,113.6,6292.7
+8869-LIHMK,Female,0,No,No,23131,Yes,Yes,Bank transfer (automatic),115.1,7334.05
+4951-UKAAQ,Female,0,No,No,62620,Yes,Yes,Electronic check,88.95,355.2
+6624-JDRDS,Female,0,No,No,179074,No,No phone service,Bank transfer (automatic),29.45,161.45
+9248-OJYKK,Male,1,No,No,162811,Yes,Yes,Electronic check,76.45,76.45
+0513-RBGPE,Male,0,Yes,Yes,23464,Yes,Yes,Credit card (automatic),62.8,2278.75
+3836-FZSDJ,Male,1,Yes,No,61057,Yes,Yes,Bank transfer (automatic),24.85,1901
+1301-LOPVR,Male,0,Yes,Yes,31986,No,No phone service,Credit card (automatic),55.35,1636.95
+7479-NITWS,Male,0,No,No,19450,Yes,Yes,Credit card (automatic),89.35,631.85
+3312-UUMZW,Male,0,Yes,No,84308,Yes,Yes,Credit card (automatic),98.85,3145.9
+0060-FUALY,Female,0,Yes,No,12040,Yes,Yes,Electronic check,94.75,5597.65
+2985-JUUBZ,Male,0,Yes,Yes,178022,Yes,Yes,Electronic check,74.55,3015.75
+5016-ETTFF,Male,0,No,No,184306,No,No phone service,Mailed check,29.5,255.25
+1998-VHJHK,Female,0,No,No,168790,Yes,No,Mailed check,19.15,501.35
+1925-TIBLE,Female,0,Yes,No,96236,Yes,Yes,Electronic check,86.5,582.5
+0485-ZBSLN,Male,0,Yes,Yes,143947,Yes,Yes,Credit card (automatic),24.75,1715.1
+4817-QRJSX,Female,0,No,No,99793,Yes,Yes,Credit card (automatic),81,818.05
+7299-GNVPL,Female,0,Yes,Yes,195351,Yes,No,Mailed check,84.4,1936.85
+0945-TSONX,Female,0,Yes,Yes,14692,Yes,Yes,Credit card (automatic),85.3,4107.25
+6859-RKMZJ,Male,0,Yes,No,50072,Yes,No,Bank transfer (automatic),55.05,608.15
+4177-JPDFU,Male,0,No,No,45053,No,No phone service,Mailed check,34,442.45
+4459-BBGHE,Male,0,No,Yes,140437,No,No phone service,Electronic check,44.5,1307.8
+5196-SGOAK,Female,0,No,No,185551,Yes,No,Electronic check,75.7,75.7
+0103-CSITQ,Female,0,Yes,No,86494,Yes,Yes,Bank transfer (automatic),109.4,6252.7
+7206-PQBBZ,Male,1,Yes,No,31489,Yes,No,Electronic check,70.2,834.7
+7727-SHVZV,Female,0,No,No,199218,Yes,No,Bank transfer (automatic),19.5,150.35
+2608-BHKFN,Female,0,No,No,134127,Yes,No,Credit card (automatic),70.05,266.9
+4860-IJUDE,Male,0,No,No,21397,Yes,No,Credit card (automatic),73.75,956.65
+9509-MPYOD,Female,0,No,No,163821,Yes,No,Mailed check,20.75,700.45
+3813-DHBBB,Male,0,Yes,No,45625,No,No phone service,Bank transfer (automatic),50.95,3521.7
+8672-OAUPW,Male,0,No,Yes,66684,Yes,No,Credit card (automatic),47.85,2356.75
+9564-KCLHR,Male,0,No,No,203655,Yes,No,Mailed check,51.25,51.25
+8659-IOOPU,Female,0,Yes,Yes,227628,Yes,Yes,Electronic check,100.45,7159.7
+3312-ZWLGF,Male,1,Yes,No,42886,Yes,Yes,Electronic check,79.3,2414.55
+8267-ZNYVZ,Female,0,Yes,No,77200,Yes,No,Electronic check,103.75,3361.05
+0305-SQECB,Female,0,No,Yes,6141,No,No phone service,Mailed check,36.05,402.6
+7018-WBJNK,Male,0,No,Yes,51880,Yes,No,Credit card (automatic),78.3,1033.95
+8922-NPKBJ,Male,0,Yes,Yes,110625,Yes,No,Mailed check,19.35,867.3
+7421-ZLUPA,Female,0,No,No,144944,No,No phone service,Mailed check,29.25,226.95
+6982-SSHFK,Male,0,No,No,175274,Yes,No,Mailed check,44.4,44.4
+9031-ZVQPT,Male,0,Yes,No,58180,Yes,Yes,Electronic check,108.2,7840.6
+0178-SZBHO,Male,0,Yes,Yes,176844,Yes,Yes,Electronic check,87.2,4017.45
+3370-GQEAL,Male,0,Yes,Yes,54668,Yes,Yes,Electronic check,85.45,2509.95
+3584-WKTTW,Male,0,Yes,No,85952,Yes,Yes,Electronic check,111.55,5720.35
+0848-ZGQIJ,Female,0,Yes,No,174453,Yes,No,Bank transfer (automatic),94.65,1461.15
+6116-RFVHN,Female,0,Yes,No,220060,Yes,Yes,Electronic check,100.45,3414.65
+5229-PRWKT,Male,0,No,No,180203,Yes,Yes,Electronic check,86.55,649.65
+8237-ULIXL,Female,0,Yes,No,63087,Yes,Yes,Credit card (automatic),24.85,1871.85
+3915-ODIYG,Male,1,No,No,64386,Yes,Yes,Electronic check,71.75,4374.55
+5914-XRFQB,Male,0,Yes,No,60295,Yes,Yes,Bank transfer (automatic),115.8,8424.9
+6476-EPYZR,Male,0,Yes,Yes,188787,Yes,No,Mailed check,20.5,255.5
+9227-YBAXE,Female,0,Yes,Yes,50931,Yes,Yes,Bank transfer (automatic),82.5,5215.1
+2171-UDMFD,Male,0,Yes,Yes,143265,Yes,No,Credit card (automatic),19.45,674.55
+3351-NQLDI,Female,0,Yes,Yes,73182,Yes,Yes,Credit card (automatic),94.35,6341.45
+7838-LAZFO,Male,0,Yes,No,191411,Yes,No,Bank transfer (automatic),78.8,3597.5
+7131-ZQZNK,Female,0,Yes,Yes,11103,No,No phone service,Credit card (automatic),59.85,3590.2
+9822-OAOVB,Female,0,No,No,84217,Yes,No,Electronic check,55.45,55.45
+5614-DNZCE,Female,0,No,No,158271,Yes,No,Credit card (automatic),64.9,3795.45
+7943-RQCHR,Female,0,No,No,185016,Yes,Yes,Electronic check,94.75,889.9
+9840-EFJQB,Female,0,No,No,36835,Yes,No,Electronic check,74.35,74.35
+7089-RKVSZ,Male,0,Yes,Yes,58145,Yes,Yes,Mailed check,24.4,203.95
+2962-XPMCQ,Male,0,No,No,54152,Yes,No,Electronic check,45.15,98.5
+9081-WWXKP,Female,0,Yes,Yes,218352,Yes,No,Credit card (automatic),20.25,873.4
+2982-IHMFT,Female,1,No,No,144284,Yes,Yes,Mailed check,74.45,74.45
+3069-SSVSN,Female,0,No,No,97178,No,No phone service,Mailed check,25.85,25.85
+2968-SSGAA,Female,0,No,No,138860,Yes,Yes,Electronic check,100.6,1060.2
+3417-TSCIC,Male,0,No,No,210423,No,No phone service,Mailed check,24.85,788.05
+5320-BRKGK,Female,0,Yes,Yes,133194,Yes,Yes,Mailed check,75.8,4415.75
+1345-ZUKID,Male,0,No,No,229105,Yes,No,Mailed check,19.35,324.8
+0750-EKNGL,Male,0,No,No,110789,Yes,No,Mailed check,20.75,141.1
+5685-IIXLY,Female,0,Yes,Yes,141998,Yes,No,Electronic check,83.6,404.2
+0516-VRYBW,Female,0,No,Yes,219434,Yes,No,Bank transfer (automatic),20.15,390.85
+1069-QJOEE,Male,0,Yes,Yes,136416,Yes,No,Electronic check,19.9,505.45
+3174-AKMAS,Female,0,Yes,No,122499,Yes,No,Credit card (automatic),64.2,3009.5
+2207-NHRJK,Male,0,No,No,104717,Yes,No,Electronic check,50.8,50.8
+0623-GDISB,Female,0,No,No,103221,Yes,No,Bank transfer (automatic),48.45,48.45
+7570-WELNY,Female,0,Yes,No,16584,Yes,Yes,Bank transfer (automatic),84.7,5711.05
+6954-OOYZZ,Male,0,Yes,No,128841,Yes,No,Bank transfer (automatic),44.35,768.05
+6496-JDSSB,Female,0,No,No,72202,Yes,No,Bank transfer (automatic),80,624.6
+2616-FLVQC,Male,0,No,No,161484,Yes,No,Mailed check,19.55,1240.15
+2865-TCHJW,Female,1,No,No,146554,Yes,Yes,Electronic check,89.2,346.2
+4671-VJLCL,Female,0,No,No,96160,Yes,Yes,Credit card (automatic),79.85,4861.45
+4525-VZCZG,Male,0,No,Yes,12904,Yes,No,Electronic check,105.85,5826.65
+0536-ESJEP,Male,0,Yes,No,232044,Yes,No,Bank transfer (automatic),74.55,4191.45
+0270-THENM,Male,0,Yes,Yes,192654,Yes,Yes,Bank transfer (automatic),69.85,5102.35
+1636-NTNCO,Male,1,No,No,208116,No,No phone service,Credit card (automatic),50.95,207.35
+1227-UDMZR,Female,0,Yes,No,166140,Yes,Yes,Bank transfer (automatic),91.15,6637.9
+9000-PLFUZ,Female,1,Yes,No,172368,No,No phone service,Credit card (automatic),49.45,2907.55
+6319-IEJWJ,Male,0,Yes,Yes,51918,Yes,No,Electronic check,90.2,1776.55
+9112-WSNPU,Female,1,No,No,67744,Yes,No,Electronic check,70.55,2419
+3097-NNSPB,Female,0,No,No,23368,Yes,No,Credit card (automatic),49.05,91.1
+1853-ARAAQ,Female,0,No,No,136224,No,No phone service,Credit card (automatic),50.35,1277.5
+4559-UWIHT,Male,0,Yes,No,126420,Yes,Yes,Electronic check,82.65,1185
+5240-IJOQT,Male,1,No,No,125289,Yes,Yes,Electronic check,74.7,74.7
+5642-MHDQT,Female,0,Yes,Yes,177081,Yes,No,Bank transfer (automatic),19.85,1039.45
+7926-IJOOU,Male,0,No,No,26603,Yes,No,Credit card (automatic),19.3,19.3
+5567-GZKQY,Male,0,No,No,225685,Yes,No,Credit card (automatic),20.3,1131.5
+4256-ZWTZI,Female,0,No,Yes,44747,Yes,No,Mailed check,51,286.8
+0678-RLHVP,Female,0,No,No,135180,Yes,Yes,Electronic check,105.55,5682.25
+6469-QJKZW,Female,0,Yes,No,134828,Yes,No,Electronic check,20.15,91.4
+6988-CJEYV,Male,0,No,No,63152,Yes,Yes,Electronic check,98.7,4920.55
+3703-VAVCL,Male,0,Yes,Yes,86721,Yes,No,Credit card (automatic),90,190.05
+3750-CKVKH,Male,0,No,No,104220,Yes,No,Electronic check,67.75,116.65
+6424-ELEYH,Female,0,Yes,No,216767,Yes,Yes,Credit card (automatic),74.75,229.5
+4626-GYCZP,Male,0,No,No,104085,Yes,Yes,Electronic check,93.85,635.6
+2599-CZABP,Male,0,Yes,No,178853,Yes,No,Electronic check,44.6,641.25
+7780-OTDSO,Male,0,Yes,No,231158,Yes,Yes,Electronic check,99.4,1742.95
+5022-KVDQT,Male,0,No,No,162562,Yes,Yes,Electronic check,81.3,2272.8
+8232-CTLKO,Female,0,Yes,Yes,131830,Yes,No,Electronic check,59.75,3996.8
+5129-HHMZC,Female,0,Yes,No,225527,Yes,Yes,Credit card (automatic),86.45,3574.5
+6993-YGFJV,Male,0,Yes,No,142838,Yes,Yes,Bank transfer (automatic),112.55,7806.5
+3144-KMTWZ,Male,0,Yes,No,74191,Yes,Yes,Bank transfer (automatic),93.25,6669.45
+5371-VYLSX,Female,1,No,No,3940,Yes,Yes,Electronic check,83.4,4113.7
+4163-HFTUK,Male,0,No,No,195344,Yes,No,Electronic check,19.1,1007.8
+7336-RLLRH,Male,0,Yes,No,190991,Yes,Yes,Mailed check,80.85,2204.35
+1403-GYAFU,Male,0,Yes,Yes,115816,Yes,No,Credit card (automatic),20.05,1360.25
+4713-LZDRV,Female,1,No,No,50092,Yes,No,Electronic check,79.6,195.05
+1213-NGCUN,Female,0,No,No,124400,Yes,No,Bank transfer (automatic),49.65,267.35
+4523-WXCEF,Female,0,Yes,No,192583,Yes,Yes,Electronic check,101.1,6039.9
+5747-PMBSQ,Male,1,Yes,No,68605,Yes,No,Mailed check,92.5,934.1
+4021-RQSNY,Male,1,Yes,No,31228,Yes,Yes,Electronic check,98.5,3004.15
+6621-YOBKI,Male,0,No,No,108542,Yes,No,Mailed check,20.35,92.75
+4094-NSEDU,Female,1,No,No,179812,Yes,Yes,Electronic check,94.25,1973.75
+6341-AEVKX,Female,0,Yes,No,134849,Yes,No,Electronic check,104.3,6613.65
+6479-SZPLM,Male,0,Yes,Yes,148055,Yes,No,Credit card (automatic),19.45,754.5
+6776-TLWOI,Male,0,No,No,218020,Yes,No,Mailed check,19.85,64.55
+0106-UGRDO,Female,0,Yes,No,95794,Yes,Yes,Electronic check,116,8182.85
+4030-VPZBD,Female,0,No,No,164484,No,No phone service,Electronic check,30.9,59.05
+3106-ULWFW,Female,0,Yes,No,79251,Yes,Yes,Credit card (automatic),85.2,627.4
+1078-TDCRN,Female,1,Yes,No,195388,No,No phone service,Electronic check,30.75,82.85
+7359-PTSXY,Male,0,No,No,86692,Yes,No,Electronic check,45.75,45.75
+4315-MURBD,Female,0,No,No,42285,Yes,No,Bank transfer (automatic),98.9,1120.95
+4360-PNRQB,Male,0,No,No,119372,Yes,Yes,Bank transfer (automatic),75.6,1395.05
+6344-SFJVH,Female,0,No,No,74084,No,No phone service,Credit card (automatic),24.9,505.95
+7854-EDSSA,Male,0,No,No,213476,Yes,Yes,Electronic check,59,1254.7
+1809-DMJHQ,Female,0,No,Yes,57498,Yes,No,Mailed check,46,221.7
+1535-VTJOQ,Female,0,No,No,537,Yes,Yes,Credit card (automatic),25.15,553
+9091-WTUUY,Male,0,Yes,Yes,178309,Yes,No,Mailed check,69.25,4447.75
+6559-PDZLR,Male,0,No,No,34273,Yes,No,Electronic check,98.65,2537
+9090-SGQXL,Male,1,Yes,No,191668,Yes,Yes,Electronic check,105.3,7299.65
+2525-GVKQU,Female,0,No,No,106310,Yes,No,Mailed check,20.6,1093
+2519-TWKFS,Male,0,Yes,Yes,31374,Yes,Yes,Mailed check,55.1,1466.1
+5044-XDPYX,Female,0,Yes,No,180909,Yes,Yes,Mailed check,25.5,1281.25
+4646-QZXTF,Female,0,Yes,No,73510,Yes,No,Bank transfer (automatic),81.25,580.1
+5986-WWXDV,Male,0,No,Yes,73746,Yes,No,Bank transfer (automatic),19.35,779.2
+1027-LKKQQ,Female,0,Yes,Yes,18290,Yes,No,Bank transfer (automatic),80.45,5886.85
+1194-HVAIF,Female,0,Yes,No,194885,Yes,Yes,Credit card (automatic),95,2462.55
+9711-FJTBX,Male,0,Yes,Yes,144825,Yes,No,Mailed check,85.85,4793.8
+7416-CKTEP,Female,0,Yes,No,14756,Yes,No,Bank transfer (automatic),19.6,1134.25
+6591-QGOYB,Male,0,No,No,214330,Yes,Yes,Bank transfer (automatic),106.65,1672.1
+5909-ECHUI,Female,0,No,No,206863,Yes,No,Electronic check,56.25,56.25
+7601-GNDYK,Male,0,Yes,Yes,22001,Yes,No,Mailed check,19.6,686.95
+5924-IFQTT,Male,0,Yes,Yes,226985,Yes,Yes,Electronic check,72.8,930.05
+2984-RGEYA,Female,0,Yes,Yes,185343,Yes,No,Bank transfer (automatic),19.75,1375.4
+9374-YOLBJ,Female,0,Yes,Yes,211853,Yes,No,Electronic check,19.25,19.25
+0927-LCSMG,Male,0,No,No,24815,Yes,No,Mailed check,74.65,544.55
+8628-MFKAX,Female,1,Yes,No,161971,Yes,Yes,Credit card (automatic),116.75,8277.05
+7938-OUHIO,Male,0,No,No,55907,Yes,No,Electronic check,98.7,293.65
+7470-DYNOE,Male,0,No,No,5414,Yes,No,Electronic check,61.1,3357.9
+2240-HSJQD,Male,0,No,Yes,209692,Yes,Yes,Mailed check,81.85,3141.7
+2674-MIAHT,Female,0,No,No,130390,Yes,Yes,Mailed check,80.3,324.2
+8390-FESFV,Female,0,No,No,59549,Yes,Yes,Bank transfer (automatic),84.5,5193.2
+2273-QCKXA,Male,0,No,No,19741,Yes,No,Mailed check,49.05,49.05
+0239-OXEXL,Female,0,No,No,228528,Yes,Yes,Mailed check,84.25,3847.6
+0228-MAUWC,Male,0,No,No,191625,Yes,Yes,Electronic check,59.55,1144.6
+9297-EONCV,Female,0,No,No,231406,Yes,Yes,Bank transfer (automatic),91.35,6697.2
+9650-VBUOG,Male,0,Yes,Yes,166570,Yes,Yes,Credit card (automatic),25.05,963.95
+5569-IDSEY,Male,0,Yes,No,77387,Yes,Yes,Bank transfer (automatic),105.7,7472.15
+3473-XIIIT,Female,0,Yes,No,10615,Yes,Yes,Electronic check,100,1534.75
+6425-YQLLO,Female,1,Yes,No,228456,Yes,Yes,Credit card (automatic),105.95,6975.25
+0094-OIFMO,Female,1,No,No,179895,Yes,No,Electronic check,95,1120.3
+7233-PAHHL,Male,0,Yes,Yes,203756,Yes,Yes,Mailed check,84,5714.25
+5213-TWWJU,Male,0,No,No,79755,Yes,No,Electronic check,91,2626.15
+3751-KTZEL,Female,0,No,No,177813,No,No phone service,Mailed check,35.05,35.05
+3831-YCPUO,Female,0,Yes,Yes,188268,Yes,No,Credit card (automatic),109.5,7854.9
+2892-GESUL,Female,0,Yes,Yes,171425,Yes,No,Mailed check,19.35,309.25
+9732-OUYRN,Female,0,Yes,No,71256,Yes,No,Credit card (automatic),19,918.7
+2080-CAZNM,Female,1,No,No,22721,Yes,Yes,Electronic check,104.4,4133.95
+0515-YPMCW,Male,0,No,Yes,83242,Yes,No,Mailed check,70.45,70.45
+1989-PRJHP,Male,1,Yes,No,49476,Yes,Yes,Electronic check,75.5,1893.95
+3675-EQOZA,Male,0,No,No,223341,Yes,No,Bank transfer (automatic),20.65,93.55
+2144-ESWKO,Male,0,No,No,116277,No,No phone service,Credit card (automatic),35.2,1463.7
+9308-ANMVE,Male,0,No,Yes,230146,Yes,No,Electronic check,55.3,2654.05
+8885-QSQBX,Female,0,No,No,46950,Yes,No,Bank transfer (automatic),49.55,49.55
+9474-PHLYD,Female,0,No,No,52678,Yes,No,Electronic check,59.45,892.65
+1077-HUUJM,Female,0,No,Yes,100553,Yes,No,Electronic check,71.05,472.65
+4881-GQJTW,Male,0,No,No,85513,Yes,No,Credit card (automatic),19.6,300.4
+3503-TYDAY,Female,0,Yes,No,51469,Yes,Yes,Electronic check,80.45,3398.9
+2683-BPJSO,Male,0,Yes,No,139306,Yes,Yes,Electronic check,84.45,2467.1
+4163-NCJAK,Female,0,Yes,No,139457,Yes,Yes,Bank transfer (automatic),24.45,1066.15
+2229-VWQJH,Female,0,No,No,99602,Yes,No,Credit card (automatic),49.3,1233.25
+5294-CDGWY,Male,0,Yes,Yes,34596,No,No phone service,Electronic check,59.3,3014.65
+7781-EWARA,Male,0,Yes,Yes,198234,No,No phone service,Electronic check,60.35,4138.7
+3566-VVORZ,Female,0,Yes,No,108189,Yes,No,Bank transfer (automatic),45.9,505.95
+7526-IVLYU,Male,0,No,No,5503,Yes,No,Mailed check,19.65,68.35
+8058-JMEQO,Female,1,No,No,154680,Yes,Yes,Electronic check,84.45,762.5
+9938-EKRGF,Female,0,No,No,42066,Yes,No,Mailed check,84.45,1287.85
+0480-KYJVA,Female,0,Yes,Yes,152116,Yes,Yes,Credit card (automatic),24.25,1784.5
+2495-TTHBQ,Female,0,No,Yes,9331,Yes,No,Mailed check,20.4,84.75
+7663-YJHSN,Female,0,Yes,No,72189,Yes,Yes,Bank transfer (automatic),103.95,7556.9
+7665-VIGUD,Male,0,No,No,96366,Yes,No,Mailed check,20.35,176.3
+6235-VDHOM,Female,1,No,No,109122,No,No phone service,Electronic check,28.45,131.05
+7994-UYIVZ,Male,0,Yes,No,157315,Yes,Yes,Bank transfer (automatic),85.65,659.45
+6712-OAWRH,Female,1,No,No,132066,Yes,No,Electronic check,91.25,2351.8
+2077-DDHJK,Female,0,Yes,No,111499,Yes,Yes,Credit card (automatic),70.9,4911.35
+4697-LUPSU,Male,0,Yes,Yes,216987,Yes,No,Mailed check,20.2,34.75
+3488-PGMQJ,Male,1,No,No,45794,Yes,No,Electronic check,74.5,606.55
+0030-FNXPP,Female,0,No,No,188716,Yes,No,Mailed check,19.85,57.2
+0952-KMEEH,Male,0,No,No,159256,Yes,Yes,Mailed check,98.15,1230.25
+7594-LZNWR,Male,1,No,No,42310,Yes,No,Credit card (automatic),69.15,2275.1
+0769-MURVM,Female,0,Yes,Yes,169115,No,No phone service,Bank transfer (automatic),65.7,4575.35
+8706-HRADD,Male,0,No,No,78309,No,No phone service,Mailed check,43.55,1011.5
+2873-ZLIWT,Female,0,Yes,Yes,108354,Yes,Yes,Electronic check,84.85,3303.05
+8208-EUMTE,Male,0,No,No,127184,No,No phone service,Mailed check,54.85,916.15
+6933-FHBZC,Female,0,No,No,80446,Yes,No,Mailed check,56.05,1553.2
+5536-RTPWK,Male,0,Yes,No,202944,Yes,Yes,Bank transfer (automatic),99.05,4853.75
+3764-MNMOI,Male,0,No,No,162689,Yes,No,Credit card (automatic),19.2,908.15
+5442-XSDCW,Male,0,Yes,Yes,117709,Yes,No,Bank transfer (automatic),79.5,868.5
+5766-FTRTS,Male,0,Yes,No,90115,Yes,No,Mailed check,84.45,6033.1
+6961-MJKBO,Male,0,No,No,210614,Yes,No,Bank transfer (automatic),20.45,943
+5510-BOIUJ,Male,0,No,Yes,206153,Yes,No,Mailed check,19.25,19.25
+6917-YACBP,Female,1,No,No,139710,Yes,Yes,Electronic check,89.75,5496.9
+6461-SZMCV,Female,0,Yes,No,46134,Yes,Yes,Bank transfer (automatic),87.95,6365.35
+7632-YUTXB,Female,0,Yes,Yes,36027,Yes,No,Mailed check,20.05,520.1
+8915-NNTRC,Male,0,Yes,Yes,212586,Yes,Yes,Credit card (automatic),107.7,7919.8
+9700-ZCLOT,Male,0,No,No,170602,Yes,No,Mailed check,20,32.7
+4808-YNLEU,Female,0,Yes,No,99451,Yes,No,Bank transfer (automatic),62.15,2215.45
+3324-OIRTO,Male,0,Yes,Yes,210644,Yes,No,Bank transfer (automatic),104.65,7288.4
+6583-KQJLK,Female,1,Yes,No,168251,Yes,No,Electronic check,94.65,1285.05
+6870-ECSHE,Female,0,No,No,95083,Yes,No,Mailed check,20.45,34.8
+6985-HAYWX,Female,0,Yes,No,224621,Yes,Yes,Bank transfer (automatic),79.3,2015.8
+4184-TJFAN,Female,1,Yes,Yes,33083,Yes,No,Mailed check,88.3,273.75
+4039-PIMHX,Male,1,Yes,No,160275,Yes,No,Mailed check,49.8,2398.4
+0064-YIJGF,Male,0,Yes,Yes,73919,Yes,Yes,Bank transfer (automatic),75.75,1929
+1763-WQFUK,Male,0,No,No,177845,Yes,No,Mailed check,50.5,147.75
+1094-BKOSX,Female,0,Yes,Yes,164845,No,No phone service,Bank transfer (automatic),51,2264.5
+5370-IIVVL,Male,0,No,No,65151,Yes,Yes,Credit card (automatic),104.5,3778
+1488-PBLJN,Female,0,Yes,Yes,2051,Yes,Yes,Bank transfer (automatic),116.85,8477.7
+0516-UXRMT,Female,0,No,No,129315,Yes,Yes,Electronic check,92.05,5755.8
+8510-TMWYB,Female,0,Yes,Yes,216397,Yes,Yes,Bank transfer (automatic),59.8,3246.45
+6967-QIQRV,Male,0,Yes,Yes,22768,Yes,No,Electronic check,101.9,1667.25
+1349-WXNGG,Male,0,No,No,81208,Yes,No,Bank transfer (automatic),20.05,20.05
+1768-ZAIFU,Female,1,No,No,85296,No,No phone service,Electronic check,25.2,25.2
+0336-KXKFK,Male,0,No,No,144963,No,No phone service,Credit card (automatic),61.2,4390.25
+8080-POTJR,Female,0,No,No,186147,Yes,Yes,Credit card (automatic),79.3,2427.1
+2190-BCXEC,Female,0,Yes,No,58825,Yes,Yes,Credit card (automatic),78.85,3126.85
+6253-GNHWH,Female,0,Yes,Yes,164275,Yes,Yes,Mailed check,71.1,5224.95
+2011-TRQYE,Male,0,No,No,135842,No,No phone service,Credit card (automatic),33.5,600
+4987-GQWPO,Male,0,No,No,21216,No,No phone service,Credit card (automatic),25.1,382.8
+4735-BJKOU,Female,0,No,No,205328,Yes,No,Mailed check,20.15,804.85
+2499-AJYUA,Female,1,Yes,No,78819,Yes,Yes,Credit card (automatic),110.8,7882.25
+3936-QQFLL,Male,0,No,No,102616,Yes,No,Mailed check,19.75,39.3
+3251-YMVWZ,Male,0,No,No,176138,Yes,Yes,Bank transfer (automatic),24.05,1301.9
+8879-XUAHX,Male,0,Yes,No,229872,Yes,Yes,Electronic check,116.25,8564.75
+2604-IJPDU,Female,0,Yes,No,229113,Yes,No,Electronic check,96.55,1901.65
+4320-QMLLA,Male,0,No,No,34939,Yes,No,Mailed check,54.85,370.4
+5609-IMCGG,Female,0,No,No,93573,Yes,Yes,Credit card (automatic),84.35,1302.65
+1820-DJFPH,Female,0,Yes,Yes,45058,Yes,Yes,Bank transfer (automatic),24.05,1709.15
+8859-AXJZP,Male,0,Yes,Yes,68413,Yes,Yes,Mailed check,23.8,903.8
+3284-SVCRO,Female,0,Yes,No,39254,Yes,Yes,Mailed check,25.5,1121.05
+8739-XNIKG,Female,0,No,No,153390,Yes,Yes,Electronic check,84,424.75
+6810-VCAEX,Female,0,No,No,149807,No,No phone service,Credit card (automatic),39.65,1798.65
+4396-KLSEH,Male,0,No,No,81919,Yes,No,Electronic check,19.85,63
+9079-LWTFD,Male,0,No,No,84733,Yes,Yes,Mailed check,100.75,4669.2
+9921-EZKBY,Male,0,No,Yes,126004,Yes,Yes,Bank transfer (automatic),95.3,3275.15
+8404-VLQFB,Female,0,Yes,Yes,168646,Yes,Yes,Electronic check,25.25,394.85
+0130-SXOUN,Male,0,No,No,199581,Yes,Yes,Credit card (automatic),89.4,5976.9
+8780-IXSTS,Female,0,No,No,111928,Yes,Yes,Electronic check,90.1,521.3
+3824-RHKVR,Female,0,No,No,15743,Yes,No,Credit card (automatic),19.7,340.35
+2359-KLTEK,Female,0,Yes,Yes,49018,Yes,No,Bank transfer (automatic),94.9,3848
+1091-SOZGA,Female,0,Yes,Yes,200443,Yes,Yes,Credit card (automatic),99.8,5515.45
+2155-AMQRX,Female,0,No,No,47386,Yes,Yes,Credit card (automatic),54.9,1505.15
+3704-IEAXF,Female,0,Yes,Yes,196062,No,No phone service,Credit card (automatic),53.65,3784
+7312-XSBAT,Male,0,No,No,201468,Yes,No,Electronic check,49.75,49.75
+4010-YLMVT,Female,0,No,No,92612,Yes,Yes,Credit card (automatic),106.6,5893.95
+5915-ANOEI,Male,0,Yes,No,219226,Yes,Yes,Mailed check,79.15,5536.5
+8679-LZBMD,Male,0,Yes,No,126878,Yes,No,Bank transfer (automatic),90.65,3974.15
+2372-HWUHI,Male,0,No,No,136936,Yes,No,Electronic check,44.35,81.25
+7162-WPHPM,Male,0,Yes,Yes,198368,Yes,Yes,Credit card (automatic),71.6,4230.25
+8822-KNBHV,Female,0,No,No,103011,Yes,Yes,Credit card (automatic),83.45,3887.85
+0315-LVCRK,Male,0,No,No,123042,Yes,No,Electronic check,84.8,888.75
+8263-QMNTJ,Male,0,Yes,No,90037,Yes,Yes,Electronic check,115.55,8425.3
+0526-SXDJP,Male,0,Yes,No,112089,No,No phone service,Bank transfer (automatic),42.1,2962
+5201-USSQZ,Female,0,Yes,No,156615,Yes,No,Credit card (automatic),85.9,2196.45
+4132-POCZS,Male,0,Yes,No,182001,No,No phone service,Electronic check,39.9,2020.9
+9257-AZMTZ,Female,0,Yes,Yes,201699,Yes,No,Bank transfer (automatic),20.1,1078.75
+5447-VYTKW,Male,0,No,No,25006,Yes,No,Mailed check,53.45,1461.45
+5960-WPXQM,Male,0,No,No,53470,Yes,No,Electronic check,79.05,79.05
+2826-UWHIS,Male,0,Yes,No,70422,Yes,Yes,Bank transfer (automatic),81.4,3775.85
+7251-XFOIL,Female,0,No,No,199639,Yes,Yes,Mailed check,89.2,5500.6
+6923-JHPMP,Female,0,No,No,177455,Yes,No,Electronic check,80.45,137.1
+1373-ORVIZ,Female,0,Yes,Yes,140902,Yes,Yes,Electronic check,66.35,740.8
+8220-OCUFY,Female,0,No,No,219719,Yes,No,Electronic check,60.25,1258.35
+9488-HGMJH,Female,1,No,No,5358,Yes,No,Electronic check,71.15,71.15
+2446-BEGGB,Female,1,No,No,162422,Yes,Yes,Electronic check,98.25,560.6
+5781-RFZRP,Male,0,Yes,No,76297,Yes,Yes,Credit card (automatic),73.5,5357.75
+0973-KYVNF,Female,0,Yes,Yes,136014,Yes,No,Credit card (automatic),70.65,5011.15
+3740-RLMVT,Male,1,Yes,No,216969,Yes,No,Bank transfer (automatic),60.95,4119.4
+5837-LXSDN,Female,0,Yes,Yes,144034,Yes,No,Credit card (automatic),58.85,1215.45
+0404-AHASP,Male,0,Yes,No,22619,Yes,No,Credit card (automatic),19.7,1421.9
+1934-MKPXS,Male,0,Yes,Yes,43603,Yes,No,Credit card (automatic),20.1,620.55
+3049-SOLAY,Female,0,Yes,No,107190,Yes,Yes,Electronic check,95.2,292.85
+8914-RBTSB,Male,0,Yes,No,19342,Yes,Yes,Electronic check,93.8,3019.5
+1925-LFCZZ,Male,1,No,No,155119,No,No phone service,Bank transfer (automatic),50.05,2743.45
+8372-JUXUI,Male,0,No,Yes,138582,Yes,Yes,Electronic check,74.35,74.35
+5863-OOKCL,Female,0,No,No,215591,Yes,No,Mailed check,18.85,163.2
+8262-COGGB,Male,0,No,No,50271,Yes,No,Mailed check,20.45,20.45
+3320-VEOYC,Male,1,No,No,54464,Yes,Yes,Electronic check,95.6,1273.3
+1096-ADRUX,Female,0,Yes,Yes,74116,Yes,Yes,Bank transfer (automatic),74.25,4859.25
+5668-MEISB,Female,0,Yes,Yes,91681,Yes,Yes,Credit card (automatic),106.1,7657.4
+4801-JZAZL,Female,0,Yes,Yes,134176,No,No phone service,Electronic check,29.6,346.45
+6578-KRMAW,Male,0,No,No,202632,Yes,No,Credit card (automatic),93.4,2979.3
+8884-ADFVN,Male,1,Yes,No,30724,Yes,Yes,Electronic check,101.95,700.85
+6933-VLYFX,Male,0,Yes,Yes,50418,No,No phone service,Electronic check,59.95,1848.8
+4825-XJGDM,Female,0,No,No,19148,No,No phone service,Credit card (automatic),43.7,2696.55
+1846-XWOQN,Female,1,No,No,192609,Yes,No,Electronic check,70.15,70.15
+8089-UZWLX,Female,1,No,No,117484,Yes,Yes,Bank transfer (automatic),104.05,7413.55
+5940-AHUHD,Male,0,No,No,128510,Yes,No,Mailed check,70.6,70.6
+0432-CAJZV,Male,0,No,No,97165,Yes,No,Mailed check,90.7,237.65
+3249-ZPQRG,Male,0,No,No,148610,Yes,Yes,Electronic check,78.45,330.05
+6726-WEXXK,Male,1,Yes,No,66912,Yes,Yes,Electronic check,85.9,2220.1
+2984-AFWNC,Female,0,No,No,71495,Yes,No,Electronic check,95.4,293.15
+9122-UMROB,Male,0,No,No,220447,Yes,No,Mailed check,20.3,20.3
+0238-WHBIQ,Male,0,Yes,Yes,175687,Yes,Yes,Credit card (automatic),89.7,6339.3
+2405-LBMUW,Female,0,Yes,Yes,95080,No,No phone service,Bank transfer (automatic),50.7,3088.75
+5153-LXKDT,Male,0,Yes,Yes,203522,Yes,Yes,Electronic check,110.2,7467.5
+3007-FDPEA,Female,0,No,No,79696,Yes,No,Bank transfer (automatic),20.7,39.85
+2791-SFVEW,Female,0,No,No,47795,Yes,No,Bank transfer (automatic),20.15,238.15
+6265-FRMTQ,Male,0,No,No,2496,Yes,No,Bank transfer (automatic),20.4,609.1
+6680-WKXRZ,Female,0,No,No,29022,Yes,Yes,Bank transfer (automatic),74.4,215.8
+3174-RKMOW,Male,0,Yes,Yes,223352,Yes,Yes,Electronic check,109.95,3782.4
+0829-DDVLK,Female,0,No,No,169659,Yes,No,Credit card (automatic),20.1,302.45
+1415-YFWLT,Female,1,No,No,122176,Yes,No,Electronic check,89.3,89.3
+7599-FKVXZ,Male,0,Yes,No,181344,Yes,Yes,Bank transfer (automatic),106.15,4512.7
+5692-FPTAH,Female,0,No,No,163285,Yes,No,Mailed check,45.4,45.4
+0020-INWCK,Female,0,Yes,Yes,201401,Yes,Yes,Credit card (automatic),95.75,6849.4
+3170-NMYVV,Female,0,Yes,Yes,27628,Yes,No,Bank transfer (automatic),20.15,930.9
+8807-OPMBM,Female,0,Yes,Yes,159917,Yes,Yes,Credit card (automatic),25.65,1388
+3557-HTYWR,Female,0,No,No,107565,Yes,Yes,Mailed check,74.05,3496.3
+7552-KEYGT,Male,0,Yes,No,220426,Yes,No,Bank transfer (automatic),19.55,520.55
+6061-PQHMK,Female,0,No,No,35066,Yes,No,Credit card (automatic),19.9,527.5
+6907-NZZIJ,Female,0,No,No,119274,Yes,Yes,Electronic check,99.15,3615.6
+2252-ISRNH,Male,0,Yes,Yes,127428,Yes,Yes,Electronic check,90.35,767.9
+0481-SUMCB,Female,1,No,No,113554,Yes,Yes,Bank transfer (automatic),102.15,4735.35
+4737-HOBAX,Male,0,Yes,No,98906,Yes,Yes,Credit card (automatic),79.8,5034.05
+3780-YVMFA,Female,0,Yes,Yes,44135,Yes,No,Electronic check,68.55,564.35
+8908-NMQTX,Male,0,No,No,197698,No,No phone service,Bank transfer (automatic),65.6,4566.5
+2955-BJZHG,Male,0,Yes,Yes,130004,Yes,No,Electronic check,80.85,1400.85
+9776-CLUJA,Female,1,Yes,No,174967,Yes,Yes,Electronic check,77.5,3807.35
+9030-QGZNL,Female,0,No,No,121731,Yes,No,Mailed check,20.85,161.65
+0268-QKIWO,Female,0,No,No,63557,Yes,No,Electronic check,19.75,58.85
+1555-HAPSU,Female,0,Yes,Yes,150590,Yes,Yes,Credit card (automatic),23.9,1663.5
+6435-VWCCY,Male,1,Yes,No,74441,Yes,Yes,Credit card (automatic),92.7,5968.4
+1320-GVNHT,Male,0,Yes,Yes,208289,Yes,Yes,Credit card (automatic),108.4,7767.25
+5275-PMFUT,Male,0,Yes,Yes,206292,No,No phone service,Credit card (automatic),64.8,4719.75
+2988-QRAJY,Male,0,No,No,40233,Yes,Yes,Credit card (automatic),110.05,7430.75
+7274-CGTOD,Male,0,No,No,165445,No,No phone service,Bank transfer (automatic),43.7,2618.3
+0442-ZXKVS,Female,1,Yes,No,185986,Yes,Yes,Bank transfer (automatic),115.6,6431.05
+1407-DIGZV,Female,0,Yes,Yes,163105,Yes,No,Mailed check,19.1,52
+9069-LGEUL,Male,0,Yes,No,86821,Yes,No,Bank transfer (automatic),59.95,1406
+9046-DQMTP,Male,0,No,No,139361,Yes,No,Bank transfer (automatic),20.75,739.9
+6075-QMNRR,Female,0,No,No,77888,Yes,No,Bank transfer (automatic),49.75,2535.55
+5091-HFAZW,Female,0,No,No,77741,Yes,No,Electronic check,91.15,168.5
+9135-HSWOC,Male,0,Yes,Yes,117806,Yes,No,Bank transfer (automatic),19.7,1274.05
+7365-BVCJH,Male,0,No,No,207477,No,No phone service,Electronic check,24.4,24.4
+4450-MDZFX,Male,0,Yes,Yes,141941,Yes,Yes,Bank transfer (automatic),74.35,4453.3
+7384-GHBPI,Male,0,Yes,No,153900,No,No phone service,Electronic check,35.15,99.75
+0392-BZIUW,Female,0,Yes,No,82639,Yes,Yes,Credit card (automatic),105,7589.8
+3916-NRPAP,Male,0,No,No,150873,Yes,No,Credit card (automatic),85.7,256.75
+1744-JHKYS,Female,0,Yes,No,207733,Yes,Yes,Electronic check,24.7,780.2
+2842-BCQGE,Male,0,No,No,79898,Yes,Yes,Credit card (automatic),75.35,3161.4
+7134-MJPDY,Female,1,No,No,181657,Yes,Yes,Credit card (automatic),102.85,6976.75
+5555-RNPGT,Male,0,No,Yes,228356,Yes,Yes,Credit card (automatic),24.8,223.9
+0520-FDVVT,Male,0,No,No,68168,Yes,No,Bank transfer (automatic),102.35,3626.1
+0670-KDOMA,Female,0,No,No,120920,Yes,No,Mailed check,20.25,20.25
+0655-YDGFJ,Male,0,No,No,54518,Yes,No,Bank transfer (automatic),48.95,1323.7
+8329-GWVPJ,Female,0,Yes,Yes,33867,Yes,No,Bank transfer (automatic),69.75,3557.7
+8816-VXNZD,Female,0,No,No,175974,Yes,Yes,Electronic check,75.1,75.1
+0895-LMRSF,Male,0,No,No,116829,Yes,No,Bank transfer (automatic),64.9,1509.8
+9283-LZQOH,Male,0,Yes,Yes,84299,Yes,Yes,Credit card (automatic),74.4,896.75
+9577-WJVCQ,Female,0,No,No,34646,Yes,Yes,Mailed check,54.45,3687.75
+4452-ROHMO,Female,0,No,No,208486,Yes,No,Mailed check,19.6,331.6
+4682-BLBUC,Male,0,Yes,No,106978,Yes,No,Electronic check,70.95,3250.45
+9812-GHVRI,Female,0,No,No,213858,Yes,Yes,Bank transfer (automatic),83.85,3532.25
+7601-DHFWZ,Female,0,No,No,165938,Yes,Yes,Credit card (automatic),24,1183.05
+0817-HSUSE,Male,0,No,No,204129,Yes,No,Electronic check,75.5,75.5
+4598-ZADCK,Female,0,No,No,61690,No,No phone service,Electronic check,53.6,2879.2
+7883-ROJOC,Female,0,Yes,No,185512,Yes,No,Mailed check,44.9,839.65
+6145-NNPNO,Female,0,No,No,33616,Yes,No,Bank transfer (automatic),44.15,44.15
+9738-QLWTP,Male,0,No,No,102203,Yes,No,Electronic check,81.9,3219.75
+9154-QDGTH,Male,0,Yes,Yes,223239,Yes,Yes,Credit card (automatic),104.3,4451.85
+9430-FRQOC,Female,0,No,Yes,27466,Yes,Yes,Mailed check,87.1,341.45
+7998-WNZEM,Male,0,No,No,59788,Yes,Yes,Bank transfer (automatic),80.6,5708.2
+2195-ZRVAX,Female,0,Yes,No,30649,Yes,No,Electronic check,85.3,4045.65
+9722-UJOJR,Male,0,Yes,Yes,98143,Yes,No,Electronic check,70.75,1974.8
+8224-UAXBZ,Female,0,Yes,No,210177,No,No phone service,Electronic check,45.35,2540.1
+8614-VGMMV,Female,0,No,No,69158,Yes,Yes,Electronic check,49.1,679.55
+2904-GGUAZ,Female,0,Yes,No,19954,Yes,Yes,Bank transfer (automatic),84.05,6052.25
+6397-JNZZG,Female,1,Yes,No,17733,No,No phone service,Credit card (automatic),55.55,2342.2
+4598-XLKNJ,Female,1,Yes,No,88966,Yes,No,Electronic check,98.5,2514.5
+8739-QOTTN,Female,0,Yes,No,227093,Yes,No,Mailed check,20.35,41.85
+1635-FJFCC,Female,0,No,No,25241,Yes,No,Credit card (automatic),44.05,202.15
+1794-SWWKL,Male,0,Yes,Yes,212560,Yes,Yes,Bank transfer (automatic),59.65,867.1
+0486-LGCCH,Male,0,Yes,Yes,154397,Yes,No,Mailed check,19.65,225.75
+6509-TSGWN,Female,0,Yes,Yes,11589,Yes,Yes,Mailed check,26.45,911.6
+4078-SAYYN,Female,0,No,No,147649,Yes,Yes,Electronic check,100.75,1129.75
+7088-FBAWU,Female,0,Yes,Yes,21131,Yes,No,Mailed check,74.55,1215.8
+5268-DSMNQ,Female,1,Yes,No,107125,Yes,Yes,Credit card (automatic),97.95,5936.55
+1666-JZPZT,Male,0,No,No,228609,Yes,Yes,Mailed check,49,1291.35
+9621-OUPYD,Female,0,Yes,No,154557,Yes,No,Bank transfer (automatic),20.2,507.9
+0608-JDVEC,Male,0,Yes,No,71152,Yes,No,Electronic check,19.8,1013.2
+0979-PHULV,Male,0,Yes,Yes,12637,Yes,Yes,Credit card (automatic),99.45,7007.6
+9891-NQDBD,Female,0,Yes,No,133369,Yes,Yes,Mailed check,25.55,672.2
+6169-PPETC,Male,0,Yes,Yes,130524,Yes,No,Bank transfer (automatic),20.5,759.35
+8873-TMKGR,Male,0,No,No,19297,Yes,No,Mailed check,19.1,529.5
+4832-VRBMR,Male,1,Yes,No,136352,Yes,Yes,Bank transfer (automatic),103.15,6792.45
+2878-DHMIN,Male,0,Yes,Yes,120572,Yes,No,Electronic check,19.9,666
+6582-PLFUU,Male,0,Yes,Yes,19887,Yes,No,Credit card (automatic),19.55,1086.75
+3859-CVCET,Female,0,No,No,7149,Yes,No,Mailed check,45.65,191.05
+2040-LDIWQ,Male,0,Yes,Yes,154933,Yes,Yes,Bank transfer (automatic),84.2,5324.5
+3511-APPBJ,Male,0,No,No,186206,Yes,No,Credit card (automatic),99.95,2292.75
+3865-QBWSJ,Male,1,No,Yes,207483,Yes,Yes,Mailed check,80.45,3162.65
+5019-GQVCR,Male,1,No,No,134412,Yes,Yes,Electronic check,84.85,3645.6
+5197-YPYBZ,Female,0,Yes,Yes,66629,Yes,Yes,Credit card (automatic),25.25,274.7
+4837-QUSFT,Female,0,Yes,No,192955,Yes,Yes,Bank transfer (automatic),100.15,6643.5
+0916-QOFDP,Female,1,Yes,Yes,188656,Yes,Yes,Electronic check,95.8,1346.3
+6331-EWIEB,Male,0,No,No,203390,Yes,Yes,Electronic check,85.25,1734.5
+5181-OABFK,Female,0,Yes,Yes,146327,Yes,No,Credit card (automatic),61.3,3346.8
+6743-HHQPF,Male,0,Yes,No,199201,No,No phone service,Credit card (automatic),25.1,1097.15
+1391-UBDAR,Male,0,No,No,20854,Yes,No,Electronic check,72.9,818.45
+7314-OXENN,Male,0,No,No,58779,Yes,Yes,Electronic check,82,184.65
+1465-WCZVT,Female,0,Yes,Yes,200836,Yes,No,Mailed check,19.65,60.65
+3428-XZMAZ,Male,0,No,No,228109,Yes,No,Electronic check,69.35,69.35
+1093-YSWCA,Male,0,No,No,122100,Yes,No,Credit card (automatic),19.55,223.15
+1230-QAJDW,Male,0,No,No,86593,Yes,Yes,Mailed check,65.25,209.9
+8605-ITULD,Female,0,No,No,219814,Yes,No,Mailed check,19.55,19.55
+2181-TIDSV,Male,0,Yes,Yes,161030,Yes,No,Bank transfer (automatic),19.95,1303.25
+1722-LDZJS,Male,0,Yes,Yes,44935,Yes,No,Credit card (automatic),20.2,1068.15
+5298-GSTLM,Female,1,No,No,36331,Yes,Yes,Bank transfer (automatic),101.4,6176.6
+4274-DRSQT,Female,0,No,No,166119,Yes,Yes,Bank transfer (automatic),88.9,6000.1
+9473-CBZOP,Female,0,No,No,133083,Yes,Yes,Mailed check,59,1654.45
+6705-LXORM,Female,1,Yes,No,166418,Yes,No,Electronic check,70.05,302.6
+2778-OCLGR,Male,1,Yes,No,218646,No,No phone service,Bank transfer (automatic),39.1,971.3
+5906-CVLHP,Female,0,Yes,Yes,113786,Yes,No,Credit card (automatic),54.15,2319.8
+6137-NICCO,Female,0,Yes,Yes,194376,Yes,Yes,Mailed check,94.05,518.75
+8348-JLBUG,Male,1,Yes,No,110306,Yes,No,Credit card (automatic),80.3,5017.7
+1930-WNXSB,Male,0,Yes,Yes,93868,Yes,No,Electronic check,92.85,5305.05
+6015-VVHHE,Female,1,No,No,227135,Yes,Yes,Credit card (automatic),83.15,446.05
+7869-ZYDST,Male,0,Yes,No,29189,Yes,Yes,Credit card (automatic),59.05,1882.8
+0939-YAPAF,Female,0,No,No,23659,Yes,Yes,Electronic check,100.25,3527.6
+9294-TDIPC,Male,0,No,Yes,7276,Yes,No,Mailed check,20.2,83.75
+6692-YQHXC,Male,0,No,No,177585,Yes,No,Credit card (automatic),69.95,1205.5
+8999-XXGNS,Female,1,Yes,No,158669,Yes,Yes,Credit card (automatic),105.75,7629.85
+1150-FTQGN,Female,0,Yes,Yes,24443,Yes,Yes,Bank transfer (automatic),94.15,5811.8
+6651-RLGGM,Male,0,Yes,Yes,50597,Yes,Yes,Mailed check,26.3,1688.9
+5684-FJVYR,Female,0,Yes,Yes,177724,Yes,Yes,Bank transfer (automatic),90.35,6563.4
+9447-YPTBX,Female,0,Yes,No,24114,Yes,No,Bank transfer (automatic),19.85,943.1
+2740-JFBOK,Male,0,No,No,213927,Yes,Yes,Electronic check,24,226.55
+6108-OQZDQ,Female,0,Yes,Yes,57360,Yes,Yes,Electronic check,97.95,384.5
+0722-TROQR,Female,1,No,No,53698,Yes,Yes,Electronic check,74.9,321.75
+2504-DSHIH,Male,1,Yes,No,229734,Yes,Yes,Electronic check,86.8,1975.85
+6229-LSCKB,Male,1,No,No,166555,Yes,No,Electronic check,79.7,497.6
+9169-BSVIN,Male,0,No,No,35676,Yes,Yes,Bank transfer (automatic),74.75,827.05
+9512-PHSMG,Female,0,Yes,No,181693,Yes,No,Mailed check,20.55,252.75
+1319-YLZJG,Male,0,Yes,No,68758,Yes,No,Electronic check,84.6,959.9
+0628-CNQRM,Male,0,Yes,Yes,186205,Yes,No,Bank transfer (automatic),67.5,1544.05
+2452-SNHFZ,Female,0,No,No,13696,Yes,No,Credit card (automatic),75.45,3545.1
+7079-QRCBC,Female,0,No,No,198382,Yes,Yes,Electronic check,98.75,2407.3
+0866-QLSIR,Female,0,No,No,158888,Yes,Yes,Mailed check,64.4,2088.75
+6549-YMFAW,Male,1,Yes,No,51193,Yes,No,Mailed check,21.25,204.55
+0618-XWMSS,Male,0,No,Yes,16441,Yes,No,Bank transfer (automatic),74.9,2068.55
+2954-PIBKO,Female,0,Yes,Yes,169846,Yes,Yes,Credit card (automatic),64.15,4254.1
+4450-YOOHP,Female,0,No,No,57659,No,No phone service,Credit card (automatic),50.65,1905.4
+1258-YMZNM,Female,1,No,No,185841,Yes,Yes,Bank transfer (automatic),110.5,2857.6
+5857-XRECV,Female,0,No,Yes,134261,Yes,No,Bank transfer (automatic),20.5,38.25
+7298-IZWLY,Female,0,No,No,88701,Yes,No,Mailed check,19.4,19.4
+8079-XRJRS,Male,0,Yes,No,131664,Yes,Yes,Electronic check,89.75,5769.6
+3482-ABPKK,Female,0,No,No,8424,Yes,No,Mailed check,54.3,1546.3
+7613-LLQFO,Male,0,No,No,121271,Yes,Yes,Electronic check,84.45,1059.55
+0390-DCFDQ,Female,1,Yes,No,39978,Yes,No,Mailed check,70.45,70.45
+2640-PMGFL,Male,0,No,Yes,168897,Yes,Yes,Electronic check,79.5,2180.55
+7008-LZVOZ,Male,0,Yes,Yes,51065,Yes,Yes,Credit card (automatic),25.3,1672.35
+7921-BEPCI,Female,0,No,No,37388,Yes,Yes,Bank transfer (automatic),59.75,4265
+2205-LPVGL,Male,1,Yes,Yes,142886,Yes,Yes,Bank transfer (automatic),89.85,5125.75
+3811-VBYBZ,Male,0,No,No,172507,Yes,Yes,Electronic check,99.8,673.25
+2979-SXESE,Female,0,Yes,Yes,99564,Yes,Yes,Electronic check,94.4,1607.2
+1299-AURJA,Female,0,Yes,Yes,186742,Yes,Yes,Bank transfer (automatic),24.7,1685.9
+9244-ZVAPM,Male,0,No,No,43650,Yes,No,Mailed check,45.6,45.6
+8592-PLTMQ,Female,0,No,No,61355,Yes,Yes,Mailed check,24.7,1642.75
+3537-HPKQT,Female,0,Yes,No,216912,Yes,Yes,Credit card (automatic),77.75,4266.4
+0549-CYCQN,Male,1,No,No,11198,Yes,Yes,Bank transfer (automatic),79.6,3974.7
+4548-SDBKE,Female,0,No,No,128064,Yes,Yes,Electronic check,85.2,474.8
+1557-EMYVT,Female,0,No,No,91921,Yes,Yes,Credit card (automatic),115.05,4895.1
+7056-IMHCC,Male,1,Yes,No,33945,Yes,Yes,Electronic check,101.9,5549.4
+9625-RZFUK,Male,0,Yes,Yes,23745,Yes,No,Mailed check,19.7,1275.85
+2346-CZYIL,Male,0,No,No,104315,Yes,No,Credit card (automatic),20.35,531.6
+5760-WRAHC,Female,1,No,No,118361,Yes,No,Mailed check,69.75,1545.4
+4369-HTUIF,Male,1,No,No,93578,Yes,No,Bank transfer (automatic),85.15,503.6
+5898-IGSLP,Male,0,Yes,Yes,18767,Yes,Yes,Electronic check,89.3,2823
+2250-IVBWA,Male,0,Yes,Yes,123118,Yes,No,Electronic check,81.05,5135.35
+5324-KTGCG,Male,0,Yes,No,177193,Yes,No,Electronic check,20.85,1539.75
+8819-WFGGJ,Male,0,Yes,No,116211,No,No phone service,Bank transfer (automatic),54.1,3794.5
+9108-EJFJP,Female,0,Yes,No,213314,Yes,No,Mailed check,53.55,53.55
+7426-GSWPO,Male,1,No,No,36062,Yes,Yes,Bank transfer (automatic),103.5,6548.65
+3234-VKACU,Male,0,No,No,58842,Yes,No,Electronic check,70.3,132.4
+5522-JBWMO,Male,0,No,Yes,123045,Yes,No,Electronic check,44,44
+1104-FEJAM,Male,0,Yes,Yes,159766,Yes,Yes,Electronic check,64.4,1802.15
+5067-DGXLL,Male,0,No,No,171757,Yes,No,Mailed check,20.25,36.8
+3398-GCPMU,Female,1,Yes,Yes,29534,Yes,Yes,Credit card (automatic),89.55,6448.85
+3736-BLEPA,Male,0,No,No,61500,Yes,No,Bank transfer (automatic),91.25,2483.65
+2696-ECXKC,Female,0,Yes,Yes,214388,Yes,Yes,Mailed check,100.9,5448.6
+2296-DKZFP,Female,0,Yes,No,135804,Yes,No,Bank transfer (automatic),71,4386.2
+9971-ZWPBF,Male,1,Yes,Yes,179128,Yes,Yes,Electronic check,108.9,3625.2
+2634-HCZGT,Male,1,Yes,No,227571,Yes,Yes,Electronic check,60.05,3229.65
+7696-CFTAT,Male,0,Yes,Yes,101120,Yes,No,Bank transfer (automatic),19.8,726.1
+2189-WWOEW,Female,0,No,Yes,26572,Yes,No,Bank transfer (automatic),85.9,1269.55
+5702-KVQRD,Male,0,Yes,No,125471,Yes,No,Electronic check,82.55,5832.65
+4343-EJVQB,Male,0,No,No,9763,Yes,No,Mailed check,74.35,533.6
+3022-BEXHZ,Male,0,Yes,Yes,84319,Yes,Yes,Bank transfer (automatic),111.2,7530.8
+2279-AXJJK,Male,0,Yes,No,133872,Yes,Yes,Credit card (automatic),95.65,5088.4
+8213-TAZPM,Female,0,Yes,Yes,202736,Yes,Yes,Bank transfer (automatic),108.75,7493.05
+6778-EICRF,Male,0,Yes,Yes,51852,Yes,Yes,Mailed check,74.8,1821.2
+2272-UOINI,Female,0,No,No,212256,Yes,No,Electronic check,78.5,571.05
+7452-FOLON,Male,0,No,Yes,176266,Yes,Yes,Bank transfer (automatic),25.45,958.45
+1215-EXRMO,Male,0,Yes,No,192324,Yes,No,Mailed check,20.55,1067.65
+9571-EDEBV,Male,0,Yes,No,218181,Yes,Yes,Credit card (automatic),98.65,6962.85
+0854-UYHZD,Female,0,Yes,Yes,213790,Yes,No,Mailed check,19.55,265.3
+8992-CEUEN,Female,0,No,No,53365,Yes,No,Electronic check,18.85,18.85
+0082-OQIQY,Male,0,No,No,163330,Yes,No,Electronic check,94.2,2607.6
+0822-QGCXA,Female,1,Yes,No,22858,Yes,Yes,Electronic check,83.85,2310.2
+5306-BVTKJ,Male,0,Yes,Yes,94094,Yes,No,Credit card (automatic),55.8,2651.2
+2472-OVKUP,Male,0,Yes,No,223236,Yes,No,Electronic check,91,531
+8097-OMULG,Male,0,Yes,Yes,23972,Yes,No,Credit card (automatic),76.75,4541.9
+1421-HCERK,Male,1,Yes,No,208854,Yes,Yes,Bank transfer (automatic),105.7,3181.8
+5918-VUKWP,Female,0,No,No,43252,Yes,No,Bank transfer (automatic),20.55,654.55
+3318-NMQXL,Male,0,No,No,76059,Yes,No,Electronic check,92,266.8
+6921-OZMFH,Male,0,Yes,Yes,144539,Yes,Yes,Mailed check,55.7,259.4
+9415-ZNBSX,Female,0,Yes,Yes,94361,Yes,Yes,Bank transfer (automatic),89,6293.2
+5542-TBBWB,Male,0,No,No,183904,Yes,No,Electronic check,69.9,69.9
+7401-JIXNM,Female,0,Yes,Yes,128880,Yes,Yes,Credit card (automatic),91.3,4965
+1452-UZOSF,Male,0,Yes,Yes,38924,Yes,Yes,Credit card (automatic),106.1,7548.6
+0531-XBKMM,Male,0,No,Yes,53208,Yes,Yes,Bank transfer (automatic),65.7,4378.9
+5154-VEKBL,Female,0,No,No,41300,No,No phone service,Mailed check,58.5,539.85
+2516-XSJKX,Female,0,Yes,Yes,109134,Yes,No,Electronic check,78.45,3126.45
+4782-OSFXZ,Female,1,Yes,No,189679,Yes,Yes,Bank transfer (automatic),82.7,5831.2
+9351-HXDMR,Male,0,Yes,No,130364,Yes,Yes,Credit card (automatic),110.9,8240.85
+8309-PPCED,Female,0,Yes,No,99109,Yes,Yes,Bank transfer (automatic),110.45,7982.5
+8802-UNOJF,Male,1,No,No,139200,Yes,No,Mailed check,83.8,1029.75
+7753-USQYQ,Male,0,No,No,201045,Yes,No,Electronic check,64.2,3627.3
+4822-LPTYJ,Male,0,Yes,No,143994,Yes,Yes,Bank transfer (automatic),103.75,7346.2
+3761-FLYZI,Female,1,Yes,No,96935,Yes,Yes,Bank transfer (automatic),108.8,7082.45
+4636-QRJKY,Female,0,Yes,Yes,217773,Yes,Yes,Electronic check,80.5,502.85
+3376-BMGFE,Female,0,No,No,56825,Yes,No,Bank transfer (automatic),70.9,273
+5445-PZWGX,Male,0,No,No,38250,Yes,Yes,Electronic check,102,6529.25
+6857-TKDJV,Male,0,Yes,Yes,192711,Yes,Yes,Bank transfer (automatic),24.65,1620.45
+1567-DSCIC,Male,0,No,No,159727,Yes,Yes,Electronic check,94,773.65
+8544-JNBOX,Male,0,No,No,16117,Yes,No,Mailed check,20.8,1521.2
+5386-THSLQ,Female,1,Yes,No,216578,No,No phone service,Bank transfer (automatic),45.55,3027.25
+6331-LWDTQ,Male,0,No,No,184896,Yes,Yes,Credit card (automatic),72.15,794.25
+9360-AHGNL,Female,1,Yes,No,111419,Yes,Yes,Mailed check,109.55,4830.25
+2150-UWTFY,Female,0,Yes,Yes,201218,Yes,No,Mailed check,61.15,1422.05
+1508-DFXCU,Male,0,No,No,214171,Yes,No,Electronic check,81.45,912
+6143-JQKEA,Male,0,No,No,56889,Yes,No,Credit card (automatic),45.8,436.2
+7801-CEDNV,Male,0,Yes,No,100917,Yes,No,Credit card (automatic),48.7,1421.75
+2717-HVIZY,Female,0,No,Yes,94122,Yes,No,Mailed check,20.05,163.6
+0064-SUDOG,Female,0,Yes,Yes,160574,Yes,No,Bank transfer (automatic),20.3,224.5
+6164-HAQTX,Male,0,No,No,207548,No,No phone service,Bank transfer (automatic),53.95,3888.65
+1228-FZFRV,Male,0,Yes,Yes,120958,Yes,Yes,Credit card (automatic),105.95,5341.8
+1679-JRFBR,Female,0,Yes,Yes,96949,Yes,Yes,Credit card (automatic),108.15,7930.55
+1919-RTPQD,Male,0,Yes,Yes,50882,Yes,No,Electronic check,44.75,333.65
+7641-EUYET,Male,1,Yes,Yes,104670,Yes,Yes,Electronic check,100.7,4541.2
+2720-FVBQP,Female,0,Yes,Yes,2770,Yes,Yes,Credit card (automatic),48.95,273.25
+8035-PWSEV,Female,0,No,No,53897,Yes,No,Electronic check,89.25,487.05
+3547-LQRIK,Female,0,Yes,No,22531,Yes,Yes,Electronic check,26.9,1250.85
+0376-OIWME,Male,0,Yes,No,105627,Yes,No,Electronic check,93.6,3366.05
+0325-XBFAC,Male,0,No,No,20386,Yes,No,Electronic check,94.7,740.3
+2292-XQWSV,Male,0,Yes,Yes,113453,No,No phone service,Mailed check,60.3,2448.5
+2252-JHJGE,Male,0,No,No,152301,Yes,Yes,Electronic check,104,6363.45
+6176-YJWAS,Male,0,Yes,No,28625,Yes,Yes,Credit card (automatic),97.95,7114.25
+6383-ZTSIW,Female,1,Yes,No,49784,Yes,No,Mailed check,99.1,3877.95
+4365-MSDYN,Male,0,Yes,No,45060,Yes,No,Bank transfer (automatic),19.55,161.15
+1455-ESIQH,Male,0,No,No,6392,Yes,No,Electronic check,89.1,89.1
+4664-NJCMS,Female,0,Yes,No,4361,No,No phone service,Bank transfer (automatic),59.55,2016.3
+4911-BANWH,Female,0,No,Yes,7030,Yes,Yes,Credit card (automatic),86.55,2697.4
+7394-FKDNK,Female,0,Yes,No,122646,Yes,No,Electronic check,89.45,853.1
+8285-ABVLB,Female,0,Yes,No,226667,Yes,No,Credit card (automatic),19.85,1328.35
+4644-OBGFZ,Male,0,Yes,Yes,201713,Yes,No,Mailed check,19.5,1026.35
+8410-BGQXN,Male,0,No,No,10649,Yes,No,Mailed check,19.4,93.4
+4091-TVOCN,Male,0,No,Yes,200180,Yes,Yes,Credit card (automatic),78.75,3682.45
+7157-SMCFK,Male,0,No,Yes,140213,Yes,No,Mailed check,19.75,1124.2
+9799-CAYJJ,Female,1,Yes,No,105823,Yes,No,Electronic check,69.3,153.8
+3683-QKIUE,Female,0,No,No,116675,Yes,No,Bank transfer (automatic),50.8,288.05
+3538-WZPHD,Male,0,No,No,119920,No,No phone service,Electronic check,29.6,79.45
+8205-OTCHB,Male,0,No,No,87671,No,No phone service,Bank transfer (automatic),43.75,903.6
+7674-YTAFD,Female,0,No,No,153833,Yes,No,Bank transfer (automatic),79.95,2684.85
+1571-SAVHK,Male,0,No,No,7293,Yes,Yes,Mailed check,99.95,1132.75
+1779-PWPMG,Female,1,Yes,No,132429,Yes,Yes,Bank transfer (automatic),114.65,8333.95
+3969-JQABI,Female,0,Yes,No,44522,Yes,No,Credit card (automatic),65.25,3791.6
+3313-QKNKB,Male,0,Yes,No,19387,Yes,Yes,Electronic check,85.55,5084.65
+9086-YJYXS,Male,0,Yes,Yes,218472,Yes,Yes,Bank transfer (automatic),77.2,2753.8
+1248-DYXUB,Male,0,Yes,Yes,196903,Yes,Yes,Mailed check,24.8,1229.1
+0621-TWIEM,Male,0,No,No,159760,Yes,No,Electronic check,45.55,402.6
+8679-JOEVF,Female,1,No,No,109674,Yes,No,Electronic check,59.4,1023.9
+3424-NMNBO,Male,1,Yes,No,160810,Yes,Yes,Electronic check,108.85,6287.25
+7209-JCUDS,Male,0,No,No,178030,Yes,No,Electronic check,94.9,1048.85
+7952-OBOYL,Male,0,No,No,15919,Yes,No,Mailed check,89.85,244.45
+7876-DNYAP,Female,0,Yes,Yes,57497,Yes,No,Credit card (automatic),19.8,1436.95
+6549-NNDYT,Female,0,No,No,32205,No,No phone service,Bank transfer (automatic),30.85,394.1
+5419-KLXBN,Female,0,Yes,Yes,232120,Yes,No,Bank transfer (automatic),89.15,2257.75
+5028-HTLJB,Male,1,No,No,218304,Yes,No,Mailed check,20.05,20.05
+1541-ETJZO,Male,0,No,No,182460,Yes,Yes,Mailed check,62.05,62.05
+6999-CHVCF,Male,0,No,No,188274,Yes,Yes,Bank transfer (automatic),102.1,7149.35
+5167-ZFFMM,Male,0,No,No,171153,Yes,Yes,Credit card (automatic),90.85,90.85
+6326-MTTXK,Male,0,No,No,185657,Yes,Yes,Electronic check,100.85,819.55
+4195-NZGTA,Female,0,No,No,15166,No,No phone service,Electronic check,25.25,25.25
+5619-PTMIK,Female,0,Yes,No,148876,Yes,Yes,Electronic check,53.1,2459.8
+3932-IJWDZ,Male,0,No,No,123884,Yes,Yes,Bank transfer (automatic),103.65,4747.85
+7089-IVVAZ,Female,0,No,No,33182,Yes,Yes,Bank transfer (automatic),103.35,847.3
+3387-VATUS,Male,0,No,No,155700,Yes,Yes,Bank transfer (automatic),94.85,462.8
+5482-VXSXJ,Male,0,No,No,129414,Yes,No,Mailed check,93.2,2157.3
+2386-OWURY,Female,0,No,No,102828,Yes,No,Electronic check,95.3,5817.7
+2625-TRCZQ,Female,0,Yes,No,64070,No,No phone service,Electronic check,49.65,2553.35
+9039-RBEEE,Male,0,No,No,125763,No,No phone service,Credit card (automatic),48.95,1880.85
+6765-MBQNU,Female,0,Yes,No,182014,Yes,Yes,Mailed check,26,684.05
+0843-WTBXE,Male,0,No,No,117141,Yes,Yes,Bank transfer (automatic),85.45,4517.25
+1448-PWKYE,Male,0,Yes,Yes,144505,Yes,No,Electronic check,80,80
+6317-YPKDH,Female,0,No,No,197205,No,No phone service,Bank transfer (automatic),29.95,29.95
+2027-CWDNU,Male,0,Yes,Yes,72989,Yes,No,Electronic check,85.6,1601.5
+2068-WWXQZ,Male,0,No,No,18786,Yes,No,Bank transfer (automatic),20.05,902
+6110-OHIHY,Male,0,No,No,194509,Yes,No,Electronic check,79.25,267.6
+3945-GFWQL,Female,0,No,Yes,81986,Yes,No,Electronic check,44.55,480.6
+8645-KWHJO,Male,0,No,No,10346,No,No phone service,Electronic check,55,771.95
+2815-CPTUL,Male,1,No,No,171506,Yes,No,Mailed check,70.25,331.9
+0516-OOHAR,Male,0,Yes,Yes,145869,Yes,No,Bank transfer (automatic),100.35,2799
+0397-GZBBC,Male,1,Yes,No,178934,Yes,Yes,Bank transfer (automatic),93.85,5574.75
+3580-REOAC,Male,0,No,No,220166,Yes,No,Credit card (automatic),44.85,435.4
+8200-KLNYW,Female,0,Yes,No,144337,Yes,No,Mailed check,80.9,1714.95
+3317-HRTNN,Female,1,No,No,207639,No,No phone service,Electronic check,45.7,198
+9108-EQPNQ,Female,0,Yes,Yes,89364,Yes,Yes,Credit card (automatic),26.1,225.55
+3420-ZDBMA,Male,1,No,No,208527,Yes,No,Mailed check,71.45,371.6
+0727-IWKVK,Male,0,Yes,No,35551,Yes,No,Electronic check,79.9,741.7
+8168-UQWWF,Female,0,No,No,51983,Yes,Yes,Bank transfer (automatic),97.85,1105.4
+8313-AFGBW,Male,0,Yes,No,164023,Yes,No,Electronic check,73.6,3522.65
+6351-SCJKT,Male,0,No,No,42973,No,No phone service,Mailed check,41.35,107.25
+0231-LXVAP,Male,0,No,No,76854,Yes,No,Electronic check,75.9,75.9
+8328-SKJNO,Male,0,No,Yes,80215,No,No phone service,Bank transfer (automatic),40.65,947.4
+4385-GZQXV,Female,1,No,No,175159,Yes,No,Electronic check,94.45,1511.2
+9513-DXHDA,Male,0,No,No,213386,Yes,No,Electronic check,81.7,2212.55
+7225-IILWY,Male,0,Yes,Yes,42588,Yes,Yes,Mailed check,25.75,1686.15
+2969-QWUBZ,Female,0,No,No,970,No,No phone service,Electronic check,51.4,96.8
+2739-CCZMB,Male,0,No,Yes,128914,Yes,No,Credit card (automatic),20.35,122
+9943-VSZUV,Male,1,No,No,162176,Yes,Yes,Mailed check,75.7,5060.85
+4549-ZDQYY,Female,0,No,No,40250,Yes,No,Credit card (automatic),57.95,3042.25
+9885-AIBVB,Male,0,Yes,No,48693,Yes,Yes,Electronic check,85.8,2440.25
+2262-SLNVK,Female,0,No,No,209550,Yes,No,Electronic check,70.1,70.1
+9408-SSNVZ,Female,0,No,No,188437,Yes,No,Electronic check,70.15,268.35
+0383-CLDDA,Female,0,No,No,57129,Yes,Yes,Credit card (automatic),85.35,5897.4
+6537-QLGEX,Female,0,No,No,218170,No,No phone service,Electronic check,38.9,664.4
+2371-JQHZZ,Male,0,Yes,No,87035,Yes,Yes,Electronic check,93,2248.05
+9919-YLNNG,Female,0,No,No,203119,Yes,No,Bank transfer (automatic),103.8,4327.5
+5073-WXOYN,Female,0,No,No,200616,No,No phone service,Electronic check,50.8,3027.4
+2754-VDLTR,Male,0,No,Yes,48307,Yes,Yes,Electronic check,95.2,930.4
+5778-BVOFB,Female,0,No,No,110922,Yes,No,Bank transfer (automatic),59.5,530.05
+6614-VBEGU,Female,0,Yes,No,65987,Yes,No,Bank transfer (automatic),69.45,1614.05
+7542-CYDDM,Male,0,No,No,96143,Yes,No,Mailed check,20.05,358.5
+1352-HNSAW,Female,0,Yes,Yes,153223,Yes,Yes,Bank transfer (automatic),115.6,8220.4
+0744-GKNGE,Female,0,Yes,Yes,55500,Yes,Yes,Bank transfer (automatic),86.8,5327.25
+9101-NTIXF,Male,0,No,No,164994,Yes,No,Mailed check,19.4,50.6
+6258-PVZWJ,Male,0,Yes,No,89383,Yes,Yes,Credit card (automatic),90.8,6302.85
+7181-BQYBV,Female,0,Yes,Yes,92656,Yes,Yes,Electronic check,102.45,102.45
+1074-WVEVG,Female,0,Yes,No,146739,Yes,No,Mailed check,20.35,1267
+1357-BIJKI,Male,0,Yes,No,184812,Yes,Yes,Electronic check,98.25,4858.7
+7602-MVRMB,Female,0,Yes,Yes,184058,Yes,Yes,Bank transfer (automatic),110.45,8058.85
+2972-YDYUW,Female,0,No,No,169939,Yes,Yes,Electronic check,94.7,5468.95
+1763-KUAAW,Female,1,No,No,180964,Yes,No,Bank transfer (automatic),20.35,369.6
+8894-JVDCV,Female,0,No,No,90423,Yes,Yes,Credit card (automatic),115.05,7133.45
+5474-LAMUQ,Male,0,Yes,No,124511,Yes,No,Mailed check,20.1,533.9
+0117-LFRMW,Male,0,Yes,Yes,55000,No,No phone service,Bank transfer (automatic),40.2,1448.8
+4439-JMPMT,Female,0,Yes,Yes,224845,Yes,No,Electronic check,85.75,470.95
+9576-ANLXO,Female,0,No,No,157309,Yes,No,Bank transfer (automatic),69.55,222.3
+3014-WJKSM,Male,0,Yes,No,27407,Yes,No,Credit card (automatic),75.3,2263.4
+4926-UMJZD,Female,0,Yes,No,168698,Yes,No,Mailed check,49.2,1498.55
+6527-PZFPV,Male,0,Yes,Yes,47010,Yes,No,Credit card (automatic),20.8,469.65
+7401-RUBNK,Female,0,Yes,No,118647,Yes,No,Electronic check,74.8,1438.05
+4558-FANTW,Female,0,Yes,Yes,159982,Yes,No,Electronic check,91.85,1574.45
+8990-YOZLV,Female,0,No,No,145041,Yes,Yes,Mailed check,66.9,4577.9
+7560-QRBXH,Female,0,No,Yes,56248,Yes,No,Mailed check,19.95,936.7
+0040-HALCW,Male,0,Yes,Yes,138841,Yes,No,Credit card (automatic),20.4,1090.6
+2971-SGAFL,Female,0,No,No,104397,Yes,Yes,Electronic check,78.75,995.35
+1845-CSBRZ,Female,1,Yes,Yes,208790,Yes,Yes,Bank transfer (automatic),85.35,1961.6
+4819-HJPIW,Male,0,No,No,118778,No,No phone service,Mailed check,25.15,476.8
+0577-WHMEV,Female,0,Yes,No,73399,Yes,Yes,Electronic check,90.7,1374.9
+7563-BIUPC,Male,0,No,No,47961,Yes,No,Electronic check,80.6,415.55
+9504-YAZWB,Female,0,No,No,9639,Yes,No,Mailed check,20.25,1048.45
+6896-SRVYQ,Male,1,No,No,172969,Yes,No,Electronic check,73.85,3122.4
+8761-NSOBC,Male,0,No,No,119313,Yes,No,Electronic check,100.55,4398.15
+4701-LKOZD,Female,0,No,No,17680,Yes,Yes,Credit card (automatic),89.75,6367.2
+4587-VVTOX,Female,0,Yes,No,91128,Yes,Yes,Electronic check,105.3,545.2
+0983-TATYJ,Female,0,Yes,No,205645,Yes,No,Mailed check,51.45,1758.9
+8084-OIVBS,Female,0,No,No,95202,Yes,No,Mailed check,20,211.95
+0402-OAMEN,Female,0,Yes,Yes,177057,Yes,Yes,Bank transfer (automatic),24.45,1709.1
+7363-QTBIW,Female,0,Yes,No,214845,Yes,No,Electronic check,79.75,769.1
+0230-UBYPQ,Male,1,Yes,No,20442,No,No phone service,Bank transfer (automatic),36.1,2298.9
+5808-TOTXO,Female,0,No,Yes,115319,Yes,No,Credit card (automatic),20.55,57.4
+3186-AJIEK,Male,0,No,No,171233,Yes,No,Bank transfer (automatic),105.65,6844.5
+8404-VIOMB,Female,0,No,No,163580,No,No phone service,Bank transfer (automatic),62.5,4136.4
+8040-MNRTF,Female,0,No,No,27366,Yes,No,Mailed check,71.1,71.1
+8294-UIMBA,Female,0,No,No,160043,Yes,No,Bank transfer (automatic),94.4,2638.1
+9506-UXUSK,Male,0,No,No,127046,Yes,No,Electronic check,70.15,931.75
+9488-FVZCC,Female,0,Yes,Yes,174746,Yes,Yes,Bank transfer (automatic),79.5,5661.7
+9415-TPKRV,Female,0,Yes,Yes,24216,Yes,Yes,Electronic check,55.75,446.8
+3325-FUYCG,Male,0,Yes,Yes,69771,Yes,Yes,Electronic check,106.1,2847.4
+5055-MGMGF,Female,0,Yes,No,75411,Yes,Yes,Electronic check,105.05,6914.95
+5701-YVSVF,Female,1,Yes,No,227936,Yes,No,Electronic check,82.9,880.05
+1439-LCGVL,Female,0,Yes,No,96325,Yes,No,Mailed check,19.2,459.6
+9693-XMUOB,Male,1,Yes,No,65258,No,No phone service,Electronic check,50.25,2997.45
+2626-VEEWG,Male,0,Yes,Yes,198523,Yes,No,Credit card (automatic),19.4,1284.2
+1591-XWLGB,Female,0,Yes,No,89986,Yes,No,Credit card (automatic),19.85,1379.6
+0533-UCAAU,Male,1,Yes,No,72343,Yes,Yes,Credit card (automatic),71.1,4140.1
+7110-BDTWG,Female,0,Yes,No,8095,No,No phone service,Electronic check,47.05,3263.6
+7493-GVFIO,Male,0,No,No,53617,Yes,No,Credit card (automatic),20.55,1252.85
+9838-BFCQT,Male,0,Yes,Yes,135405,Yes,Yes,Mailed check,26.1,1851.45
+1746-TGTWV,Male,0,Yes,No,8359,Yes,No,Credit card (automatic),75.35,75.35
+5937-EORGB,Male,1,Yes,No,23819,Yes,Yes,Electronic check,96.5,1392.25
+0793-TWELN,Female,0,No,No,78865,Yes,Yes,Electronic check,80.15,319.85
+6243-OZGFH,Female,0,No,No,183039,No,No phone service,Electronic check,44.95,996.85
+4119-ZYPZY,Male,1,No,No,177511,Yes,Yes,Electronic check,106.8,7623.2
+7925-PNRGI,Female,0,Yes,Yes,198748,Yes,Yes,Mailed check,81.3,3541.1
+5966-EMAZU,Male,0,Yes,No,153510,Yes,Yes,Mailed check,108.5,6880.85
+9504-DSHWM,Male,0,No,No,72994,Yes,Yes,Bank transfer (automatic),59.2,1191.2
+3814-MLAXC,Female,0,No,No,109338,Yes,Yes,Credit card (automatic),79.85,2404.15
+5150-ITWWB,Male,1,No,No,211339,Yes,Yes,Electronic check,94.85,335.75
+4092-OFQZS,Male,0,Yes,No,190850,Yes,No,Mailed check,20.65,417.5
+1573-LGXBA,Male,0,Yes,Yes,228317,Yes,No,Credit card (automatic),97.55,5598
+5233-GEEAX,Male,1,No,No,152707,No,No phone service,Electronic check,29.4,221.9
+2650-GYRYL,Male,0,Yes,Yes,208085,Yes,No,Bank transfer (automatic),19.45,600.25
+5010-IPEAQ,Female,0,Yes,Yes,46002,No,No phone service,Credit card (automatic),54.2,3623.95
+5494-WOZRZ,Female,0,Yes,Yes,98129,Yes,No,Credit card (automatic),82,5999.85
+3863-QSTYI,Male,0,No,No,163590,Yes,No,Electronic check,64.65,3735.45
+0673-IGUQO,Male,0,No,No,52007,Yes,No,Mailed check,20.45,20.45
+3585-YNADK,Female,0,Yes,No,3806,Yes,Yes,Bank transfer (automatic),74.6,4368.95
+3891-PUQOD,Female,0,No,Yes,44573,Yes,No,Electronic check,59.2,59.2
+4445-ZJNMU,Male,0,No,No,190225,Yes,Yes,Credit card (automatic),99.3,918.75
+5712-VBOXD,Female,0,No,No,138628,Yes,No,Credit card (automatic),20.15,68.45
+7873-CVMAW,Male,0,No,No,88447,Yes,Yes,Credit card (automatic),88.55,6362.35
+1017-FBQMM,Female,0,Yes,Yes,128965,Yes,Yes,Credit card (automatic),106.05,6703.5
+6918-UMQCG,Female,0,No,No,173912,Yes,No,Electronic check,80.2,384.25
+4391-LNRXK,Male,0,No,No,89486,Yes,No,Bank transfer (automatic),94.95,2142.8
+4896-CPRPF,Male,0,Yes,Yes,9507,Yes,Yes,Bank transfer (automatic),25.45,809.25
+2187-PKZAY,Male,0,No,No,130366,Yes,No,Bank transfer (automatic),79.95,1043.4
+4203-QGNZA,Female,0,No,Yes,197738,Yes,No,Mailed check,20.25,535.35
+6579-JPICP,Male,0,No,No,48696,Yes,No,Mailed check,20.4,20.4
+7694-VLBWQ,Male,0,Yes,No,48240,Yes,Yes,Electronic check,104.1,7040.85
+3133-PZNSR,Male,0,Yes,Yes,161409,Yes,Yes,Credit card (automatic),97.75,6991.6
+9356-AXGMP,Male,0,Yes,No,112900,Yes,Yes,Electronic check,110.7,4428.6
+9097-ZUBYC,Male,0,Yes,No,27545,Yes,No,Bank transfer (automatic),48.8,664.4
+0840-DCNZE,Male,0,No,No,142126,Yes,No,Bank transfer (automatic),86.95,4138.9
+8780-IHCRN,Male,0,Yes,Yes,77922,Yes,Yes,Credit card (automatic),24.65,1574.5
+3285-UCQVC,Female,0,No,No,54049,No,No phone service,Credit card (automatic),28.6,973.55
+1833-VGRUM,Female,1,No,No,197461,Yes,Yes,Electronic check,74.2,74.2
+7446-SFAOA,Female,0,Yes,No,222275,Yes,No,Bank transfer (automatic),19.85,717.5
+0836-SEYLU,Male,0,Yes,No,64244,No,No phone service,Mailed check,40.65,328.95
+1752-OZXFY,Male,0,Yes,No,177941,Yes,No,Mailed check,59.8,3561.15
+5240-CAOYT,Female,0,No,No,34040,Yes,Yes,Bank transfer (automatic),87.55,4884.85
+2887-JPYLU,Female,0,No,Yes,117811,Yes,No,Bank transfer (automatic),45.2,1841.9
+3021-VLNRJ,Female,0,No,Yes,153063,Yes,No,Credit card (automatic),70.8,3478.15
+6257-RJOHI,Male,0,No,No,92776,Yes,No,Mailed check,50.8,202.3
+4910-AQFFX,Male,0,Yes,Yes,210476,Yes,Yes,Bank transfer (automatic),79.35,661.25
+0396-YCHWO,Male,0,Yes,No,148923,Yes,Yes,Electronic check,95.4,3474.2
+5482-PLVPE,Female,1,No,No,31629,No,No phone service,Electronic check,24.35,41.85
+1830-GGFNM,Male,0,Yes,Yes,108810,Yes,Yes,Credit card (automatic),94.55,6078.75
+7951-VRDVK,Female,0,No,No,60588,Yes,No,Bank transfer (automatic),85.85,3003.55
+3977-QCRSL,Female,0,No,No,85799,Yes,No,Mailed check,20.15,117.95
+2615-YVMYX,Male,1,Yes,No,154222,Yes,Yes,Electronic check,107.5,7713.55
+0323-XWWTN,Male,0,No,Yes,202746,Yes,Yes,Mailed check,26.4,121.25
+6974-DAFLI,Female,0,Yes,No,25697,Yes,No,Electronic check,19.7,1140.05
+0224-HJAPT,Male,0,No,No,156300,Yes,Yes,Electronic check,47.15,223.15
+2386-LAHRK,Male,0,No,No,28881,Yes,No,Mailed check,53.5,53.5
+9541-ZPSEA,Male,0,Yes,Yes,107495,Yes,No,Credit card (automatic),80.35,5375.15
+1193-RTSLK,Female,0,No,No,80355,Yes,No,Credit card (automatic),83.9,3233.6
+3351-NGXYI,Female,1,No,No,146204,Yes,Yes,Electronic check,54.1,889
+9359-UGBTK,Female,0,No,No,178323,Yes,No,Bank transfer (automatic),72.35,4991.5
+9788-HNGUT,Male,0,Yes,No,168972,Yes,Yes,Credit card (automatic),116.95,8594.4
+7855-DIWPO,Female,0,No,No,73122,Yes,No,Electronic check,68.65,1493.2
+5222-JCXZT,Male,0,No,No,76094,Yes,No,Mailed check,19,78.9
+0975-VOOVL,Female,0,No,No,228653,No,No phone service,Mailed check,29.2,98.5
+4419-UJMUS,Male,0,Yes,Yes,35842,Yes,Yes,Electronic check,99.35,6856.45
+4424-TKOPW,Male,1,No,No,103576,Yes,Yes,Electronic check,93.85,196.75
+6797-LNAQX,Male,0,Yes,Yes,55740,Yes,Yes,Bank transfer (automatic),98.3,6859.5
+6770-XUAGN,Female,0,Yes,Yes,92814,Yes,No,Electronic check,21,21
+2640-LYMOV,Male,0,No,No,132949,Yes,No,Mailed check,19.65,38.8
+7928-VJYAB,Male,0,Yes,Yes,125662,Yes,No,Electronic check,90.6,1020.2
+6821-BUXUX,Female,0,No,No,176979,Yes,Yes,Electronic check,96.65,1244.5
+8917-SZTTJ,Male,0,Yes,Yes,31832,Yes,No,Credit card (automatic),19.65,1161.75
+0947-MUGVO,Male,1,Yes,No,154455,Yes,No,Electronic check,73.65,1463.5
+8727-XDPUD,Male,0,No,No,50833,No,No phone service,Credit card (automatic),35.8,1316.9
+7305-ZWMAJ,Male,0,Yes,No,194021,Yes,No,Credit card (automatic),20.7,587.1
+3413-DHLPB,Male,0,Yes,Yes,5032,Yes,Yes,Bank transfer (automatic),103.75,5969.95
+2884-GBPFB,Female,0,Yes,No,55294,Yes,No,Electronic check,70.3,2416.55
+7480-QNVZJ,Male,1,No,No,184835,Yes,Yes,Electronic check,95.7,4816.7
+1696-HXOWK,Female,0,Yes,No,38229,Yes,Yes,Mailed check,95.65,6856.95
+4480-QQRHC,Female,1,No,No,82306,Yes,No,Bank transfer (automatic),74.05,600.15
+8461-EFQYM,Female,0,No,No,223616,Yes,Yes,Electronic check,24.25,914.4
+2429-AYKKO,Male,0,No,No,91026,Yes,No,Bank transfer (automatic),19.85,1434.1
+4690-PKDQG,Female,1,Yes,No,80766,Yes,Yes,Electronic check,95.55,3930.6
+8961-QDZZJ,Female,0,Yes,Yes,107813,Yes,No,Electronic check,95,5535.8
+9330-VOFSZ,Female,0,Yes,No,183721,Yes,Yes,Credit card (automatic),110.8,6640.7
+0174-QRVVY,Male,0,Yes,Yes,5623,Yes,Yes,Credit card (automatic),25.35,1847.55
+8785-EPNCG,Male,0,No,No,183209,Yes,Yes,Credit card (automatic),23.15,245.2
+9115-YQHGA,Male,0,No,No,148453,Yes,No,Electronic check,51.1,2092.9
+9194-GFVOI,Female,0,Yes,No,49351,Yes,Yes,Credit card (automatic),84.35,3571.6
+6595-COKXZ,Female,0,No,No,223393,Yes,No,Mailed check,44.45,44.45
+3154-CFSZG,Male,0,Yes,Yes,3551,Yes,No,Electronic check,90.05,4137.2
+0679-TDGAK,Male,0,Yes,Yes,72777,Yes,No,Electronic check,75.5,4025.6
+6434-TTGJP,Male,0,Yes,Yes,218078,No,No phone service,Credit card (automatic),53.7,521
+6631-HMANX,Male,0,Yes,No,109061,Yes,Yes,Credit card (automatic),85.45,6227.5
+0665-XHDJU,Male,0,Yes,No,15245,Yes,Yes,Electronic check,99.4,7285.7
+3428-MMGUB,Male,0,No,No,11739,Yes,Yes,Electronic check,89.55,5231.2
+5570-PTWEH,Female,0,Yes,No,142445,Yes,Yes,Credit card (automatic),75.15,216.75
+5712-PTIWW,Male,0,No,No,206932,Yes,No,Electronic check,79.85,152.45
+8821-XNHVZ,Female,0,Yes,Yes,63962,Yes,No,Mailed check,80.05,80.05
+1173-XZPYF,Female,0,No,No,170256,Yes,Yes,Electronic check,89.2,990.3
+3545-CNWRG,Female,0,Yes,Yes,91440,Yes,Yes,Electronic check,98.35,4889.2
+4806-DXQCE,Female,1,Yes,No,128281,Yes,Yes,Electronic check,113.65,7714.65
+0685-MLYYM,Female,1,No,No,124100,Yes,No,Electronic check,70.75,154.85
+1075-BGWOH,Male,1,Yes,No,132296,Yes,Yes,Electronic check,98.75,1587.55
+8443-WVPSS,Male,0,Yes,No,63984,Yes,No,Electronic check,99.85,990.9
+4114-QMKVN,Female,0,Yes,Yes,107323,Yes,Yes,Bank transfer (automatic),68.75,3815.4
+2038-LLMLM,Female,0,No,No,208558,Yes,Yes,Electronic check,103.85,4946.05
+5605-XNWEN,Male,1,Yes,No,92557,Yes,Yes,Bank transfer (automatic),25,1802.55
+0426-TIRNE,Female,0,No,No,108022,Yes,No,Mailed check,20.9,20.9
+0559-CKHUS,Female,0,Yes,No,228417,Yes,No,Mailed check,19.55,521.8
+0203-HHYIJ,Male,0,No,No,101186,Yes,Yes,Bank transfer (automatic),25.3,676.35
+6094-ZIVKX,Female,0,No,No,7598,Yes,No,Credit card (automatic),54.45,3674.95
+2897-DOVND,Male,0,No,No,142037,Yes,No,Electronic check,69.8,146.65
+8387-MOJJT,Female,0,Yes,Yes,71029,Yes,No,Credit card (automatic),77.95,3384
+2587-YNLES,Female,0,Yes,Yes,80912,Yes,No,Mailed check,20.1,100.35
+6693-FRIRW,Male,0,No,No,122299,Yes,No,Credit card (automatic),101.3,1794.65
+5976-JCJRH,Male,0,Yes,No,143099,Yes,No,Electronic check,70.3,738.2
+6749-UTDVX,Male,0,No,No,11962,Yes,Yes,Electronic check,103.65,7634.8
+3552-CTCYF,Male,0,Yes,Yes,40516,Yes,Yes,Bank transfer (automatic),104.8,6597.25
+0068-FIGTF,Female,0,No,No,42613,Yes,No,Mailed check,78.2,2078.95
+5622-UEJFI,Female,0,Yes,Yes,185617,Yes,Yes,Credit card (automatic),25.4,949.8
+9524-EGPJC,Female,0,No,No,83725,Yes,Yes,Electronic check,90.1,1612.75
+5108-ADXWO,Male,0,No,No,104087,Yes,No,Electronic check,73.5,791.75
+9067-SQTNS,Male,0,Yes,Yes,108512,Yes,No,Bank transfer (automatic),20.6,926
+3639-XJHKQ,Female,0,No,Yes,157137,Yes,No,Electronic check,60.6,1297.8
+8197-BFWVU,Female,0,Yes,Yes,55399,Yes,Yes,Bank transfer (automatic),93.25,6688.95
+5843-TTHGI,Female,0,No,No,198668,Yes,No,Mailed check,50,892.7
+5651-WYIPH,Female,1,No,No,224846,Yes,No,Credit card (automatic),49.85,865.75
+3911-RSNHI,Female,0,Yes,No,18080,No,No phone service,Credit card (automatic),61.4,4310.35
+6865-JZNKO,Female,0,No,No,94896,Yes,No,Bank transfer (automatic),55.3,1530.6
+3275-RHRNE,Male,0,Yes,Yes,103881,No,No phone service,Credit card (automatic),60,1682.05
+7627-JKIAZ,Female,0,Yes,No,185684,Yes,Yes,Credit card (automatic),78.95,2839.65
+4685-TFLLS,Male,0,Yes,Yes,81906,Yes,No,Bank transfer (automatic),19.8,342.3
+2245-ADZFJ,Female,0,Yes,Yes,185912,Yes,Yes,Bank transfer (automatic),80.55,2471.6
+4482-FTFFX,Male,0,No,No,194366,Yes,No,Electronic check,56.15,291.45
+5419-JKZNQ,Male,1,Yes,No,195588,Yes,Yes,Mailed check,77.9,2351.45
+5915-DGNVC,Female,0,Yes,No,144235,Yes,Yes,Electronic check,71.8,3472.05
+2957-LOLHO,Male,0,No,No,225855,Yes,No,Bank transfer (automatic),45.4,518.9
+2777-PHDEI,Female,0,No,No,127323,Yes,No,Electronic check,78.05,78.05
+9565-DJPIB,Female,0,No,Yes,62733,Yes,Yes,Mailed check,89.6,365.65
+4390-KYULV,Male,0,Yes,No,43140,Yes,No,Credit card (automatic),20.55,51.15
+1678-FYZOW,Female,0,No,No,222000,Yes,No,Electronic check,79.4,244.65
+7349-ALMUX,Male,0,No,No,49199,Yes,No,Bank transfer (automatic),65.6,2313.8
+9330-DHBFL,Female,0,Yes,Yes,69542,Yes,No,Mailed check,66.25,1533.8
+6288-LBEAR,Female,0,No,No,78629,Yes,No,Mailed check,79.1,1783.75
+9233-PSYHO,Female,1,No,No,96816,Yes,Yes,Bank transfer (automatic),100.15,4459.8
+6072-NUQCB,Male,0,Yes,Yes,119997,Yes,No,Bank transfer (automatic),20.25,488.25
+0447-RXSGD,Male,0,No,No,5823,Yes,Yes,Bank transfer (automatic),99.65,2404.85
+9916-AYHTC,Male,0,No,No,108615,Yes,No,Credit card (automatic),19.85,916
+8824-RWFXJ,Male,0,Yes,Yes,162995,Yes,No,Mailed check,56.15,168.15
+4884-ZTHVF,Female,1,No,No,208652,Yes,No,Electronic check,87.1,713.6
+8627-EHGIP,Male,0,No,No,198401,No,No phone service,Mailed check,53.95,2375.4
+1020-JPQOW,Female,0,Yes,No,55854,Yes,Yes,Electronic check,90.55,5116.6
+3976-NLDEZ,Male,0,No,No,29968,Yes,No,Mailed check,20.6,20.6
+3162-ZJZFU,Male,0,Yes,Yes,4036,Yes,No,Electronic check,92.55,4779.45
+2146-EGVDT,Male,0,Yes,Yes,118852,Yes,No,Credit card (automatic),19.3,1192.7
+9396-ZSFLL,Female,0,No,No,42842,Yes,Yes,Mailed check,48.85,631.4
+4908-XAXAY,Female,1,No,No,207154,Yes,No,Bank transfer (automatic),89.85,4287.2
+2911-UREFD,Female,0,Yes,No,175072,No,No phone service,Electronic check,55.9,2184.35
+9391-DXGGG,Female,1,No,No,204876,Yes,No,Credit card (automatic),89.15,3990.75
+4918-QLLIW,Male,0,No,No,133518,Yes,No,Credit card (automatic),53.4,188.7
+7503-QQRVF,Male,1,Yes,No,178883,Yes,No,Credit card (automatic),74.3,1178.25
+9761-XUJWD,Male,0,No,No,143544,Yes,No,Bank transfer (automatic),65.6,339.9
+5816-QVHRX,Female,0,No,No,10877,Yes,Yes,Credit card (automatic),100.3,3541.4
+7054-ENNGU,Female,0,Yes,No,175755,Yes,No,Mailed check,50.85,466.6
+9385-EHGDO,Female,0,Yes,Yes,2958,Yes,No,Mailed check,19.85,739.35
+4285-GYRQC,Female,0,Yes,No,193047,Yes,No,Electronic check,86.25,587.1
+2955-PSXOE,Female,0,No,No,75340,Yes,No,Bank transfer (automatic),20.2,20.2
+7016-BPGEU,Female,0,No,No,58946,No,No phone service,Credit card (automatic),25.1,712.85
+4531-AUZNK,Female,0,Yes,Yes,219682,Yes,Yes,Mailed check,95.15,5000.05
+0556-FJEGU,Male,0,No,No,59419,Yes,No,Bank transfer (automatic),70.1,4048.95
+5168-MQQCA,Female,0,Yes,No,181273,Yes,Yes,Bank transfer (automatic),108.5,8003.8
+3694-DELSO,Male,0,Yes,Yes,107081,No,No phone service,Credit card (automatic),38.55,156.1
+1135-HIORI,Female,0,Yes,Yes,75703,Yes,Yes,Electronic check,111.45,7266.95
+6952-OMNWB,Male,1,Yes,No,97240,Yes,Yes,Credit card (automatic),80.35,5589.3
+9544-PYPSJ,Female,1,Yes,Yes,132464,Yes,Yes,Credit card (automatic),96.1,6019.35
+7483-IQWIB,Male,0,Yes,Yes,130128,Yes,Yes,Electronic check,92.95,3415.25
+1985-MBRYP,Female,0,No,No,133458,Yes,No,Bank transfer (automatic),19.65,779.25
+3227-WLKLI,Female,0,Yes,Yes,226894,Yes,Yes,Bank transfer (automatic),91.55,5963.95
+1928-BXYIV,Male,0,No,No,227090,Yes,Yes,Electronic check,61.15,61.15
+6827-IEAUQ,Female,0,Yes,Yes,104741,Yes,No,Mailed check,66.15,1874.45
+8755-OGKNA,Female,0,Yes,Yes,100932,Yes,No,Bank transfer (automatic),19.5,1167.6
+3803-KMQFW,Female,0,Yes,Yes,145894,Yes,No,Mailed check,20.55,20.55
+9839-ETQOE,Male,0,No,Yes,213276,No,No phone service,Electronic check,40.45,1912.85
+8099-MZPUJ,Male,0,Yes,Yes,93254,Yes,Yes,Credit card (automatic),111.8,5443.65
+5514-YQENT,Male,0,No,Yes,9772,Yes,No,Electronic check,111.15,4507.15
+8871-JLMHM,Female,0,Yes,No,158325,Yes,Yes,Credit card (automatic),90.2,6297.65
+9163-GHAYE,Female,0,No,No,165795,Yes,No,Electronic check,48.85,736.8
+3217-FZDMN,Female,1,No,No,49653,Yes,No,Credit card (automatic),94.45,742.95
+5480-HPRRX,Female,1,No,No,163349,No,No phone service,Electronic check,25.3,77.75
+4918-FYJNT,Female,1,Yes,No,12696,Yes,Yes,Electronic check,90.45,5044.8
+7721-DVEKZ,Female,0,No,No,61403,Yes,No,Mailed check,19.65,19.65
+3755-JBMNH,Male,1,Yes,No,186391,Yes,No,Bank transfer (automatic),71.8,1167.8
+4106-HADHQ,Male,0,Yes,Yes,194411,Yes,No,Credit card (automatic),80,3182.95
+3045-XETSH,Female,0,No,No,11511,Yes,Yes,Electronic check,94.85,953.45
+0345-XMMUG,Female,0,Yes,No,86676,Yes,Yes,Credit card (automatic),108.9,4854.3
+7669-LCRSD,Male,0,Yes,Yes,216364,Yes,No,Mailed check,56.3,628.65
+8402-OOOHJ,Female,0,No,No,196468,Yes,No,Mailed check,20.65,835.15
+3571-RFHAR,Male,0,No,No,24963,Yes,Yes,Electronic check,109.15,6941.2
+4692-NNQRU,Female,0,Yes,No,65374,Yes,No,Electronic check,79.2,1742.45
+5419-CONWX,Female,1,No,No,151474,Yes,No,Credit card (automatic),99.8,442.85
+7503-MIOGA,Female,1,Yes,No,53924,Yes,Yes,Bank transfer (automatic),89.85,6697.35
+5968-HYJRZ,Male,0,Yes,Yes,138373,Yes,Yes,Mailed check,24.55,1160.45
+7654-YWJUF,Male,0,Yes,No,208008,Yes,No,Bank transfer (automatic),84.25,3539.25
+6859-QNXIQ,Female,0,Yes,Yes,135590,Yes,Yes,Bank transfer (automatic),113.1,8248.5
+3199-NPKCN,Female,0,Yes,No,183799,Yes,Yes,Electronic check,111.25,7511.65
+0345-HKJVM,Female,0,No,No,161077,Yes,No,Electronic check,89.3,577.6
+7581-EBBOU,Female,0,No,No,52442,Yes,No,Credit card (automatic),70.15,4224.7
+5996-NRVXR,Male,1,Yes,No,150312,Yes,No,Credit card (automatic),98.15,4116.8
+7973-DZRKH,Female,0,No,Yes,41569,Yes,Yes,Credit card (automatic),90.95,5930.05
+0823-HSCDJ,Male,1,No,No,62844,No,No phone service,Electronic check,49.15,2550.9
+8149-RSOUN,Female,0,No,No,144919,Yes,Yes,Electronic check,93.85,93.85
+5708-EVONK,Female,0,Yes,Yes,108431,Yes,Yes,Bank transfer (automatic),93.4,5435.6
+0301-FIDRB,Female,0,Yes,Yes,74917,No,No phone service,Bank transfer (automatic),63.8,4684.3
+3318-OSATS,Male,1,No,No,149731,Yes,Yes,Electronic check,95.45,3474.05
+1927-QEWMY,Female,0,Yes,No,167688,Yes,No,Credit card (automatic),20.5,1502.25
+9701-CDXHR,Female,0,Yes,No,42897,Yes,No,Mailed check,69.15,3649.6
+3308-DGHKL,Male,0,No,No,146692,Yes,No,Bank transfer (automatic),19.3,1447.9
+6227-FBDXH,Male,0,Yes,No,225068,Yes,Yes,Bank transfer (automatic),99.5,6841.45
+9256-JTBNZ,Female,0,No,No,50712,Yes,No,Bank transfer (automatic),20.3,246.3
+5351-QESIO,Male,0,No,Yes,184234,No,No phone service,Mailed check,24.2,24.2
+6496-SLWHQ,Male,1,No,No,182059,Yes,Yes,Electronic check,105,294.45
+2153-MREFK,Female,0,Yes,No,205988,Yes,Yes,Electronic check,99.2,3754.6
+5167-GBFRE,Male,1,No,No,226679,No,No phone service,Bank transfer (automatic),25.2,102.5
+6173-GOLSU,Male,1,Yes,No,187608,Yes,Yes,Credit card (automatic),94.65,6079
+5522-NYKPB,Male,0,Yes,Yes,186343,Yes,No,Electronic check,85.9,2199.05
+2990-IAJSV,Male,0,No,No,111220,Yes,Yes,Bank transfer (automatic),92,6632.75
+6483-OATDN,Male,0,Yes,Yes,113740,Yes,No,Credit card (automatic),51.3,411.6
+4572-DVCGN,Female,0,No,No,70407,Yes,No,Bank transfer (automatic),80.25,846
+7787-BNTZM,Male,0,No,No,123627,Yes,No,Bank transfer (automatic),20.15,130.5
+1309-XGFSN,Male,1,Yes,Yes,65275,Yes,Yes,Electronic check,80.85,4079.55
+3810-PJUHR,Male,0,Yes,Yes,127894,Yes,Yes,Mailed check,25.35,1715.15
+2000-DHJUY,Female,1,Yes,No,16856,Yes,Yes,Bank transfer (automatic),92.2,6474.45
+5995-LFTLE,Male,0,No,No,573,Yes,Yes,Credit card (automatic),25.3,1474.35
+8205-VSLRB,Male,0,Yes,No,86226,Yes,Yes,Credit card (automatic),77.3,5498.2
+6928-ONTRW,Female,0,Yes,Yes,25814,Yes,No,Credit card (automatic),19.7,1379.8
+5498-IBWPI,Female,0,Yes,Yes,101319,Yes,No,Credit card (automatic),49.4,3251.85
+3845-JHAMY,Female,0,Yes,Yes,158137,No,No phone service,Credit card (automatic),35.5,552.7
+4504-YOULA,Female,0,Yes,Yes,139537,Yes,Yes,Credit card (automatic),59.45,2136.9
+9776-OJUZI,Female,1,No,No,221928,Yes,Yes,Bank transfer (automatic),95.45,6223.3
+3798-EPWRR,Female,1,No,No,69870,Yes,No,Electronic check,43.95,85.1
+1376-HHBDV,Female,0,No,No,208451,Yes,No,Mailed check,48.8,1536.75
+9436-ZBZCT,Male,0,No,No,57390,Yes,Yes,Electronic check,89.95,1178.4
+4797-MIWUM,Male,0,Yes,Yes,131307,Yes,No,Bank transfer (automatic),20.25,174.7
+7198-GLXTC,Male,0,No,No,151447,Yes,No,Electronic check,79,143.65
+0455-ENTCR,Male,0,Yes,No,170060,Yes,Yes,Electronic check,85.25,5538.35
+0463-WZZKO,Male,0,No,No,164233,Yes,No,Credit card (automatic),20.75,67.1
+6849-WLEYG,Male,0,No,Yes,197644,Yes,No,Mailed check,19.75,19.75
+9281-CEDRU,Female,0,Yes,No,133441,Yes,No,Bank transfer (automatic),64.1,4326.25
+8861-HGGKB,Female,0,No,No,51690,Yes,Yes,Electronic check,86.45,830.85
+9139-WQQDY,Female,0,Yes,Yes,191217,Yes,Yes,Mailed check,100.45,4941.8
+8204-TIFGJ,Female,0,No,No,150787,Yes,No,Bank transfer (automatic),20.3,470.6
+9290-SHCMB,Female,1,No,No,15825,Yes,No,Electronic check,96.85,1235.55
+6734-JDTTV,Male,0,Yes,Yes,220297,Yes,No,Credit card (automatic),19.85,1267.05
+5697-GOMBF,Female,1,Yes,Yes,63440,No,No phone service,Electronic check,35.9,973.65
+5644-PDMZC,Female,1,No,No,175766,Yes,Yes,Electronic check,89.5,161.5
+3987-KQDDU,Male,0,No,No,137772,Yes,No,Electronic check,75.6,661.55
+4176-FXYBO,Male,0,Yes,No,132089,Yes,Yes,Electronic check,109.55,6118.95
+0074-HDKDG,Male,0,Yes,Yes,229553,Yes,No,Bank transfer (automatic),61.6,1611
+1635-HDGFT,Female,0,No,Yes,24628,Yes,No,Mailed check,20.5,398.55
+2790-XUYMV,Male,0,No,Yes,225341,Yes,Yes,Credit card (automatic),85.45,6028.95
+3982-JGSFD,Male,0,No,No,83354,Yes,No,Credit card (automatic),20.35,695.85
+8573-CGOCC,Male,0,No,No,15332,Yes,No,Credit card (automatic),19.75,294.9
+8515-OCTJS,Female,0,No,No,197453,Yes,Yes,Credit card (automatic),24.75,692.1
+3115-JPJDD,Female,0,Yes,No,28351,Yes,No,Credit card (automatic),81.25,4639.45
+0562-HKHML,Male,0,Yes,Yes,36222,Yes,Yes,Credit card (automatic),23.9,1626.4
+4187-CINZD,Female,1,No,No,139601,Yes,No,Credit card (automatic),95.25,4424.2
+5840-NVDCG,Female,0,Yes,Yes,184097,Yes,No,Bank transfer (automatic),68.25,1114.85
+8610-WFCJF,Female,0,Yes,Yes,56527,Yes,Yes,Electronic check,95.6,4783.5
+6840-RESVB,Male,0,Yes,Yes,92617,Yes,Yes,Mailed check,84.8,1990.5
+7881-EVUAD,Female,0,No,No,96918,No,No phone service,Electronic check,42.6,72.4
+1697-BCSHV,Female,0,Yes,Yes,117580,Yes,Yes,Bank transfer (automatic),66.8,3970.4
+7577-SWIFR,Male,0,No,No,136793,Yes,No,Electronic check,89.25,89.25
+7460-ITWWP,Female,1,Yes,No,19032,Yes,No,Electronic check,86.1,3861.45
+6608-QQLVK,Male,0,No,No,180680,Yes,No,Electronic check,50.5,50.5
+2761-XECQW,Male,1,Yes,No,216187,No,No phone service,Mailed check,43.35,371.4
+7270-BDIOA,Female,0,No,No,123004,Yes,Yes,Electronic check,90,1993.8
+0052-DCKON,Male,0,Yes,No,231564,Yes,Yes,Bank transfer (automatic),115.8,7942.15
+3235-ETOOB,Male,0,Yes,No,107437,Yes,No,Electronic check,74.5,609.9
+3865-YIOTT,Male,0,Yes,Yes,30378,Yes,Yes,Bank transfer (automatic),106.1,7848.5
+7771-CFQRQ,Female,0,Yes,Yes,126350,Yes,No,Bank transfer (automatic),63.8,3007.25
+8111-RKSPX,Male,0,No,No,122685,Yes,Yes,Bank transfer (automatic),72.2,305.55
+6311-UEUME,Female,0,No,No,26929,Yes,No,Electronic check,78.9,2384.15
+3963-RYFNS,Female,0,No,No,197227,Yes,Yes,Bank transfer (automatic),116.45,8013.55
+6127-ISGTU,Female,0,Yes,No,24153,Yes,Yes,Electronic check,84.95,1378.25
+4234-XTNEA,Male,0,No,No,56297,Yes,No,Electronic check,79.95,174.45
+7551-JOHTI,Female,0,No,No,181391,Yes,No,Mailed check,19.5,19.5
+3533-UVMOM,Male,0,Yes,No,192273,Yes,No,Bank transfer (automatic),70.95,4741.45
+6551-ZCOTS,Male,1,No,No,194919,Yes,Yes,Bank transfer (automatic),24.9,847.8
+9063-ZGTUY,Female,0,Yes,Yes,71182,Yes,No,Mailed check,19.4,1182.55
+4816-LXZYW,Female,0,No,No,105122,Yes,Yes,Electronic check,79.15,1676.95
+6937-GCDGQ,Male,0,Yes,Yes,155012,Yes,No,Bank transfer (automatic),48.95,955.6
+7321-ZNSLA,Male,0,Yes,Yes,152978,No,No phone service,Mailed check,40.55,590.35
+2057-ZBLPD,Female,0,Yes,No,44500,Yes,Yes,Electronic check,86.5,1808.7
+0471-ARVMX,Female,1,Yes,No,199258,Yes,Yes,Electronic check,104.85,6312.9
+1984-GPTEH,Female,0,No,No,207934,Yes,Yes,Electronic check,25.15,702
+1576-PFZIW,Male,1,Yes,No,35817,Yes,No,Credit card (automatic),105.35,7511.9
+8378-LKJAF,Male,0,Yes,Yes,220057,Yes,Yes,Credit card (automatic),101.15,3956.7
+2091-RFFBA,Female,1,No,No,223949,Yes,Yes,Electronic check,73.9,2217.15
+7153-OANIO,Male,0,No,No,103846,Yes,No,Electronic check,69.95,69.95
+3085-QUOZK,Female,0,No,No,117071,Yes,No,Mailed check,43.95,43.95
+3850-OKINF,Male,0,Yes,Yes,70163,Yes,Yes,Electronic check,66.2,4692.55
+1354-YZFNB,Male,0,Yes,Yes,9539,Yes,No,Credit card (automatic),19.55,68.8
+8183-ONMXC,Female,0,No,No,48885,Yes,No,Electronic check,80.75,159.45
+3137-LUPIX,Female,0,No,No,139150,Yes,Yes,Mailed check,64.4,253
+3705-RHRFR,Female,0,Yes,No,221271,Yes,Yes,Bank transfer (automatic),99.15,6875.35
+0083-PIVIK,Male,0,No,No,159505,Yes,Yes,Electronic check,81.25,5567.55
+8782-NUUOL,Male,0,No,No,84471,Yes,No,Mailed check,79,4801.1
+8000-REIQB,Female,1,No,No,75569,Yes,No,Electronic check,69.95,69.95
+4191-XOVOM,Male,0,No,No,128091,Yes,Yes,Electronic check,105.4,6713.2
+9631-RXVJM,Male,0,No,No,26410,Yes,No,Mailed check,19.25,677.9
+2528-HFYZX,Male,1,Yes,No,41235,Yes,No,Electronic check,76.45,1233.4
+4159-NAAIX,Female,0,No,No,94782,Yes,Yes,Bank transfer (automatic),97.45,6253
+1697-NVVGY,Male,1,Yes,No,107099,Yes,No,Bank transfer (automatic),66.4,1286.05
+0115-TFERT,Male,0,Yes,No,61443,Yes,Yes,Electronic check,111.2,2317.1
+8421-WZOOW,Female,1,Yes,Yes,154640,Yes,No,Credit card (automatic),95.3,5567.45
+3345-PBBFH,Male,0,Yes,No,150052,Yes,No,Bank transfer (automatic),49.55,393.45
+6490-FGZAT,Male,0,No,No,70379,Yes,No,Mailed check,20.65,109.3
+5317-FLPJF,Female,0,No,No,57592,No,No phone service,Bank transfer (automatic),61.35,4193.4
+3795-GWTRD,Female,0,Yes,Yes,57587,Yes,No,Credit card (automatic),75.55,4707.85
+8417-GSODA,Male,0,Yes,Yes,201861,Yes,Yes,Bank transfer (automatic),92.2,2568.15
+7850-VWJUU,Female,0,No,No,214617,Yes,No,Bank transfer (automatic),75,1778.5
+1498-DQNRX,Female,0,Yes,No,143352,Yes,No,Mailed check,19.85,573.05
+8490-BXHEO,Male,1,No,No,65729,Yes,Yes,Credit card (automatic),80.55,1411.65
+3160-TYXLT,Male,0,No,No,231867,No,No phone service,Bank transfer (automatic),46.3,2546.85
+3468-DRVQJ,Female,0,Yes,Yes,198008,Yes,Yes,Electronic check,70.3,676.15
+4835-YSJMR,Male,0,No,No,131692,Yes,No,Bank transfer (automatic),49.8,1971.15
+6217-TOWGS,Female,0,Yes,No,76673,Yes,Yes,Bank transfer (automatic),75.4,1322.55
+0048-LUMLS,Male,0,Yes,Yes,187711,Yes,No,Credit card (automatic),91.2,3247.55
+3769-MHZNV,Female,0,Yes,Yes,199405,Yes,No,Mailed check,20.1,670.35
+6668-CNMFP,Female,0,Yes,Yes,90585,Yes,Yes,Bank transfer (automatic),89.35,1686.85
+0567-GGCAC,Female,0,No,No,169443,Yes,No,Electronic check,61.4,438.9
+0260-ZDLGK,Female,0,No,Yes,142502,Yes,No,Mailed check,72.9,651.4
+3308-JSGML,Male,1,Yes,No,85533,No,No phone service,Credit card (automatic),64.05,3886.85
+0036-IHMOT,Female,0,Yes,Yes,173976,Yes,No,Bank transfer (automatic),103.7,5656.75
+9763-PDTKK,Female,0,No,No,124230,Yes,No,Bank transfer (automatic),94.4,387.2
+8727-JQFHV,Male,0,Yes,Yes,205712,Yes,No,Mailed check,20.75,1123.15
+4304-TSPVK,Female,0,Yes,No,1273,Yes,Yes,Bank transfer (automatic),114.9,7843.55
+5148-ORICT,Female,0,Yes,No,67714,Yes,No,Mailed check,74.35,4759.55
+2234-XADUH,Female,0,Yes,Yes,55827,Yes,Yes,Credit card (automatic),103.2,7362.9
+5383-MMTWC,Female,1,Yes,No,580,Yes,Yes,Electronic check,84,613.4
+8513-OLYGY,Male,0,Yes,No,144834,Yes,Yes,Credit card (automatic),115.8,8332.15
+5133-POWUA,Male,0,No,No,100879,Yes,No,Mailed check,45.8,45.8
+6244-BESBM,Male,0,Yes,Yes,57664,Yes,No,Credit card (automatic),95.2,6671.7
+1206-EHBDD,Female,0,Yes,No,116050,Yes,No,Bank transfer (automatic),80.3,4513.65
+4283-IVYCI,Male,0,No,No,230113,Yes,No,Mailed check,64.95,547.8
+9804-ICWBG,Male,0,No,No,151062,Yes,No,Electronic check,69.9,69.9
+4759-PXTAN,Female,0,Yes,No,166195,Yes,Yes,Electronic check,80.1,4693.2
+2694-CIUMO,Female,0,No,No,197190,Yes,Yes,Credit card (automatic),79.55,958.25
+0219-YTZUE,Male,0,Yes,Yes,90183,Yes,Yes,Bank transfer (automatic),84.8,371.9
+6168-WFVVF,Female,1,No,No,135799,Yes,No,Electronic check,70.3,235.5
+7794-JASDG,Male,0,No,No,214367,Yes,No,Mailed check,50.75,50.75
+0468-YRPXN,Male,0,No,No,231258,Yes,No,Credit card (automatic),98.8,2807.1
+4973-MGTON,Female,0,Yes,No,129950,Yes,No,Credit card (automatic),84.4,5969.3
+6543-JXSOO,Female,0,Yes,Yes,52277,Yes,No,Mailed check,57.75,1282.85
+1222-LRYKO,Male,0,No,Yes,99084,Yes,Yes,Mailed check,26.35,184.05
+5917-HBSDW,Female,0,Yes,Yes,90960,Yes,No,Electronic check,19.35,683.75
+0496-AHOOK,Male,0,Yes,No,6492,Yes,No,Bank transfer (automatic),74.4,1712.9
+2040-VZIKE,Female,0,Yes,No,8349,Yes,Yes,Mailed check,100.85,4847.35
+3737-GCSPV,Female,0,Yes,No,29753,Yes,Yes,Credit card (automatic),96.2,1222.05
+2578-JQPHZ,Male,0,No,No,105524,Yes,No,Bank transfer (automatic),100.1,4378.35
+6674-KVJHG,Female,0,No,No,132064,Yes,Yes,Electronic check,25.2,245.15
+1395-OFUWC,Male,0,Yes,Yes,223121,No,No phone service,Credit card (automatic),29.3,1224.05
+6689-KXGBO,Female,0,No,No,222856,Yes,No,Electronic check,50.55,50.55
+3389-KTRXV,Female,0,Yes,Yes,231694,Yes,Yes,Mailed check,23.85,625.65
+6575-SUVOI,Female,1,Yes,No,101552,Yes,Yes,Credit card (automatic),69.5,1752.65
+8107-KNCIM,Male,1,Yes,No,207935,Yes,Yes,Electronic check,75.1,1013.35
+4547-KQRTM,Female,0,No,No,12892,Yes,Yes,Bank transfer (automatic),80.05,830.7
+5566-SOEZD,Male,0,Yes,Yes,90847,Yes,No,Credit card (automatic),80.65,2209.75
+5052-PNLOS,Male,0,No,No,174063,Yes,Yes,Bank transfer (automatic),105.35,323.25
+7554-NEWDD,Male,0,No,No,120304,Yes,Yes,Bank transfer (automatic),25.7,251.6
+9708-HPXWZ,Male,1,No,No,106394,No,No phone service,Credit card (automatic),45.4,214.75
+5939-SXWHM,Male,0,Yes,Yes,13785,Yes,Yes,Bank transfer (automatic),26.3,1245.05
+7351-KYHQH,Female,1,No,No,114795,Yes,No,Electronic check,64.95,493.65
+6281-FKEWS,Female,0,No,No,146758,No,No phone service,Electronic check,49.05,2265
+1597-FZREH,Female,0,No,No,212746,Yes,No,Electronic check,76.4,160.8
+2919-HBCJO,Female,0,No,No,145622,Yes,No,Bank transfer (automatic),76.65,333.6
+5394-SVGJV,Male,0,No,No,95937,Yes,Yes,Bank transfer (automatic),98.8,3475.55
+6112-KTHFQ,Female,0,No,No,142533,Yes,No,Mailed check,19.3,279.3
+1898-JSNDC,Female,0,No,No,54772,Yes,No,Credit card (automatic),58.6,2224.5
+7995-ZHHNZ,Male,0,Yes,No,160675,Yes,Yes,Credit card (automatic),56.1,2386.85
+2165-VOEGB,Female,0,No,Yes,178153,Yes,No,Bank transfer (automatic),105.2,4822.85
+7746-QYVCO,Male,0,Yes,Yes,148373,Yes,No,Mailed check,55.85,857.8
+5126-RCXYW,Male,0,Yes,Yes,228235,No,No phone service,Credit card (automatic),46,2424.05
+5951-AOFIH,Male,0,No,No,15621,Yes,No,Credit card (automatic),66.4,2245.4
+2582-FFFZR,Female,0,No,No,166692,No,No phone service,Electronic check,50.6,1073.3
+2758-RNWXS,Male,0,No,No,89070,Yes,No,Electronic check,89.2,3251.3
+9986-BONCE,Female,0,No,No,72257,Yes,No,Bank transfer (automatic),20.95,85.5
+8559-WNQZS,Male,0,No,No,160474,Yes,No,Mailed check,20.45,20.45
+4980-URKXC,Male,0,Yes,No,65134,Yes,No,Bank transfer (automatic),20.85,720.05
+3099-OONVS,Male,0,Yes,Yes,98876,Yes,No,Electronic check,54.3,1296.8
+2710-WYVXG,Female,0,No,No,8988,Yes,No,Mailed check,71.1,213.35
+5590-BYNII,Male,0,No,No,114029,Yes,Yes,Electronic check,100.75,2095
+0265-PSUAE,Female,0,Yes,Yes,103842,Yes,No,Bank transfer (automatic),100.7,1522.7
+8152-UOBNY,Female,1,No,No,178407,Yes,Yes,Electronic check,106.8,5347.95
+8003-EWNDZ,Female,0,No,No,13507,Yes,No,Electronic check,21.2,222.65
+4404-HIBDJ,Female,0,No,No,958,Yes,No,Mailed check,74.3,1863.8
+5959-BELXA,Male,1,No,No,165926,Yes,Yes,Credit card (automatic),96.15,3019.25
+7643-RCHXS,Female,0,Yes,Yes,71832,Yes,No,Electronic check,19.35,1263.85
+4468-YDOVK,Male,0,No,Yes,117413,Yes,No,Bank transfer (automatic),48.65,235.2
+8919-FYFQZ,Male,1,Yes,No,12816,No,No phone service,Electronic check,30.35,1359.7
+5565-FILXA,Female,1,No,No,697,Yes,Yes,Electronic check,96.15,1529.2
+5815-HGGHV,Male,0,Yes,No,153980,Yes,No,Mailed check,64.15,1274.45
+1552-AAGRX,Female,0,No,No,88979,Yes,Yes,Bank transfer (automatic),106.4,3211.9
+7269-JISCY,Female,0,No,No,180522,Yes,No,Bank transfer (automatic),45.05,2462.6
+5446-DKWYW,Female,1,Yes,Yes,92778,Yes,Yes,Electronic check,65.2,3965.05
+3506-LCJDC,Male,0,Yes,Yes,230621,Yes,No,Bank transfer (automatic),19.95,19.95
+0956-ACVZC,Female,0,No,No,16152,Yes,No,Credit card (automatic),94.1,5060.9
+2482-CZGBB,Male,0,No,No,116171,Yes,No,Electronic check,70,740
+6682-QJDGB,Male,0,No,Yes,87686,Yes,No,Mailed check,55.25,2139.2
+3128-YOVTD,Female,0,Yes,Yes,200714,Yes,No,Bank transfer (automatic),79.15,4018.55
+1090-ESELR,Male,0,Yes,Yes,203158,Yes,No,Bank transfer (automatic),105.5,7611.55
+9570-KYEUA,Male,0,No,No,26781,Yes,Yes,Credit card (automatic),99.25,6549.45
+4707-MAXGU,Male,0,Yes,No,110987,Yes,Yes,Credit card (automatic),25.85,1872.2
+7872-BAAZR,Female,0,Yes,Yes,107419,Yes,No,Bank transfer (automatic),19.55,1007.9
+2592-SEIFQ,Male,0,No,No,231224,No,No phone service,Electronic check,24.75,66.95
+9603-OAIHC,Male,1,No,No,53804,Yes,No,Electronic check,70.05,70.05
+0637-UBJRP,Male,0,Yes,Yes,118617,Yes,No,Electronic check,84.05,1095.3
+5057-LCOUI,Female,0,No,No,165405,No,No phone service,Electronic check,50.75,2011.4
+2754-XBHTB,Female,0,No,No,127255,Yes,No,Bank transfer (automatic),77.65,714.15
+6518-KZXCB,Male,0,No,No,178010,Yes,Yes,Mailed check,25.25,566.5
+5331-RGMTT,Male,1,Yes,No,32930,Yes,Yes,Credit card (automatic),99.05,5295.7
+1430-SFQSA,Male,0,No,No,60760,No,No phone service,Mailed check,35.6,1072.6
+2889-FPWRM,Male,0,Yes,No,147725,Yes,Yes,Bank transfer (automatic),117.8,8684.8
+2251-PYLPB,Male,0,Yes,No,55080,Yes,Yes,Credit card (automatic),79.55,5810.9
+6599-RCLCJ,Male,0,Yes,No,213893,Yes,Yes,Electronic check,109.55,5124.55
+5155-AZQPB,Female,0,Yes,Yes,51759,Yes,Yes,Mailed check,49.9,1410.25
+8167-GJLRN,Male,0,No,No,88918,No,No phone service,Electronic check,30.4,82.15
+4304-XUMGI,Male,1,Yes,Yes,205352,Yes,Yes,Bank transfer (automatic),75.15,3822.45
+4510-HIMLV,Male,0,No,No,205319,Yes,No,Electronic check,69.8,69.8
+5349-IECLD,Male,0,No,No,213788,Yes,No,Electronic check,94.95,178.1
+3717-OEAUQ,Male,0,No,No,54418,Yes,No,Mailed check,70.7,129.2
+1984-FCOWB,Female,0,Yes,No,227845,Yes,Yes,Electronic check,109.5,7674.55
+5973-EJGDP,Male,0,No,No,71703,Yes,Yes,Electronic check,87.35,4473
+2378-VTKDH,Male,1,Yes,No,226879,Yes,Yes,Electronic check,104.35,6578.55
+7274-RTAPZ,Male,0,No,No,50895,Yes,No,Electronic check,90.55,90.55
+0811-GSDTP,Female,0,No,Yes,118729,No,No phone service,Electronic check,30.15,382.2
+1450-GALXR,Female,0,No,No,132551,Yes,Yes,Electronic check,98.5,1058.25
+8380-MQINP,Female,0,Yes,Yes,75967,Yes,No,Mailed check,20.3,1079.05
+9210-IAHGH,Female,0,No,No,132464,Yes,No,Credit card (automatic),70.75,450.8
+1179-INLAT,Male,0,No,No,130128,Yes,No,Mailed check,19.45,69.25
+0756-MPZRL,Male,0,No,No,133458,No,No phone service,Credit card (automatic),33.7,1537.85
+4369-NYSCF,Male,0,No,No,226894,Yes,No,Bank transfer (automatic),75.75,4284.65
+7017-VFHAY,Female,0,Yes,Yes,227090,Yes,Yes,Credit card (automatic),115.1,7008.15
+1485-YDHMM,Male,0,Yes,Yes,104741,Yes,Yes,Bank transfer (automatic),93.25,4631.7
+1041-RXHRA,Female,0,No,No,100932,Yes,No,Bank transfer (automatic),70.25,2868.05
+3696-DFHHB,Female,0,No,No,145894,Yes,Yes,Bank transfer (automatic),25.5,1821.8
+9917-KWRBE,Female,0,Yes,Yes,213276,Yes,Yes,Credit card (automatic),78.35,3211.2
+2391-IPLOP,Male,0,Yes,Yes,93254,Yes,Yes,Electronic check,69.65,3442.15
+3669-WHAFY,Female,0,Yes,No,9772,Yes,Yes,Credit card (automatic),115.15,8078.1
+0921-OHLVP,Male,0,No,No,158325,Yes,Yes,Electronic check,83.05,1799.3
+8514-VZHEB,Male,0,Yes,Yes,165795,Yes,No,Mailed check,19.5,1147.85
+7326-RIGQZ,Male,0,Yes,Yes,49653,Yes,No,Electronic check,69.8,377.85
+7951-QKZPL,Female,0,Yes,Yes,163349,Yes,Yes,Mailed check,24.5,740.3
+7812-FZHPE,Female,0,Yes,Yes,12696,Yes,Yes,Mailed check,24.1,409.9
+6322-HRPFA,Male,0,Yes,Yes,61403,Yes,No,Credit card (automatic),59.6,2970.3
+2302-OUZXB,Male,0,Yes,No,186391,Yes,Yes,Bank transfer (automatic),82.15,5784.3
+7029-RPUAV,Male,1,Yes,No,194411,Yes,Yes,Credit card (automatic),100.45,1622.45
+7105-BENQF,Male,0,No,Yes,11511,Yes,No,Mailed check,64.85,950.75
+2466-NEJOJ,Male,0,Yes,Yes,86676,Yes,No,Credit card (automatic),19.65,169.75
+1852-XEMDW,Male,0,No,No,216364,Yes,Yes,Mailed check,65.05,1427.55
+2263-SFSQZ,Male,0,Yes,Yes,196468,Yes,Yes,Mailed check,24.95,1222.25
+5712-AHQNN,Female,0,No,No,24963,Yes,No,Electronic check,91.65,3954.1
+9743-DQKQW,Male,0,No,No,65374,No,No phone service,Electronic check,25.1,79.8
+8552-OBVRU,Female,1,Yes,Yes,151474,Yes,No,Electronic check,104.5,5068.05
+4086-ATNFV,Female,0,Yes,Yes,53924,Yes,No,Mailed check,60.8,2042.05
+2403-BCASL,Male,1,Yes,Yes,138373,Yes,Yes,Electronic check,111.95,4534.9
+8561-NMTBD,Female,0,Yes,Yes,208008,Yes,Yes,Credit card (automatic),112.35,7388.45
+5448-VWNAM,Female,0,No,Yes,135590,Yes,Yes,Mailed check,75.9,1375.6
+8769-KKTPH,Female,0,Yes,Yes,183799,Yes,Yes,Credit card (automatic),99.65,6311.2
+7831-QGOXH,Female,0,No,No,161077,Yes,Yes,Electronic check,85.2,1553.9
+2480-JZOSN,Female,0,Yes,No,52442,Yes,No,Mailed check,20.65,20.65
+2982-VPSGI,Female,0,Yes,No,150312,Yes,Yes,Electronic check,94,1078.9
+8496-DMZUK,Male,0,No,No,41569,Yes,Yes,Bank transfer (automatic),90.4,2820.65
+3858-VOBET,Male,0,No,No,62844,Yes,Yes,Electronic check,74.95,1710.45
+4484-GLZOU,Female,0,Yes,No,144919,Yes,Yes,Electronic check,105.05,5624.85
+0594-UFTUL,Male,0,Yes,Yes,108431,Yes,No,Mailed check,19.85,252
+0757-WCUUZ,Male,0,Yes,Yes,74917,Yes,Yes,Credit card (automatic),63.35,3409.1
+8286-AFUYI,Male,0,No,No,149731,Yes,No,Electronic check,47.95,47.95
+2868-LLSKM,Female,0,Yes,Yes,167688,Yes,Yes,Bank transfer (automatic),83.65,5733.4
+4957-TREIR,Male,0,No,No,42897,Yes,No,Credit card (automatic),64.4,195.65
+6416-TVAIH,Male,0,Yes,Yes,146692,Yes,No,Electronic check,68.5,68.5
+9259-PACGQ,Female,0,Yes,No,225068,Yes,Yes,Electronic check,62.65,2274.9
+2676-SSLTO,Male,0,No,No,50712,Yes,Yes,Bank transfer (automatic),66.15,3199
+8143-ETQTI,Female,0,Yes,Yes,184234,Yes,No,Mailed check,19.65,451.55
+0831-JNISG,Male,0,Yes,Yes,182059,Yes,No,Mailed check,19.8,1396.25
+3572-UOLYZ,Female,0,No,Yes,205988,Yes,Yes,Bank transfer (automatic),84.8,3958.85
+7550-WIQVA,Male,0,Yes,Yes,226679,Yes,Yes,Electronic check,108.25,5431.4
+7568-PODML,Male,0,No,No,187608,No,No phone service,Mailed check,45.3,45.3
+7567-ECMCM,Male,0,No,No,186343,Yes,No,Credit card (automatic),79.85,2001
+6445-TNRXS,Male,0,Yes,Yes,111220,Yes,Yes,Bank transfer (automatic),114.7,7849.85
+8174-LNWMW,Female,0,No,No,113740,Yes,No,Credit card (automatic),20.9,689.35
+3566-CAAYU,Female,0,Yes,Yes,70407,No,No phone service,Electronic check,49.85,3210.35
+2845-HSJCY,Female,0,Yes,Yes,123627,Yes,Yes,Electronic check,87.25,1258.6
+9501-UKKNL,Male,0,No,No,65275,No,No phone service,Electronic check,51.7,3005.8
+5214-NLTIT,Male,0,Yes,Yes,127894,Yes,Yes,Credit card (automatic),90.8,6511.8
+7295-JOMMD,Female,0,No,Yes,16856,Yes,No,Bank transfer (automatic),98.1,396.3
+3707-LRWZD,Female,0,No,No,573,Yes,Yes,Electronic check,84.05,2781.85
+2573-GYRUU,Male,1,Yes,No,86226,Yes,Yes,Credit card (automatic),91.05,4370.75
+6295-OSINB,Male,0,Yes,No,25814,Yes,Yes,Electronic check,109.65,7880.25
+3071-VBYPO,Male,0,Yes,Yes,101319,Yes,No,Electronic check,89.85,248.4
+8639-NHQEI,Female,0,Yes,Yes,158137,Yes,Yes,Bank transfer (automatic),95.9,6954.15
+5950-AAAGJ,Male,0,No,No,139537,Yes,Yes,Bank transfer (automatic),84.3,1537.9
+2274-XUATA,Male,1,Yes,No,221928,No,No phone service,Bank transfer (automatic),63.1,4685.55
+5307-DZCVC,Female,1,Yes,No,69870,Yes,Yes,Credit card (automatic),85.95,2628.6
+1564-NTYXF,Female,1,No,No,208451,Yes,Yes,Electronic check,82,1127.2
+0909-SDHNU,Female,0,No,Yes,57390,No,No phone service,Mailed check,29.8,201.95
+5876-HZVZM,Female,0,Yes,Yes,131307,Yes,No,Credit card (automatic),55.9,365.35
+1575-KRZZE,Female,0,No,No,151447,Yes,No,Electronic check,55.2,220.65
+3752-CQSJI,Female,0,Yes,Yes,170060,Yes,No,Mailed check,20.45,254.5
+0868-VJRDR,Male,0,Yes,No,164233,Yes,No,Credit card (automatic),104.05,6605.55
+9584-EXCDZ,Female,0,No,No,197644,Yes,No,Bank transfer (automatic),70.5,1165.6
+0980-PVMRC,Female,0,Yes,Yes,133441,No,No phone service,Electronic check,50.85,2036.55
+8108-UXRQN,Female,0,Yes,Yes,51690,No,No phone service,Electronic check,50.55,565.35
+6377-KSLXC,Male,0,No,No,191217,Yes,No,Mailed check,19.95,107.05
+7892-QVYKW,Female,0,Yes,Yes,150787,Yes,Yes,Electronic check,85.6,1868.4
+8932-CZHRQ,Male,0,No,No,15825,Yes,Yes,Credit card (automatic),76.75,5233.25
+2254-DLXRI,Female,0,No,No,220297,Yes,Yes,Mailed check,79.15,79.15
+4077-HWUYD,Male,0,Yes,Yes,63440,Yes,Yes,Bank transfer (automatic),87.55,6463.15
+8745-PVESG,Female,0,No,No,175766,No,No phone service,Credit card (automatic),41.1,2258.25

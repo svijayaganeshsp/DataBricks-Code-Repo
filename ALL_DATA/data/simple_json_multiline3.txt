@@ -1,0 +1,7 @@
+/*this is a comment*/
+{
+"id":1,
+"name":"mohamed irfan",
+"amt":20.3,
+"dop":"2025-18-12"
+}

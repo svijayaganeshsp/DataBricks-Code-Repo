@@ -1,0 +1,14 @@
+#This is a commented line and should be ignored
+"ID","Name","Age","Salary","JoinDate","LastLogin","Notes"
+1,"John Doe",28,45000.50,01-2025-25,2024-01-25 10:15:45,"New employee"
+2,"Jane, Smith",32,55000.00,2023-12-30,2024-01-25 14:05:10
+3,"Ravi Kumar",-1,67000.75,2023-11-05,2024-02-01 08:30:00,"Null age","addon cols"
+4,"李小龍",45,88000.00,2022-05-18,2024-01-19 13:45:22,"UTF-8 Chinese name"
+5,"Carlos \"The Boss\" Pérez",38,72000.30,2023-02-11,2024-01-28 09:55:05,"Contains quotes"
+6,"Manoj",29,50000,2024-02-10,2024-02-10 17:25:55,"Line
+break
+inside notes"
+7,"Anita",41,na,2023-10-08,2024-02-02 11:11:11,"Salary is NaN"
+8,"Robert",34,47000.20,2023-06-22,2024-01-27 18:40:40,  "Leading and trailing spaces"   
+9,"",30,39000.00,2023-09-19,2024-01-26 16:20:20,"Empty name field"
+10,"#NotAComment",37,51000.10,02-2025-25,2024-02-03 12:55:30,"Starts with # but not a comment"

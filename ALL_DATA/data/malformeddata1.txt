@@ -1,0 +1,13 @@
+#This is a sample malformed data, provided by the source at times, not always
+#Spark expects data in yyyy-MM-dd format
+1,    'irfan,mohamed',20.3,2025-18-12
+2,'vasu,devan'     ,30.33,2025-18-12
+3,    'gogula'    ,40.33,2025-18-12
+4,'vaanmathi',50.22,2025-18-12
+5,'vini|'s',50.22,2025-19-12
+6,'sarubala~'s',100,2025-19-12
+7,'pradeep 
+is our 
+aspirant',200,2025-19-12
+8,'na',-1,2025-20-12
+#end of data
