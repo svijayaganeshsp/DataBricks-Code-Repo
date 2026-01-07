@@ -1,2 +1,2 @@
-# DataBricks-Code-Repo
-Repo to maintain the Data Bricks Projects and other Objects
+# databricks-code-repo
+Repo to maintain the Databricks notebook and other objects
