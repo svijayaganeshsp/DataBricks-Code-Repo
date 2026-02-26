@@ -1,4 +1,4 @@
-CREATE OR REFRESH STREAMING TABLE catalog2_we47.schema2_we47.silver_staff_dlt2
+CREATE OR REFRESH STREAMING TABLE catalog1_we47.schema1_we47.silver_staff_dlt2
 COMMENT "Standardized staff data"
 -- Adding the expectation here
 AS
@@ -10,9 +10,9 @@ SELECT
   current_timestamp() AS load_dt,
   CONCAT_WS(' ', first_name, last_name) AS staff_full_name,
   INITCAP(hub_location) AS hub_location
-FROM STREAM(catalog2_we47.schema2_we47.bronze_staff2);
+FROM STREAM(catalog1_we47.schema1_we47.bronze_staff2);
 
-CREATE OR REFRESH STREAMING TABLE catalog2_we47.schema2_we47.silver_geotag_dlt2
+CREATE OR REFRESH STREAMING TABLE catalog1_we47.schema1_we47.silver_geotag_dlt2
 COMMENT "Cleaned geotag data"
 TBLPROPERTIES ("quality" = "silver")
 AS
@@ -21,9 +21,9 @@ SELECT DISTINCT
   INITCAP(country) AS masked_hub_location,
   latitude,
   longitude
-FROM STREAM(catalog2_we47.schema2_we47.bronze_geotag2);
+FROM STREAM(catalog1_we47.schema1_we47.bronze_geotag2);
 
-CREATE OR REFRESH STREAMING TABLE catalog2_we47.schema2_we47.silver_shipments_dlt2
+CREATE OR REFRESH STREAMING TABLE catalog1_we47.schema1_we47.silver_shipments_dlt2
 COMMENT "Enriched and split shipments data"
 TBLPROPERTIES ("quality" = "silver")
 AS
@@ -49,5 +49,5 @@ SELECT
   SUBSTRING(order_id, 4, 10) AS order_sequence,
   DAY(TO_DATE(shipment_date, 'yy-MM-dd')) AS ship_day,
   CONCAT_WS('->', source_city, destination_city) AS route_lane
-FROM STREAM(catalog2_we47.schema2_we47.bronze_shipments2);
+FROM STREAM(catalog1_we47.schema1_we47.bronze_shipments2);
 

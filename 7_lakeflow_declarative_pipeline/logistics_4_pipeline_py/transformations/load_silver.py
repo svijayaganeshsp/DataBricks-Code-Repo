@@ -4,7 +4,7 @@ from pyspark.sql.functions import *
 # In general we do pip install <package-name>
 #But in Databricks we do the following - 
 # go to the Setting in the top right -> Pipeline environment -> Edit environment -> copy word2number -> apply environment
-
+#The above setting will be applying pip install in the serverless cluster
 from word2number import w2n
 
 #Python Function

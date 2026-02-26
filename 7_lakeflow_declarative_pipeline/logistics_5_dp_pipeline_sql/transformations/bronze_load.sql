@@ -1,4 +1,4 @@
-CREATE OR REFRESH STREAMING TABLE catalog2_we47.schema2_we47.bronze_staff2
+CREATE OR REFRESH STREAMING TABLE catalog1_we47.schema1_we47.bronze_staff2
 COMMENT "Raw staff data ingested from landing zone"
 TBLPROPERTIES ("quality" = "bronze",
   "delta.autoOptimize.optimizeWrite" = "true")
@@ -8,7 +8,7 @@ AS SELECT * FROM cloud_files(
   map("inferColumnTypes", "true",
     "schemaEvolutionMode", "addNewColumns"));
 
-CREATE OR REFRESH STREAMING TABLE catalog2_we47.schema2_we47.bronze_geotag2
+CREATE OR REFRESH STREAMING TABLE catalog1_we47.schema1_we47.bronze_geotag2
 COMMENT "Raw geotag data ingested from landing zone"
 TBLPROPERTIES ("quality" = "bronze")
 AS SELECT * FROM cloud_files(
@@ -17,7 +17,7 @@ AS SELECT * FROM cloud_files(
   map("inferColumnTypes", "true")
 );
 
-CREATE OR REFRESH STREAMING TABLE catalog2_we47.schema2_we47.bronze_shipments2
+CREATE OR REFRESH STREAMING TABLE catalog1_we47.schema1_we47.bronze_shipments2
 COMMENT "Raw shipments data ingested from landing zone"
 TBLPROPERTIES ("quality" = "bronze")
 AS SELECT
