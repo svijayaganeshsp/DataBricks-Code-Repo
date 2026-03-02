@@ -1,0 +1,23 @@
+resources:
+  jobs:
+    VG_DAB_Sample_Note_JOB:
+      name: VG_DAB_Sample_Note_JOB
+      trigger:
+        # Run this job every day, exactly one day from the last run; see https://docs.databricks.com/api/workspace/jobs/create#trigger
+        pause_status: UNPAUSED
+        periodic:
+          interval: 1
+          unit: DAYS
+      tasks:
+        - task_key: VG_DAB_Sample_Note_Task
+          notebook_task:
+            notebook_path: ../src/VG_DAB_Sample_Note.ipynb
+            source: WORKSPACE
+      queue:
+        enabled: true
+      parameters:
+        - name: catalog
+          default: ${var.catalog}
+        - name: schema
+          default: ${var.schema}
+      performance_target: PERFORMANCE_OPTIMIZED
